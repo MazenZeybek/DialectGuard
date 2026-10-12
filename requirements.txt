@@ -1,0 +1,5 @@
+mlx-lm==0.32.0
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+pandas==3.0.6
+numpy==2.5.4
