@@ -1,0 +1,22 @@
+Model: ibm-research/granite-4.0-h-3b-ar
+Inference framework: MLX-LM
+Hardware: Apple M2, 16 GB unified memory
+Architecture: granitemoehybrid
+License: Apache 2.0
+
+Prompt: أجب عن السؤال التالي بإجابة قصيرة ومباشرة باللغة العربية: ما هي عاصمة الأردن؟
+Temperature: 0
+Max tokens: 50
+
+Generated answer: عاصمة الأردن هي عمان.
+Expected answer: عمان
+Result: PASS
+
+Model download: 5.91 GB
+Prompt processing: 38.135 tokens/sec
+Generation speed: 26.522 tokens/sec
+Peak memory: 6.623 GB
+
+Notes:
+This is a preliminary smoke test, not a formal accuracy evaluation.
+The model loaded and generated Arabic text successfully on Apple Silicon.

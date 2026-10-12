@@ -1,0 +1,17 @@
+Model: mlx-community/gemma-3-4b-it-4bit
+Inference framework: MLX-VLM 0.7.6
+Hardware: Apple M2, 16 GB unified memory
+Prompt: أجب عن السؤال التالي بإجابة قصيرة ومباشرة باللغة العربية: ما هي عاصمة الأردن؟
+Max tokens: 50
+
+Generated answer: عمان.
+Expected answer: عمان
+Result: PASS
+
+Model download: 3.25 GB
+Generation speed: Not reported
+Peak memory: Not reported
+
+Notes:
+This is a preliminary smoke test, not a formal accuracy evaluation.
+Gemma license terms require review before final model selection.

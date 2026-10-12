@@ -1,0 +1,121 @@
+﻿question_id,variety,question,source_id,split
+DG-P001,msa,في أي مدينة وُلد جمال خاشقجي؟,74212080718,pilot_development_only
+DG-P001,jordanian,بأي مدينة انولد جمال خاشقجي؟,74212080718,pilot_development_only
+DG-P001,egyptian,جمال خاشقجي اتولد في أنهي مدينة؟,74212080718,pilot_development_only
+DG-P001,saudi_gulf,جمال خاشقجي انولد في أي مدينة؟,74212080718,pilot_development_only
+DG-P002,msa,ما عاصمة المغرب؟,945458617402,pilot_development_only
+DG-P002,jordanian,شو عاصمة المغرب؟,945458617402,pilot_development_only
+DG-P002,egyptian,إيه عاصمة المغرب؟,945458617402,pilot_development_only
+DG-P002,saudi_gulf,وش عاصمة المغرب؟,945458617402,pilot_development_only
+DG-P003,msa,من مؤسس الدولة العثمانية؟,310583692508,pilot_development_only
+DG-P003,jordanian,مين أسّس الدولة العثمانية؟,310583692508,pilot_development_only
+DG-P003,egyptian,مين اللي أسّس الدولة العثمانية؟,310583692508,pilot_development_only
+DG-P003,saudi_gulf,من اللي أسّس الدولة العثمانية؟,310583692508,pilot_development_only
+DG-P004,msa,كم ولاية تتكون منها الولايات المتحدة الأمريكية؟,676465335543,pilot_development_only
+DG-P004,jordanian,أمريكا فيها كم ولاية؟,676465335543,pilot_development_only
+DG-P004,egyptian,أمريكا فيها كام ولاية؟,676465335543,pilot_development_only
+DG-P004,saudi_gulf,أمريكا فيها كم ولاية؟,676465335543,pilot_development_only
+DG-P005,msa,في أي تاريخ بدأت الحرب العالمية الأولى؟,856341046319,pilot_development_only
+DG-P005,jordanian,بأي تاريخ بلشت الحرب العالمية الأولى؟,856341046319,pilot_development_only
+DG-P005,egyptian,الحرب العالمية الأولى بدأت يوم كام؟,856341046319,pilot_development_only
+DG-P005,saudi_gulf,في أي تاريخ بدت الحرب العالمية الأولى؟,856341046319,pilot_development_only
+DG-P006,msa,في أي تاريخ بدأت الحرب العالمية الثانية في أوروبا؟,65608032745,pilot_development_only
+DG-P006,jordanian,بأي تاريخ بلشت الحرب العالمية الثانية بأوروبا؟,65608032745,pilot_development_only
+DG-P006,egyptian,الحرب العالمية التانية بدأت في أوروبا يوم كام؟,65608032745,pilot_development_only
+DG-P006,saudi_gulf,في أي تاريخ بدت الحرب العالمية الثانية في أوروبا؟,65608032745,pilot_development_only
+DG-P007,msa,في أي دولة أُقيم كأس العالم لكرة القدم عام 2018؟,379029789792,pilot_development_only
+DG-P007,jordanian,بأي بلد انعمل كأس العالم لكرة القدم سنة 2018؟,379029789792,pilot_development_only
+DG-P007,egyptian,كأس العالم لكرة القدم سنة 2018 اتعمل في أنهي بلد؟,379029789792,pilot_development_only
+DG-P007,saudi_gulf,كأس العالم لكرة القدم سنة 2018 انقام في أي دولة؟,379029789792,pilot_development_only
+DG-P008,msa,في أي سنة توفي صلاح الدين الأيوبي؟,795211998955,pilot_development_only
+DG-P008,jordanian,بأي سنة توفّى صلاح الدين الأيوبي؟,795211998955,pilot_development_only
+DG-P008,egyptian,صلاح الدين الأيوبي اتوفّى سنة كام؟,795211998955,pilot_development_only
+DG-P008,saudi_gulf,صلاح الدين الأيوبي توفّى في أي سنة؟,795211998955,pilot_development_only
+DG-P009,msa,ما عاصمة العراق؟,737763074138,pilot_development_only
+DG-P009,jordanian,شو عاصمة العراق؟,737763074138,pilot_development_only
+DG-P009,egyptian,إيه عاصمة العراق؟,737763074138,pilot_development_only
+DG-P009,saudi_gulf,وش عاصمة العراق؟,737763074138,pilot_development_only
+DG-P010,msa,عن أي سنة مُنحت جائزة نوبل في الفيزياء لألبرت أينشتاين؟,600647136885,pilot_development_only
+DG-P010,jordanian,جائزة نوبل بالفيزياء اللي انحسبت لأينشتاين كانت لأي سنة؟,600647136885,pilot_development_only
+DG-P010,egyptian,جائزة نوبل في الفيزياء اللي اتمنحت لأينشتاين كانت عن سنة كام؟,600647136885,pilot_development_only
+DG-P010,saudi_gulf,جائزة نوبل بالفيزياء اللي مُنحت لأينشتاين كانت عن أي سنة؟,600647136885,pilot_development_only
+DG-P011,msa,في أي جزء من شبه الجزيرة العربية تقع سلطنة عُمان؟,815967450694,pilot_development_only
+DG-P011,jordanian,سلطنة عُمان بأي جهة من شبه الجزيرة العربية؟,815967450694,pilot_development_only
+DG-P011,egyptian,سلطنة عُمان في أنهي ناحية من شبه الجزيرة العربية؟,815967450694,pilot_development_only
+DG-P011,saudi_gulf,سلطنة عُمان تقع في أي جهة من شبه الجزيرة العربية؟,815967450694,pilot_development_only
+DG-P012,msa,ما عاصمة سوريا؟,963819258584,pilot_development_only
+DG-P012,jordanian,شو عاصمة سوريا؟,963819258584,pilot_development_only
+DG-P012,egyptian,إيه عاصمة سوريا؟,963819258584,pilot_development_only
+DG-P012,saudi_gulf,وش عاصمة سوريا؟,963819258584,pilot_development_only
+DG-P013,msa,في أي سنة استقلت الهند؟,137673711420,pilot_development_only
+DG-P013,jordanian,بأي سنة استقلّت الهند؟,137673711420,pilot_development_only
+DG-P013,egyptian,الهند استقلت سنة كام؟,137673711420,pilot_development_only
+DG-P013,saudi_gulf,الهند استقلت في أي سنة؟,137673711420,pilot_development_only
+DG-P014,msa,في أي جزء من آسيا تقع الصين؟,473264269118,pilot_development_only
+DG-P014,jordanian,الصين بأي جهة من آسيا؟,473264269118,pilot_development_only
+DG-P014,egyptian,الصين في أنهي ناحية من آسيا؟,473264269118,pilot_development_only
+DG-P014,saudi_gulf,الصين في أي جهة من آسيا؟,473264269118,pilot_development_only
+DG-P015,msa,في أي سنة توفي نجيب محفوظ؟,959942795367,pilot_development_only
+DG-P015,jordanian,بأي سنة توفّى نجيب محفوظ؟,959942795367,pilot_development_only
+DG-P015,egyptian,نجيب محفوظ اتوفّى سنة كام؟,959942795367,pilot_development_only
+DG-P015,saudi_gulf,نجيب محفوظ توفّى في أي سنة؟,959942795367,pilot_development_only
+DG-P016,msa,في أي جزء من آسيا تقع اليابان؟,379127888424,pilot_development_only
+DG-P016,jordanian,اليابان بأي جهة من آسيا؟,379127888424,pilot_development_only
+DG-P016,egyptian,اليابان في أنهي ناحية من آسيا؟,379127888424,pilot_development_only
+DG-P016,saudi_gulf,اليابان تقع في أي جهة من آسيا؟,379127888424,pilot_development_only
+DG-P017,msa,في أي سنة وُلد عمر المختار؟,358847480966,pilot_development_only
+DG-P017,jordanian,بأي سنة انولد عمر المختار؟,358847480966,pilot_development_only
+DG-P017,egyptian,عمر المختار اتولد سنة كام؟,358847480966,pilot_development_only
+DG-P017,saudi_gulf,عمر المختار انولد في أي سنة؟,358847480966,pilot_development_only
+DG-P018,msa,كم كانتوناً تتكون منها سويسرا؟,471876273320,pilot_development_only
+DG-P018,jordanian,سويسرا فيها كم كانتون؟,471876273320,pilot_development_only
+DG-P018,egyptian,سويسرا فيها كام كانتون؟,471876273320,pilot_development_only
+DG-P018,saudi_gulf,سويسرا فيها كم كانتون؟,471876273320,pilot_development_only
+DG-P019,msa,في أي مدينة وُلد ابن خلدون؟,229676063433,pilot_development_only
+DG-P019,jordanian,ابن خلدون انولد بأي مدينة؟,229676063433,pilot_development_only
+DG-P019,egyptian,ابن خلدون اتولد في أنهي مدينة؟,229676063433,pilot_development_only
+DG-P019,saudi_gulf,ابن خلدون انولد في أي مدينة؟,229676063433,pilot_development_only
+DG-P020,msa,بماذا لُقّب توماس إديسون؟,770716892889,pilot_development_only
+DG-P020,jordanian,شو كان لقب توماس إديسون؟,770716892889,pilot_development_only
+DG-P020,egyptian,توماس إديسون كان لقبه إيه؟,770716892889,pilot_development_only
+DG-P020,saudi_gulf,وش كان لقب توماس إديسون؟,770716892889,pilot_development_only
+DG-P021,msa,في أي تاريخ وُلد جبران خليل جبران؟,374730948058,pilot_development_only
+DG-P021,jordanian,جبران خليل جبران انولد بأي تاريخ؟,374730948058,pilot_development_only
+DG-P021,egyptian,جبران خليل جبران اتولد يوم كام؟,374730948058,pilot_development_only
+DG-P021,saudi_gulf,جبران خليل جبران انولد في أي تاريخ؟,374730948058,pilot_development_only
+DG-P022,msa,من رسم لوحة الموناليزا؟,728117417454,pilot_development_only
+DG-P022,jordanian,مين رسم لوحة الموناليزا؟,728117417454,pilot_development_only
+DG-P022,egyptian,مين اللي رسم لوحة الموناليزا؟,728117417454,pilot_development_only
+DG-P022,saudi_gulf,من اللي رسم لوحة الموناليزا؟,728117417454,pilot_development_only
+DG-P023,msa,بأي اسم مستعار يُعرف مبتكر البيتكوين؟,695702858135,pilot_development_only
+DG-P023,jordanian,شو الاسم المستعار اللي معروف فيه مبتكر البيتكوين؟,695702858135,pilot_development_only
+DG-P023,egyptian,إيه الاسم المستعار المعروف بيه مبتكر البيتكوين؟,695702858135,pilot_development_only
+DG-P023,saudi_gulf,وش الاسم المستعار اللي يُعرف فيه مبتكر البيتكوين؟,695702858135,pilot_development_only
+DG-P024,msa,إلى أي فصيلة ينتمي الأسد؟,111903825651,pilot_development_only
+DG-P024,jordanian,الأسد من أي فصيلة؟,111903825651,pilot_development_only
+DG-P024,egyptian,الأسد بينتمي لأنهي فصيلة؟,111903825651,pilot_development_only
+DG-P024,saudi_gulf,الأسد ينتمي لأي فصيلة؟,111903825651,pilot_development_only
+DG-P025,msa,ما أكبر قارة على الأرض من حيث المساحة؟,801223142342,pilot_development_only
+DG-P025,jordanian,شو أكبر قارة بالأرض من ناحية المساحة؟,801223142342,pilot_development_only
+DG-P025,egyptian,إيه أكبر قارة في الأرض من حيث المساحة؟,801223142342,pilot_development_only
+DG-P025,saudi_gulf,وش أكبر قارة على الأرض من ناحية المساحة؟,801223142342,pilot_development_only
+DG-P026,msa,من الجهة المنظمة لدوري أبطال أفريقيا لكرة القدم؟,14167997829,pilot_development_only
+DG-P026,jordanian,مين الجهة اللي بتنظّم دوري أبطال أفريقيا لكرة القدم؟,14167997829,pilot_development_only
+DG-P026,egyptian,مين الجهة اللي بتنظم دوري أبطال أفريقيا لكرة القدم؟,14167997829,pilot_development_only
+DG-P026,saudi_gulf,وش الجهة اللي تنظّم دوري أبطال أفريقيا لكرة القدم؟,14167997829,pilot_development_only
+DG-P027,msa,ما عاصمة آيسلندا؟,870737526061,pilot_development_only
+DG-P027,jordanian,شو عاصمة آيسلندا؟,870737526061,pilot_development_only
+DG-P027,egyptian,إيه عاصمة آيسلندا؟,870737526061,pilot_development_only
+DG-P027,saudi_gulf,وش عاصمة آيسلندا؟,870737526061,pilot_development_only
+DG-P028,msa,ما الاسم الشائع لدواء الباراسيتامول في الولايات المتحدة؟,850858535715,pilot_development_only
+DG-P028,jordanian,شو الاسم اللي بستعملوه بأمريكا للباراسيتامول؟,850858535715,pilot_development_only
+DG-P028,egyptian,إيه الاسم اللي بيستخدموه في أمريكا للباراسيتامول؟,850858535715,pilot_development_only
+DG-P028,saudi_gulf,وش الاسم المستخدم بأمريكا للباراسيتامول؟,850858535715,pilot_development_only
+DG-P029,msa,ما الاسم الآخر لمتلازمة داون المرتبط بالصبغيات؟,736438426218,pilot_development_only
+DG-P029,jordanian,شو الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,pilot_development_only
+DG-P029,egyptian,إيه الاسم التاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,pilot_development_only
+DG-P029,saudi_gulf,وش الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,pilot_development_only
+DG-P030,msa,كيف ينتقل مرض السل عادةً؟,396237742421,pilot_development_only
+DG-P030,jordanian,كيف بينتقل مرض السل عادةً؟,396237742421,pilot_development_only
+DG-P030,egyptian,مرض السل بينتقل إزاي عادةً؟,396237742421,pilot_development_only
+DG-P030,saudi_gulf,شلون ينتقل مرض السل عادةً؟,396237742421,pilot_development_only

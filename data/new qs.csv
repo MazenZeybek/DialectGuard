@@ -1,0 +1,385 @@
+﻿question_id,variety,question,source_id,split,review_status,answer_included
+DG-P001,msa,في أي مدينة وُلد جمال خاشقجي؟,74212080718,development_only,user_approved_draft,no
+DG-P001,jordanian,بأي مدينة انولد جمال خاشقجي؟,74212080718,development_only,user_approved_draft,no
+DG-P001,egyptian,جمال خاشقجي اتولد في أنهي مدينة؟,74212080718,development_only,user_approved_draft,no
+DG-P001,saudi,جمال خاشقجي انولد في أي مدينة؟,74212080718,development_only,user_approved_draft,no
+DG-P002,msa,ما عاصمة المغرب؟,945458617402,development_only,user_approved_draft,no
+DG-P002,jordanian,شو عاصمة المغرب؟,945458617402,development_only,user_approved_draft,no
+DG-P002,egyptian,إيه عاصمة المغرب؟,945458617402,development_only,user_approved_draft,no
+DG-P002,saudi,وش عاصمة المغرب؟,945458617402,development_only,user_approved_draft,no
+DG-P003,msa,من مؤسس الدولة العثمانية؟,310583692508,development_only,user_approved_draft,no
+DG-P003,jordanian,مين أسّس الدولة العثمانية؟,310583692508,development_only,user_approved_draft,no
+DG-P003,egyptian,مين اللي أسّس الدولة العثمانية؟,310583692508,development_only,user_approved_draft,no
+DG-P003,saudi,من اللي أسّس الدولة العثمانية؟,310583692508,development_only,user_approved_draft,no
+DG-P004,msa,كم ولاية تتكون منها الولايات المتحدة الأمريكية؟,676465335543,development_only,user_approved_draft,no
+DG-P004,jordanian,أمريكا فيها كم ولاية؟,676465335543,development_only,user_approved_draft,no
+DG-P004,egyptian,أمريكا فيها كام ولاية؟,676465335543,development_only,user_approved_draft,no
+DG-P004,saudi,أمريكا فيها كم ولاية؟,676465335543,development_only,user_approved_draft,no
+DG-P005,msa,في أي تاريخ بدأت الحرب العالمية الأولى؟,856341046319,development_only,user_approved_draft,no
+DG-P005,jordanian,بأي تاريخ بلشت الحرب العالمية الأولى؟,856341046319,development_only,user_approved_draft,no
+DG-P005,egyptian,الحرب العالمية الأولى بدأت يوم كام؟,856341046319,development_only,user_approved_draft,no
+DG-P005,saudi,في أي تاريخ بدت الحرب العالمية الأولى؟,856341046319,development_only,user_approved_draft,no
+DG-P006,msa,في أي تاريخ بدأت الحرب العالمية الثانية في أوروبا؟,65608032745,development_only,user_approved_draft,no
+DG-P006,jordanian,بأي تاريخ بلشت الحرب العالمية الثانية بأوروبا؟,65608032745,development_only,user_approved_draft,no
+DG-P006,egyptian,الحرب العالمية التانية بدأت في أوروبا يوم كام؟,65608032745,development_only,user_approved_draft,no
+DG-P006,saudi,في أي تاريخ بدت الحرب العالمية الثانية في أوروبا؟,65608032745,development_only,user_approved_draft,no
+DG-P007,msa,في أي دولة أُقيم كأس العالم لكرة القدم عام 2018؟,379029789792,development_only,user_approved_draft,no
+DG-P007,jordanian,بأي بلد انعمل كأس العالم لكرة القدم سنة 2018؟,379029789792,development_only,user_approved_draft,no
+DG-P007,egyptian,كأس العالم لكرة القدم سنة 2018 اتعمل في أنهي بلد؟,379029789792,development_only,user_approved_draft,no
+DG-P007,saudi,كأس العالم لكرة القدم سنة 2018 انقام في أي دولة؟,379029789792,development_only,user_approved_draft,no
+DG-P008,msa,في أي سنة توفي صلاح الدين الأيوبي؟,795211998955,development_only,user_approved_draft,no
+DG-P008,jordanian,بأي سنة توفّى صلاح الدين الأيوبي؟,795211998955,development_only,user_approved_draft,no
+DG-P008,egyptian,صلاح الدين الأيوبي اتوفّى سنة كام؟,795211998955,development_only,user_approved_draft,no
+DG-P008,saudi,صلاح الدين الأيوبي توفّى في أي سنة؟,795211998955,development_only,user_approved_draft,no
+DG-P009,msa,ما عاصمة العراق؟,737763074138,development_only,user_approved_draft,no
+DG-P009,jordanian,شو عاصمة العراق؟,737763074138,development_only,user_approved_draft,no
+DG-P009,egyptian,إيه عاصمة العراق؟,737763074138,development_only,user_approved_draft,no
+DG-P009,saudi,وش عاصمة العراق؟,737763074138,development_only,user_approved_draft,no
+DG-P010,msa,عن أي سنة مُنحت جائزة نوبل في الفيزياء لألبرت أينشتاين؟,600647136885,development_only,user_approved_draft,no
+DG-P010,jordanian,جائزة نوبل بالفيزياء اللي انحسبت لأينشتاين كانت لأي سنة؟,600647136885,development_only,user_approved_draft,no
+DG-P010,egyptian,جائزة نوبل في الفيزياء اللي اتمنحت لأينشتاين كانت عن سنة كام؟,600647136885,development_only,user_approved_draft,no
+DG-P010,saudi,جائزة نوبل بالفيزياء اللي مُنحت لأينشتاين كانت عن أي سنة؟,600647136885,development_only,user_approved_draft,no
+DG-P011,msa,في أي جزء من شبه الجزيرة العربية تقع سلطنة عُمان؟,815967450694,development_only,user_approved_draft,no
+DG-P011,jordanian,سلطنة عُمان بأي جهة من شبه الجزيرة العربية؟,815967450694,development_only,user_approved_draft,no
+DG-P011,egyptian,سلطنة عُمان في أنهي ناحية من شبه الجزيرة العربية؟,815967450694,development_only,user_approved_draft,no
+DG-P011,saudi,سلطنة عُمان تقع في أي جهة من شبه الجزيرة العربية؟,815967450694,development_only,user_approved_draft,no
+DG-P012,msa,ما عاصمة سوريا؟,963819258584,development_only,user_approved_draft,no
+DG-P012,jordanian,شو عاصمة سوريا؟,963819258584,development_only,user_approved_draft,no
+DG-P012,egyptian,إيه عاصمة سوريا؟,963819258584,development_only,user_approved_draft,no
+DG-P012,saudi,وش عاصمة سوريا؟,963819258584,development_only,user_approved_draft,no
+DG-P013,msa,في أي سنة استقلت الهند؟,137673711420,development_only,user_approved_draft,no
+DG-P013,jordanian,بأي سنة استقلّت الهند؟,137673711420,development_only,user_approved_draft,no
+DG-P013,egyptian,الهند استقلت سنة كام؟,137673711420,development_only,user_approved_draft,no
+DG-P013,saudi,الهند استقلت في أي سنة؟,137673711420,development_only,user_approved_draft,no
+DG-P014,msa,في أي جزء من آسيا تقع الصين؟,473264269118,development_only,user_approved_draft,no
+DG-P014,jordanian,الصين بأي جهة من آسيا؟,473264269118,development_only,user_approved_draft,no
+DG-P014,egyptian,الصين في أنهي ناحية من آسيا؟,473264269118,development_only,user_approved_draft,no
+DG-P014,saudi,الصين في أي جهة من آسيا؟,473264269118,development_only,user_approved_draft,no
+DG-P015,msa,في أي سنة توفي نجيب محفوظ؟,959942795367,development_only,user_approved_draft,no
+DG-P015,jordanian,بأي سنة توفّى نجيب محفوظ؟,959942795367,development_only,user_approved_draft,no
+DG-P015,egyptian,نجيب محفوظ اتوفّى سنة كام؟,959942795367,development_only,user_approved_draft,no
+DG-P015,saudi,نجيب محفوظ توفّى في أي سنة؟,959942795367,development_only,user_approved_draft,no
+DG-P016,msa,في أي جزء من آسيا تقع اليابان؟,379127888424,development_only,user_approved_draft,no
+DG-P016,jordanian,اليابان بأي جهة من آسيا؟,379127888424,development_only,user_approved_draft,no
+DG-P016,egyptian,اليابان في أنهي ناحية من آسيا؟,379127888424,development_only,user_approved_draft,no
+DG-P016,saudi,اليابان تقع في أي جهة من آسيا؟,379127888424,development_only,user_approved_draft,no
+DG-P017,msa,في أي سنة وُلد عمر المختار؟,358847480966,development_only,user_approved_draft,no
+DG-P017,jordanian,بأي سنة انولد عمر المختار؟,358847480966,development_only,user_approved_draft,no
+DG-P017,egyptian,عمر المختار اتولد سنة كام؟,358847480966,development_only,user_approved_draft,no
+DG-P017,saudi,عمر المختار انولد في أي سنة؟,358847480966,development_only,user_approved_draft,no
+DG-P018,msa,كم كانتوناً تتكون منها سويسرا؟,471876273320,development_only,user_approved_draft,no
+DG-P018,jordanian,سويسرا فيها كم كانتون؟,471876273320,development_only,user_approved_draft,no
+DG-P018,egyptian,سويسرا فيها كام كانتون؟,471876273320,development_only,user_approved_draft,no
+DG-P018,saudi,سويسرا فيها كم كانتون؟,471876273320,development_only,user_approved_draft,no
+DG-P019,msa,في أي مدينة وُلد ابن خلدون؟,229676063433,development_only,user_approved_draft,no
+DG-P019,jordanian,ابن خلدون انولد بأي مدينة؟,229676063433,development_only,user_approved_draft,no
+DG-P019,egyptian,ابن خلدون اتولد في أنهي مدينة؟,229676063433,development_only,user_approved_draft,no
+DG-P019,saudi,ابن خلدون انولد في أي مدينة؟,229676063433,development_only,user_approved_draft,no
+DG-P020,msa,بماذا لُقّب توماس إديسون؟,770716892889,development_only,user_approved_draft,no
+DG-P020,jordanian,شو كان لقب توماس إديسون؟,770716892889,development_only,user_approved_draft,no
+DG-P020,egyptian,توماس إديسون كان لقبه إيه؟,770716892889,development_only,user_approved_draft,no
+DG-P020,saudi,وش كان لقب توماس إديسون؟,770716892889,development_only,user_approved_draft,no
+DG-P021,msa,في أي تاريخ وُلد جبران خليل جبران؟,374730948058,development_only,user_approved_draft,no
+DG-P021,jordanian,جبران خليل جبران انولد بأي تاريخ؟,374730948058,development_only,user_approved_draft,no
+DG-P021,egyptian,جبران خليل جبران اتولد يوم كام؟,374730948058,development_only,user_approved_draft,no
+DG-P021,saudi,جبران خليل جبران انولد في أي تاريخ؟,374730948058,development_only,user_approved_draft,no
+DG-P022,msa,من رسم لوحة الموناليزا؟,728117417454,development_only,user_approved_draft,no
+DG-P022,jordanian,مين رسم لوحة الموناليزا؟,728117417454,development_only,user_approved_draft,no
+DG-P022,egyptian,مين اللي رسم لوحة الموناليزا؟,728117417454,development_only,user_approved_draft,no
+DG-P022,saudi,من اللي رسم لوحة الموناليزا؟,728117417454,development_only,user_approved_draft,no
+DG-P023,msa,بأي اسم مستعار يُعرف مبتكر البيتكوين؟,695702858135,development_only,user_approved_draft,no
+DG-P023,jordanian,شو الاسم المستعار اللي معروف فيه مبتكر البيتكوين؟,695702858135,development_only,user_approved_draft,no
+DG-P023,egyptian,إيه الاسم المستعار المعروف بيه مبتكر البيتكوين؟,695702858135,development_only,user_approved_draft,no
+DG-P023,saudi,وش الاسم المستعار اللي يُعرف فيه مبتكر البيتكوين؟,695702858135,development_only,user_approved_draft,no
+DG-P024,msa,إلى أي فصيلة ينتمي الأسد؟,111903825651,development_only,user_approved_draft,no
+DG-P024,jordanian,الأسد من أي فصيلة؟,111903825651,development_only,user_approved_draft,no
+DG-P024,egyptian,الأسد بينتمي لأنهي فصيلة؟,111903825651,development_only,user_approved_draft,no
+DG-P024,saudi,الأسد ينتمي لأي فصيلة؟,111903825651,development_only,user_approved_draft,no
+DG-P025,msa,ما أكبر قارة على الأرض من حيث المساحة؟,801223142342,development_only,user_approved_draft,no
+DG-P025,jordanian,شو أكبر قارة بالأرض من ناحية المساحة؟,801223142342,development_only,user_approved_draft,no
+DG-P025,egyptian,إيه أكبر قارة في الأرض من حيث المساحة؟,801223142342,development_only,user_approved_draft,no
+DG-P025,saudi,وش أكبر قارة على الأرض من ناحية المساحة؟,801223142342,development_only,user_approved_draft,no
+DG-P026,msa,من الجهة المنظمة لدوري أبطال أفريقيا لكرة القدم؟,14167997829,development_only,user_approved_draft,no
+DG-P026,jordanian,مين الجهة اللي بتنظّم دوري أبطال أفريقيا لكرة القدم؟,14167997829,development_only,user_approved_draft,no
+DG-P026,egyptian,مين الجهة اللي بتنظم دوري أبطال أفريقيا لكرة القدم؟,14167997829,development_only,user_approved_draft,no
+DG-P026,saudi,وش الجهة اللي تنظّم دوري أبطال أفريقيا لكرة القدم؟,14167997829,development_only,user_approved_draft,no
+DG-P027,msa,ما عاصمة آيسلندا؟,870737526061,development_only,user_approved_draft,no
+DG-P027,jordanian,شو عاصمة آيسلندا؟,870737526061,development_only,user_approved_draft,no
+DG-P027,egyptian,إيه عاصمة آيسلندا؟,870737526061,development_only,user_approved_draft,no
+DG-P027,saudi,وش عاصمة آيسلندا؟,870737526061,development_only,user_approved_draft,no
+DG-P028,msa,ما الاسم الشائع لدواء الباراسيتامول في الولايات المتحدة؟,850858535715,development_only,user_approved_draft,no
+DG-P028,jordanian,شو الاسم اللي بستعملوه بأمريكا للباراسيتامول؟,850858535715,development_only,user_approved_draft,no
+DG-P028,egyptian,إيه الاسم اللي بيستخدموه في أمريكا للباراسيتامول؟,850858535715,development_only,user_approved_draft,no
+DG-P028,saudi,وش الاسم المستخدم بأمريكا للباراسيتامول؟,850858535715,development_only,user_approved_draft,no
+DG-P029,msa,ما الاسم الآخر لمتلازمة داون المرتبط بالصبغيات؟,736438426218,development_only,user_approved_draft,no
+DG-P029,jordanian,شو الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,development_only,user_approved_draft,no
+DG-P029,egyptian,إيه الاسم التاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,development_only,user_approved_draft,no
+DG-P029,saudi,وش الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,736438426218,development_only,user_approved_draft,no
+DG-P030,msa,كيف ينتقل مرض السل عادةً؟,396237742421,development_only,user_approved_draft,no
+DG-P030,jordanian,كيف بينتقل مرض السل عادةً؟,396237742421,development_only,user_approved_draft,no
+DG-P030,egyptian,مرض السل بينتقل إزاي عادةً؟,396237742421,development_only,user_approved_draft,no
+DG-P030,saudi,شلون ينتقل مرض السل عادةً؟,396237742421,development_only,user_approved_draft,no
+DG-C031,msa,ما اكثر القارات سكانا؟,190798844577,development_only,msa_draft_needs_check,no
+DG-C031,jordanian,شو اكثر القارات سكانا؟,190798844577,development_only,automated_draft_needs_human_check,no
+DG-C031,egyptian,إيه اكثر القارات سكانا؟,190798844577,development_only,automated_draft_needs_human_check,no
+DG-C031,saudi,وش اكثر القارات سكانا؟,190798844577,development_only,automated_draft_needs_human_check,no
+DG-C032,msa,متى استوطن انجولفر ارنارسون ايسلندا؟,719183605690,development_only,msa_draft_needs_check,no
+DG-C032,jordanian,إمتى استوطن انجولفر ارنارسون ايسلندا؟,719183605690,development_only,automated_draft_needs_human_check,no
+DG-C032,egyptian,إمتى استوطن انجولفر ارنارسون ايسلندا؟,719183605690,development_only,automated_draft_needs_human_check,no
+DG-C032,saudi,متى استوطن انجولفر ارنارسون ايسلندا؟,719183605690,development_only,automated_draft_needs_human_check,no
+DG-C036,msa,ماهي ترجمة مرض السيدا بالانجليزية؟,440908549199,development_only,msa_draft_needs_check,no
+DG-C036,jordanian,ماهي ترجمة مرض السيدا بالانجليزية؟,440908549199,development_only,automated_draft_needs_human_check,no
+DG-C036,egyptian,ماهي ترجمة مرض السيدا بالانجليزية؟,440908549199,development_only,automated_draft_needs_human_check,no
+DG-C036,saudi,ماهي ترجمة مرض السيدا بالانجليزية؟,440908549199,development_only,automated_draft_needs_human_check,no
+DG-C037,msa,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,248062279649,development_only,msa_draft_needs_check,no
+DG-C037,jordanian,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,248062279649,development_only,automated_draft_needs_human_check,no
+DG-C037,egyptian,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,248062279649,development_only,automated_draft_needs_human_check,no
+DG-C037,saudi,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,248062279649,development_only,automated_draft_needs_human_check,no
+DG-C038,msa,متى ولد ابن خلدون؟,684795219537,development_only,msa_draft_needs_check,no
+DG-C038,jordanian,إمتى ولد ابن خلدون؟,684795219537,development_only,automated_draft_needs_human_check,no
+DG-C038,egyptian,إمتى ولد ابن خلدون؟,684795219537,development_only,automated_draft_needs_human_check,no
+DG-C038,saudi,متى ولد ابن خلدون؟,684795219537,development_only,automated_draft_needs_human_check,no
+DG-C039,msa,ما هى العوامل الاكثر تاثيرا فى الاضطراب؟,811455554384,development_only,msa_draft_needs_check,no
+DG-C039,jordanian,شو هى العوامل الاكثر تاثيرا فى الاضطراب؟,811455554384,development_only,automated_draft_needs_human_check,no
+DG-C039,egyptian,إيه هى العوامل الاكثر تاثيرا فى الاضطراب؟,811455554384,development_only,automated_draft_needs_human_check,no
+DG-C039,saudi,وش هى العوامل الاكثر تاثيرا فى الاضطراب؟,811455554384,development_only,automated_draft_needs_human_check,no
+DG-C041,msa,متى سقطت دولة الأندلس؟,836858545888,development_only,msa_draft_needs_check,no
+DG-C041,jordanian,إمتى سقطت دولة الأندلس؟,836858545888,development_only,automated_draft_needs_human_check,no
+DG-C041,egyptian,إمتى سقطت دولة الأندلس؟,836858545888,development_only,automated_draft_needs_human_check,no
+DG-C041,saudi,متى سقطت دولة الأندلس؟,836858545888,development_only,automated_draft_needs_human_check,no
+DG-C042,msa,متى خلف الاسكندر والده؟,370705531661,development_only,msa_draft_needs_check,no
+DG-C042,jordanian,إمتى خلف الاسكندر والده؟,370705531661,development_only,automated_draft_needs_human_check,no
+DG-C042,egyptian,إمتى خلف الاسكندر والده؟,370705531661,development_only,automated_draft_needs_human_check,no
+DG-C042,saudi,متى خلف الاسكندر والده؟,370705531661,development_only,automated_draft_needs_human_check,no
+DG-C046,msa,متى اعلنت الإمبراطورية اليابانية الحرب على جمهورية الصين؟,644503062835,development_only,msa_draft_needs_check,no
+DG-C046,jordanian,إمتى اعلنت الإمبراطورية اليابانية الحرب على جمهورية الصين؟,644503062835,development_only,automated_draft_needs_human_check,no
+DG-C046,egyptian,إمتى اعلنت الإمبراطورية اليابانية الحرب على جمهورية الصين؟,644503062835,development_only,automated_draft_needs_human_check,no
+DG-C046,saudi,متى اعلنت الإمبراطورية اليابانية الحرب على جمهورية الصين؟,644503062835,development_only,automated_draft_needs_human_check,no
+DG-C047,msa,في أي عام دخلت عشيرة قنق الاسلام؟,267637699419,development_only,msa_draft_needs_check,no
+DG-C047,jordanian,بأي عام دخلت عشيرة قنق الاسلام؟,267637699419,development_only,automated_draft_needs_human_check,no
+DG-C047,egyptian,في أنهي عام دخلت عشيرة قنق الاسلام؟,267637699419,development_only,automated_draft_needs_human_check,no
+DG-C047,saudi,في أي عام دخلت عشيرة قنق الاسلام؟,267637699419,development_only,automated_draft_needs_human_check,no
+DG-C048,msa,متى فتح العثمانيون القسطنطينية؟,691991462153,development_only,msa_draft_needs_check,no
+DG-C048,jordanian,إمتى فتح العثمانيون القسطنطينية؟,691991462153,development_only,automated_draft_needs_human_check,no
+DG-C048,egyptian,إمتى فتح العثمانيون القسطنطينية؟,691991462153,development_only,automated_draft_needs_human_check,no
+DG-C048,saudi,متى فتح العثمانيون القسطنطينية؟,691991462153,development_only,automated_draft_needs_human_check,no
+DG-C049,msa,اي دولة مركز و اساس للدولة الفاطمية؟,352608402704,development_only,msa_draft_needs_check,no
+DG-C049,jordanian,اي دولة مركز و اساس للدولة الفاطمية؟,352608402704,development_only,automated_draft_needs_human_check,no
+DG-C049,egyptian,اي دولة مركز و اساس للدولة الفاطمية؟,352608402704,development_only,automated_draft_needs_human_check,no
+DG-C049,saudi,اي دولة مركز و اساس للدولة الفاطمية؟,352608402704,development_only,automated_draft_needs_human_check,no
+DG-C050,msa,من الذي أسس الكيانات الأولى في المملكة العربية السعودية؟,102112416036,development_only,msa_draft_needs_check,no
+DG-C050,jordanian,مين الذي أسس الكيانات الأولى في المملكة العربية السعودية؟,102112416036,development_only,automated_draft_needs_human_check,no
+DG-C050,egyptian,مين الذي أسس الكيانات الأولى في المملكة العربية السعودية؟,102112416036,development_only,automated_draft_needs_human_check,no
+DG-C050,saudi,مين الذي أسس الكيانات الأولى في المملكة العربية السعودية؟,102112416036,development_only,automated_draft_needs_human_check,no
+DG-C051,msa,ماهي تسمية مرض السكري باللغة اللاتينية؟,668449620476,development_only,msa_draft_needs_check,no
+DG-C051,jordanian,ماهي تسمية مرض السكري باللغة اللاتينية؟,668449620476,development_only,automated_draft_needs_human_check,no
+DG-C051,egyptian,ماهي تسمية مرض السكري باللغة اللاتينية؟,668449620476,development_only,automated_draft_needs_human_check,no
+DG-C051,saudi,ماهي تسمية مرض السكري باللغة اللاتينية؟,668449620476,development_only,automated_draft_needs_human_check,no
+DG-C052,msa,ما اسم الصين فى اللغة الصينية؟,555832005630,development_only,msa_draft_needs_check,no
+DG-C052,jordanian,شو اسم الصين فى اللغة الصينية؟,555832005630,development_only,automated_draft_needs_human_check,no
+DG-C052,egyptian,إيه اسم الصين فى اللغة الصينية؟,555832005630,development_only,automated_draft_needs_human_check,no
+DG-C052,saudi,وش اسم الصين فى اللغة الصينية؟,555832005630,development_only,automated_draft_needs_human_check,no
+DG-C054,msa,ماذا كان الربي بن مهيدي؟,606331818530,development_only,msa_draft_needs_check,no
+DG-C054,jordanian,شو كان الربي بن مهيدي؟,606331818530,development_only,automated_draft_needs_human_check,no
+DG-C054,egyptian,إيه كان الربي بن مهيدي؟,606331818530,development_only,automated_draft_needs_human_check,no
+DG-C054,saudi,وش كان الربي بن مهيدي؟,606331818530,development_only,automated_draft_needs_human_check,no
+DG-C055,msa,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,774921060681,development_only,msa_draft_needs_check,no
+DG-C055,jordanian,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,774921060681,development_only,automated_draft_needs_human_check,no
+DG-C055,egyptian,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,774921060681,development_only,automated_draft_needs_human_check,no
+DG-C055,saudi,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,774921060681,development_only,automated_draft_needs_human_check,no
+DG-C056,msa,ما اسم المحقق كونان باليابانية؟,173618209805,development_only,msa_draft_needs_check,no
+DG-C056,jordanian,شو اسم المحقق كونان باليابانية؟,173618209805,development_only,automated_draft_needs_human_check,no
+DG-C056,egyptian,إيه اسم المحقق كونان باليابانية؟,173618209805,development_only,automated_draft_needs_human_check,no
+DG-C056,saudi,وش اسم المحقق كونان باليابانية؟,173618209805,development_only,automated_draft_needs_human_check,no
+DG-C057,msa,من متى كان المغرب عضواً في الأمم المتحدة؟,480567711049,development_only,msa_draft_needs_check,no
+DG-C057,jordanian,مين متى كان المغرب عضواً في الأمم المتحدة؟,480567711049,development_only,automated_draft_needs_human_check,no
+DG-C057,egyptian,مين متى كان المغرب عضواً في الأمم المتحدة؟,480567711049,development_only,automated_draft_needs_human_check,no
+DG-C057,saudi,مين متى كان المغرب عضواً في الأمم المتحدة؟,480567711049,development_only,automated_draft_needs_human_check,no
+DG-C059,msa,ما هي الدولة التي تحد شمال الولايات المتحدة؟,602756827189,development_only,msa_draft_needs_check,no
+DG-C059,jordanian,شو هي الدولة التي تحد شمال الولايات المتحدة؟,602756827189,development_only,automated_draft_needs_human_check,no
+DG-C059,egyptian,إيه هي الدولة التي تحد شمال الولايات المتحدة؟,602756827189,development_only,automated_draft_needs_human_check,no
+DG-C059,saudi,وش هي الدولة التي تحد شمال الولايات المتحدة؟,602756827189,development_only,automated_draft_needs_human_check,no
+DG-C060,msa,كم من محافظة في اليابان؟,434490068485,development_only,msa_draft_needs_check,no
+DG-C060,jordanian,قديش من محافظة في اليابان؟,434490068485,development_only,automated_draft_needs_human_check,no
+DG-C060,egyptian,كام من محافظة في اليابان؟,434490068485,development_only,automated_draft_needs_human_check,no
+DG-C060,saudi,كم من محافظة في اليابان؟,434490068485,development_only,automated_draft_needs_human_check,no
+DG-C062,msa,متى استلم بشار الرئاسة؟,747913343063,development_only,msa_draft_needs_check,no
+DG-C062,jordanian,إمتى استلم بشار الرئاسة؟,747913343063,development_only,automated_draft_needs_human_check,no
+DG-C062,egyptian,إمتى استلم بشار الرئاسة؟,747913343063,development_only,automated_draft_needs_human_check,no
+DG-C062,saudi,متى استلم بشار الرئاسة؟,747913343063,development_only,automated_draft_needs_human_check,no
+DG-C063,msa,ما هو اسم البظر فى اللغة الانجليزية؟,320499287779,development_only,msa_draft_needs_check,no
+DG-C063,jordanian,شو هو اسم البظر فى اللغة الانجليزية؟,320499287779,development_only,automated_draft_needs_human_check,no
+DG-C063,egyptian,إيه هو اسم البظر فى اللغة الانجليزية؟,320499287779,development_only,automated_draft_needs_human_check,no
+DG-C063,saudi,وش هو اسم البظر فى اللغة الانجليزية؟,320499287779,development_only,automated_draft_needs_human_check,no
+DG-C064,msa,في اي قارة تتواجد دولة بلجيكيا؟,946817392187,development_only,msa_draft_needs_check,no
+DG-C064,jordanian,بأي قارة تتواجد دولة بلجيكيا؟,946817392187,development_only,automated_draft_needs_human_check,no
+DG-C064,egyptian,في أنهي قارة تتواجد دولة بلجيكيا؟,946817392187,development_only,automated_draft_needs_human_check,no
+DG-C064,saudi,في أي قارة تتواجد دولة بلجيكيا؟,946817392187,development_only,automated_draft_needs_human_check,no
+DG-C065,msa,ما هو اسم بيتكوين بالانجليزية؟,780538002194,development_only,msa_draft_needs_check,no
+DG-C065,jordanian,شو هو اسم بيتكوين بالانجليزية؟,780538002194,development_only,automated_draft_needs_human_check,no
+DG-C065,egyptian,إيه هو اسم بيتكوين بالانجليزية؟,780538002194,development_only,automated_draft_needs_human_check,no
+DG-C065,saudi,وش هو اسم بيتكوين بالانجليزية؟,780538002194,development_only,automated_draft_needs_human_check,no
+DG-C072,msa,في أي صحيفة قام بكتابة عمود منذ عام 2017؟,465699296586,development_only,msa_draft_needs_check,no
+DG-C072,jordanian,بأي صحيفة قام بكتابة عمود منذ عام 2017؟,465699296586,development_only,automated_draft_needs_human_check,no
+DG-C072,egyptian,في أنهي صحيفة قام بكتابة عمود منذ عام 2017؟,465699296586,development_only,automated_draft_needs_human_check,no
+DG-C072,saudi,في أي صحيفة قام بكتابة عمود منذ عام 2017؟,465699296586,development_only,automated_draft_needs_human_check,no
+DG-C074,msa,متى عدل اسم بطولة افريقيا للاندية الابطال؟,425237763987,development_only,msa_draft_needs_check,no
+DG-C074,jordanian,إمتى عدل اسم بطولة افريقيا للاندية الابطال؟,425237763987,development_only,automated_draft_needs_human_check,no
+DG-C074,egyptian,إمتى عدل اسم بطولة افريقيا للاندية الابطال؟,425237763987,development_only,automated_draft_needs_human_check,no
+DG-C074,saudi,متى عدل اسم بطولة افريقيا للاندية الابطال؟,425237763987,development_only,automated_draft_needs_human_check,no
+DG-C075,msa,ماهي الرياضة التي كان فيها رجب طيب أردوغان شبه محترف ؟,122654307133,development_only,msa_draft_needs_check,no
+DG-C075,jordanian,ماهي الرياضة التي كان فيها رجب طيب أردوغان شبه محترف ؟,122654307133,development_only,automated_draft_needs_human_check,no
+DG-C075,egyptian,ماهي الرياضة التي كان فيها رجب طيب أردوغان شبه محترف ؟,122654307133,development_only,automated_draft_needs_human_check,no
+DG-C075,saudi,ماهي الرياضة التي كان فيها رجب طيب أردوغان شبه محترف ؟,122654307133,development_only,automated_draft_needs_human_check,no
+DG-C076,msa,ما اسم السرطان بالانجليزية؟,267872277343,development_only,msa_draft_needs_check,no
+DG-C076,jordanian,شو اسم السرطان بالانجليزية؟,267872277343,development_only,automated_draft_needs_human_check,no
+DG-C076,egyptian,إيه اسم السرطان بالانجليزية؟,267872277343,development_only,automated_draft_needs_human_check,no
+DG-C076,saudi,وش اسم السرطان بالانجليزية؟,267872277343,development_only,automated_draft_needs_human_check,no
+DG-C078,msa,أين تقع عمان بالنسبة لآسيا؟,947262384378,development_only,msa_draft_needs_check,no
+DG-C078,jordanian,وين تقع عمان بالنسبة لآسيا؟,947262384378,development_only,automated_draft_needs_human_check,no
+DG-C078,egyptian,فين تقع عمان بالنسبة لآسيا؟,947262384378,development_only,automated_draft_needs_human_check,no
+DG-C078,saudi,وين تقع عمان بالنسبة لآسيا؟,947262384378,development_only,automated_draft_needs_human_check,no
+DG-C079,msa,متى توقف حصار فيينا من قبل الجيوش العثمانية ؟,439530275815,development_only,msa_draft_needs_check,no
+DG-C079,jordanian,إمتى توقف حصار فيينا من قبل الجيوش العثمانية ؟,439530275815,development_only,automated_draft_needs_human_check,no
+DG-C079,egyptian,إمتى توقف حصار فيينا من قبل الجيوش العثمانية ؟,439530275815,development_only,automated_draft_needs_human_check,no
+DG-C079,saudi,متى توقف حصار فيينا من قبل الجيوش العثمانية ؟,439530275815,development_only,automated_draft_needs_human_check,no
+DG-C081,msa,أين يقع مقر السلطات الاتحادية السويسرية ؟,735069323210,development_only,msa_draft_needs_check,no
+DG-C081,jordanian,وين يقع مقر السلطات الاتحادية السويسرية ؟,735069323210,development_only,automated_draft_needs_human_check,no
+DG-C081,egyptian,فين يقع مقر السلطات الاتحادية السويسرية ؟,735069323210,development_only,automated_draft_needs_human_check,no
+DG-C081,saudi,وين يقع مقر السلطات الاتحادية السويسرية ؟,735069323210,development_only,automated_draft_needs_human_check,no
+DG-C082,msa,ما مهنة شيرين عبد الوهاب؟,116834597139,development_only,msa_draft_needs_check,no
+DG-C082,jordanian,شو مهنة شيرين عبد الوهاب؟,116834597139,development_only,automated_draft_needs_human_check,no
+DG-C082,egyptian,إيه مهنة شيرين عبد الوهاب؟,116834597139,development_only,automated_draft_needs_human_check,no
+DG-C082,saudi,وش مهنة شيرين عبد الوهاب؟,116834597139,development_only,automated_draft_needs_human_check,no
+DG-C083,msa,ما هو اسم الشيوعية بالانجليزية؟,324133491326,development_only,msa_draft_needs_check,no
+DG-C083,jordanian,شو هو اسم الشيوعية بالانجليزية؟,324133491326,development_only,automated_draft_needs_human_check,no
+DG-C083,egyptian,إيه هو اسم الشيوعية بالانجليزية؟,324133491326,development_only,automated_draft_needs_human_check,no
+DG-C083,saudi,وش هو اسم الشيوعية بالانجليزية؟,324133491326,development_only,automated_draft_needs_human_check,no
+DG-C084,msa,اي قناة تبنت هذا المشروع ؟,382641046645,development_only,msa_draft_needs_check,no
+DG-C084,jordanian,اي قناة تبنت هذا المشروع ؟,382641046645,development_only,automated_draft_needs_human_check,no
+DG-C084,egyptian,اي قناة تبنت هذا المشروع ؟,382641046645,development_only,automated_draft_needs_human_check,no
+DG-C084,saudi,اي قناة تبنت هذا المشروع ؟,382641046645,development_only,automated_draft_needs_human_check,no
+DG-C086,msa,ماهو المذهب الذي تتبعه الصوفية ؟,42246561412,development_only,msa_draft_needs_check,no
+DG-C086,jordanian,ماهو المذهب الذي تتبعه الصوفية ؟,42246561412,development_only,automated_draft_needs_human_check,no
+DG-C086,egyptian,ماهو المذهب الذي تتبعه الصوفية ؟,42246561412,development_only,automated_draft_needs_human_check,no
+DG-C086,saudi,ماهو المذهب الذي تتبعه الصوفية ؟,42246561412,development_only,automated_draft_needs_human_check,no
+DG-C088,msa,من قتل الحسين بن على؟,526789583924,development_only,msa_draft_needs_check,no
+DG-C088,jordanian,مين قتل الحسين بن على؟,526789583924,development_only,automated_draft_needs_human_check,no
+DG-C088,egyptian,مين قتل الحسين بن على؟,526789583924,development_only,automated_draft_needs_human_check,no
+DG-C088,saudi,مين قتل الحسين بن على؟,526789583924,development_only,automated_draft_needs_human_check,no
+DG-C089,msa,متى تم إطلاق مشروع عجائب الدنيا السبع؟,296610141606,development_only,msa_draft_needs_check,no
+DG-C089,jordanian,إمتى تم إطلاق مشروع عجائب الدنيا السبع؟,296610141606,development_only,automated_draft_needs_human_check,no
+DG-C089,egyptian,إمتى تم إطلاق مشروع عجائب الدنيا السبع؟,296610141606,development_only,automated_draft_needs_human_check,no
+DG-C089,saudi,متى تم إطلاق مشروع عجائب الدنيا السبع؟,296610141606,development_only,automated_draft_needs_human_check,no
+DG-C093,msa,من كان قاءد المسلمين؟,120278039692,development_only,msa_draft_needs_check,no
+DG-C093,jordanian,مين كان قاءد المسلمين؟,120278039692,development_only,automated_draft_needs_human_check,no
+DG-C093,egyptian,مين كان قاءد المسلمين؟,120278039692,development_only,automated_draft_needs_human_check,no
+DG-C093,saudi,مين كان قاءد المسلمين؟,120278039692,development_only,automated_draft_needs_human_check,no
+DG-C094,msa,ما الدول التى تقع على شمال جدود الانتداب البريطانى؟,47888056963,development_only,msa_draft_needs_check,no
+DG-C094,jordanian,شو الدول التى تقع على شمال جدود الانتداب البريطانى؟,47888056963,development_only,automated_draft_needs_human_check,no
+DG-C094,egyptian,إيه الدول التى تقع على شمال جدود الانتداب البريطانى؟,47888056963,development_only,automated_draft_needs_human_check,no
+DG-C094,saudi,وش الدول التى تقع على شمال جدود الانتداب البريطانى؟,47888056963,development_only,automated_draft_needs_human_check,no
+DG-C095,msa,في أي عام تم نقل العاصمة أدرنه إلى القسطنطينية ؟,82557755105,development_only,msa_draft_needs_check,no
+DG-C095,jordanian,بأي عام تم نقل العاصمة أدرنه إلى القسطنطينية ؟,82557755105,development_only,automated_draft_needs_human_check,no
+DG-C095,egyptian,في أنهي عام تم نقل العاصمة أدرنه إلى القسطنطينية ؟,82557755105,development_only,automated_draft_needs_human_check,no
+DG-C095,saudi,في أي عام تم نقل العاصمة أدرنه إلى القسطنطينية ؟,82557755105,development_only,automated_draft_needs_human_check,no
+DG-C096,msa,أين أقيمت بطولة كأس العالم 2006؟,855692806617,development_only,msa_draft_needs_check,no
+DG-C096,jordanian,وين أقيمت بطولة كأس العالم 2006؟,855692806617,development_only,automated_draft_needs_human_check,no
+DG-C096,egyptian,فين أقيمت بطولة كأس العالم 2006؟,855692806617,development_only,automated_draft_needs_human_check,no
+DG-C096,saudi,وين أقيمت بطولة كأس العالم 2006؟,855692806617,development_only,automated_draft_needs_human_check,no
+DG-C097,msa,هل كرة القدم رياضة جماعية او فردية؟,364009179486,development_only,msa_draft_needs_check,no
+DG-C097,jordanian,هل كرة القدم رياضة جماعية او فردية؟,364009179486,development_only,automated_draft_needs_human_check,no
+DG-C097,egyptian,هل كرة القدم رياضة جماعية او فردية؟,364009179486,development_only,automated_draft_needs_human_check,no
+DG-C097,saudi,هل كرة القدم رياضة جماعية او فردية؟,364009179486,development_only,automated_draft_needs_human_check,no
+DG-C098,msa,ما الدولة التي تقع شمال شرق لبنان؟,190797397584,development_only,msa_draft_needs_check,no
+DG-C098,jordanian,شو الدولة التي تقع شمال شرق لبنان؟,190797397584,development_only,automated_draft_needs_human_check,no
+DG-C098,egyptian,إيه الدولة التي تقع شمال شرق لبنان؟,190797397584,development_only,automated_draft_needs_human_check,no
+DG-C098,saudi,وش الدولة التي تقع شمال شرق لبنان؟,190797397584,development_only,automated_draft_needs_human_check,no
+DG-C101,msa,ماهو العمل الذي عمل به الشافعي ؟,842507447169,development_only,msa_draft_needs_check,no
+DG-C101,jordanian,ماهو العمل الذي عمل به الشافعي ؟,842507447169,development_only,automated_draft_needs_human_check,no
+DG-C101,egyptian,ماهو العمل الذي عمل به الشافعي ؟,842507447169,development_only,automated_draft_needs_human_check,no
+DG-C101,saudi,ماهو العمل الذي عمل به الشافعي ؟,842507447169,development_only,automated_draft_needs_human_check,no
+DG-C102,msa,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,411898628201,development_only,msa_draft_needs_check,no
+DG-C102,jordanian,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,411898628201,development_only,automated_draft_needs_human_check,no
+DG-C102,egyptian,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,411898628201,development_only,automated_draft_needs_human_check,no
+DG-C102,saudi,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,411898628201,development_only,automated_draft_needs_human_check,no
+DG-C104,msa,ما هو الاسم الاخر للموناليزا؟,532994236002,development_only,msa_draft_needs_check,no
+DG-C104,jordanian,شو هو الاسم الاخر للموناليزا؟,532994236002,development_only,automated_draft_needs_human_check,no
+DG-C104,egyptian,إيه هو الاسم الاخر للموناليزا؟,532994236002,development_only,automated_draft_needs_human_check,no
+DG-C104,saudi,وش هو الاسم الاخر للموناليزا؟,532994236002,development_only,automated_draft_needs_human_check,no
+DG-C105,msa,في اي مدينة مقر النادي ؟,764453363797,development_only,msa_draft_needs_check,no
+DG-C105,jordanian,بأي مدينة مقر النادي ؟,764453363797,development_only,automated_draft_needs_human_check,no
+DG-C105,egyptian,في أنهي مدينة مقر النادي ؟,764453363797,development_only,automated_draft_needs_human_check,no
+DG-C105,saudi,في أي مدينة مقر النادي ؟,764453363797,development_only,automated_draft_needs_human_check,no
+DG-C106,msa,في اْي عام ولد نجيب محفوظ؟,579344661486,development_only,msa_draft_needs_check,no
+DG-C106,jordanian,في اْي عام ولد نجيب محفوظ؟,579344661486,development_only,automated_draft_needs_human_check,no
+DG-C106,egyptian,في اْي عام ولد نجيب محفوظ؟,579344661486,development_only,automated_draft_needs_human_check,no
+DG-C106,saudi,في اْي عام ولد نجيب محفوظ؟,579344661486,development_only,automated_draft_needs_human_check,no
+DG-C107,msa,كم جزيرة فى الجزء الكاريبى من هولندا؟,451086784603,development_only,msa_draft_needs_check,no
+DG-C107,jordanian,قديش جزيرة فى الجزء الكاريبى من هولندا؟,451086784603,development_only,automated_draft_needs_human_check,no
+DG-C107,egyptian,كام جزيرة فى الجزء الكاريبى من هولندا؟,451086784603,development_only,automated_draft_needs_human_check,no
+DG-C107,saudi,كم جزيرة فى الجزء الكاريبى من هولندا؟,451086784603,development_only,automated_draft_needs_human_check,no
+DG-C108,msa,ماذا يحد اسيا من الجنوب؟,10398694807,development_only,msa_draft_needs_check,no
+DG-C108,jordanian,شو يحد اسيا من الجنوب؟,10398694807,development_only,automated_draft_needs_human_check,no
+DG-C108,egyptian,إيه يحد اسيا من الجنوب؟,10398694807,development_only,automated_draft_needs_human_check,no
+DG-C108,saudi,وش يحد اسيا من الجنوب؟,10398694807,development_only,automated_draft_needs_human_check,no
+DG-C109,msa,كم تبلغ مساحة ايسلندا؟,297040168862,development_only,msa_draft_needs_check,no
+DG-C109,jordanian,قديش تبلغ مساحة ايسلندا؟,297040168862,development_only,automated_draft_needs_human_check,no
+DG-C109,egyptian,كام تبلغ مساحة ايسلندا؟,297040168862,development_only,automated_draft_needs_human_check,no
+DG-C109,saudi,كم تبلغ مساحة ايسلندا؟,297040168862,development_only,automated_draft_needs_human_check,no
+DG-C110,msa,كم عمر اللبوات عادة؟,687863907593,development_only,msa_draft_needs_check,no
+DG-C110,jordanian,قديش عمر اللبوات عادة؟,687863907593,development_only,automated_draft_needs_human_check,no
+DG-C110,egyptian,كام عمر اللبوات عادة؟,687863907593,development_only,automated_draft_needs_human_check,no
+DG-C110,saudi,كم عمر اللبوات عادة؟,687863907593,development_only,automated_draft_needs_human_check,no
+DG-C111,msa,في أي عام طرح ألبرت أينشتاين النسبية العامة؟,208462133326,development_only,msa_draft_needs_check,no
+DG-C111,jordanian,بأي عام طرح ألبرت أينشتاين النسبية العامة؟,208462133326,development_only,automated_draft_needs_human_check,no
+DG-C111,egyptian,في أنهي عام طرح ألبرت أينشتاين النسبية العامة؟,208462133326,development_only,automated_draft_needs_human_check,no
+DG-C111,saudi,في أي عام طرح ألبرت أينشتاين النسبية العامة؟,208462133326,development_only,automated_draft_needs_human_check,no
+DG-C113,msa,في أي جزء من العالم ترتفع إحصائيات الوفيات بسبب الإيدز؟,558688869371,development_only,msa_draft_needs_check,no
+DG-C113,jordanian,بأي جزء من العالم ترتفع إحصائيات الوفيات بسبب الإيدز؟,558688869371,development_only,automated_draft_needs_human_check,no
+DG-C113,egyptian,في أنهي جزء من العالم ترتفع إحصائيات الوفيات بسبب الإيدز؟,558688869371,development_only,automated_draft_needs_human_check,no
+DG-C113,saudi,في أي جزء من العالم ترتفع إحصائيات الوفيات بسبب الإيدز؟,558688869371,development_only,automated_draft_needs_human_check,no
+DG-C114,msa,من وحد إيران في إمبراطورية ؟,77352932221,development_only,msa_draft_needs_check,no
+DG-C114,jordanian,مين وحد إيران في إمبراطورية ؟,77352932221,development_only,automated_draft_needs_human_check,no
+DG-C114,egyptian,مين وحد إيران في إمبراطورية ؟,77352932221,development_only,automated_draft_needs_human_check,no
+DG-C114,saudi,مين وحد إيران في إمبراطورية ؟,77352932221,development_only,automated_draft_needs_human_check,no
+DG-C115,msa,أين درس ابن خلدون؟,36995991486,development_only,msa_draft_needs_check,no
+DG-C115,jordanian,وين درس ابن خلدون؟,36995991486,development_only,automated_draft_needs_human_check,no
+DG-C115,egyptian,فين درس ابن خلدون؟,36995991486,development_only,automated_draft_needs_human_check,no
+DG-C115,saudi,وين درس ابن خلدون؟,36995991486,development_only,automated_draft_needs_human_check,no
+DG-C119,msa,اين ولد الاسكندر ؟,61384869887,development_only,msa_draft_needs_check,no
+DG-C119,jordanian,وين ولد الاسكندر ؟,61384869887,development_only,automated_draft_needs_human_check,no
+DG-C119,egyptian,فين ولد الاسكندر ؟,61384869887,development_only,automated_draft_needs_human_check,no
+DG-C119,saudi,وين ولد الاسكندر ؟,61384869887,development_only,automated_draft_needs_human_check,no
+DG-C120,msa,كم سنة دامت الحرب الاهلية الروسية؟,299453613117,development_only,msa_draft_needs_check,no
+DG-C120,jordanian,قديش سنة دامت الحرب الاهلية الروسية؟,299453613117,development_only,automated_draft_needs_human_check,no
+DG-C120,egyptian,كام سنة دامت الحرب الاهلية الروسية؟,299453613117,development_only,automated_draft_needs_human_check,no
+DG-C120,saudi,كم سنة دامت الحرب الاهلية الروسية؟,299453613117,development_only,automated_draft_needs_human_check,no
+DG-C121,msa,ماذا يعد التهاب لبزائدة الدودية؟,429410894693,development_only,msa_draft_needs_check,no
+DG-C121,jordanian,شو يعد التهاب لبزائدة الدودية؟,429410894693,development_only,automated_draft_needs_human_check,no
+DG-C121,egyptian,إيه يعد التهاب لبزائدة الدودية؟,429410894693,development_only,automated_draft_needs_human_check,no
+DG-C121,saudi,وش يعد التهاب لبزائدة الدودية؟,429410894693,development_only,automated_draft_needs_human_check,no
+DG-C122,msa,أين نشبت الحرب العالمية الأولى في البداية؟,296471783721,development_only,msa_draft_needs_check,no
+DG-C122,jordanian,وين نشبت الحرب العالمية الأولى في البداية؟,296471783721,development_only,automated_draft_needs_human_check,no
+DG-C122,egyptian,فين نشبت الحرب العالمية الأولى في البداية؟,296471783721,development_only,automated_draft_needs_human_check,no
+DG-C122,saudi,وين نشبت الحرب العالمية الأولى في البداية؟,296471783721,development_only,automated_draft_needs_human_check,no
+DG-C123,msa,كم بلد شارك في الحرب العالمية الثانية؟,41119045234,development_only,msa_draft_needs_check,no
+DG-C123,jordanian,قديش بلد شارك في الحرب العالمية الثانية؟,41119045234,development_only,automated_draft_needs_human_check,no
+DG-C123,egyptian,كام بلد شارك في الحرب العالمية الثانية؟,41119045234,development_only,automated_draft_needs_human_check,no
+DG-C123,saudi,كم بلد شارك في الحرب العالمية الثانية؟,41119045234,development_only,automated_draft_needs_human_check,no
+DG-C125,msa,متى ضم العثمانيون الشام و مصر و الحجاز؟,371001146214,development_only,msa_draft_needs_check,no
+DG-C125,jordanian,إمتى ضم العثمانيون الشام و مصر و الحجاز؟,371001146214,development_only,automated_draft_needs_human_check,no
+DG-C125,egyptian,إمتى ضم العثمانيون الشام و مصر و الحجاز؟,371001146214,development_only,automated_draft_needs_human_check,no
+DG-C125,saudi,متى ضم العثمانيون الشام و مصر و الحجاز؟,371001146214,development_only,automated_draft_needs_human_check,no
+DG-C127,msa,أين تقع المملكة العربية السعودية في آسيا؟,262204981583,development_only,msa_draft_needs_check,no
+DG-C127,jordanian,وين تقع المملكة العربية السعودية في آسيا؟,262204981583,development_only,automated_draft_needs_human_check,no
+DG-C127,egyptian,فين تقع المملكة العربية السعودية في آسيا؟,262204981583,development_only,automated_draft_needs_human_check,no
+DG-C127,saudi,وين تقع المملكة العربية السعودية في آسيا؟,262204981583,development_only,automated_draft_needs_human_check,no
+DG-C129,msa,ما اسم جمهورية الصين الشعبية باللغة الصينية؟,930272774853,development_only,msa_draft_needs_check,no
+DG-C129,jordanian,شو اسم جمهورية الصين الشعبية باللغة الصينية؟,930272774853,development_only,automated_draft_needs_human_check,no
+DG-C129,egyptian,إيه اسم جمهورية الصين الشعبية باللغة الصينية؟,930272774853,development_only,automated_draft_needs_human_check,no
+DG-C129,saudi,وش اسم جمهورية الصين الشعبية باللغة الصينية؟,930272774853,development_only,automated_draft_needs_human_check,no
+DG-C130,msa,ما الدولة التي تحد العراق من الشمال؟,990192035872,development_only,msa_draft_needs_check,no
+DG-C130,jordanian,شو الدولة التي تحد العراق من الشمال؟,990192035872,development_only,automated_draft_needs_human_check,no
+DG-C130,egyptian,إيه الدولة التي تحد العراق من الشمال؟,990192035872,development_only,automated_draft_needs_human_check,no
+DG-C130,saudi,وش الدولة التي تحد العراق من الشمال؟,990192035872,development_only,automated_draft_needs_human_check,no
