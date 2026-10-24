@@ -1,0 +1,1 @@
+﻿run_id,question_id,base_question_id,variety,split,condition,target_model_id,generator_model_id,raw_answer,final_answer,risk_score,risk_flag,intervention_triggered,normalized_question,retrieved_passage_ids,retrieval_count,generation_count,latency_ms,prompt_version,temperature,max_new_tokens,seed,corpus_version,pipeline_version,run_status
