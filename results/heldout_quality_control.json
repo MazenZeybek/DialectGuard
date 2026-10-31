@@ -1,0 +1,64 @@
+{
+  "dataset_version": "heldout-v0.1-review-locked",
+  "frozen_commit": "12cd956c5a1afc11b3a156c1e64f8d863e97a09a",
+  "total_rows": 1600,
+  "unique_questions": 400,
+  "reported_errors": 0,
+  "empty_final_answers": 8,
+  "empty_answer_rate": 0.005,
+  "empty_answer_ids": [
+    {
+      "question_id": "DG-HT007__msa",
+      "condition": "always_rag"
+    },
+    {
+      "question_id": "DG-HT007__msa",
+      "condition": "dialectguard"
+    },
+    {
+      "question_id": "DG-HT009__egyptian",
+      "condition": "dialectguard"
+    },
+    {
+      "question_id": "DG-HT009__saudi",
+      "condition": "always_rag"
+    },
+    {
+      "question_id": "DG-HT009__saudi",
+      "condition": "dialectguard"
+    },
+    {
+      "question_id": "DG-HT010__saudi",
+      "condition": "always_rag"
+    },
+    {
+      "question_id": "DG-HT024__jordanian",
+      "condition": "always_rag"
+    },
+    {
+      "question_id": "DG-HT025__jordanian",
+      "condition": "always_rag"
+    }
+  ],
+  "risk_breakdown": {
+    "high": 378,
+    "low": 22
+  },
+  "intervention_breakdown": {
+    "True": 378,
+    "False": 22
+  },
+  "conditions": {
+    "baseline": 400,
+    "normalization": 400,
+    "always_rag": 400,
+    "dialectguard": 400
+  },
+  "limitations": [
+    "Eight Granite-generated final answers are empty despite run_status=ok.",
+    "Held-out dataset is review-locked v0.1 without documented independent linguistic signoff.",
+    "Evidence corpus was development-relevance screened, not independently fact-verified.",
+    "Standard RAG comparison confounds model identity with retrieval.",
+    "Accuracy and hallucination rates require blind gold-answer evaluation by Researcher A."
+  ]
+}
