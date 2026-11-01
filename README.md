@@ -1,5 +1,20 @@
-
 # DialectGuard
+
+## Research Purpose and Project Disclaimer
+
+DialectGuard is an independent research project developed by **Abdallah Al Homsi and Mazen Zeybek** primarily to gain practical experience in academic research, artificial intelligence, natural language processing, and experimental evaluation.
+
+Our main objective was to learn and apply the complete research process, including identifying a research problem, reviewing scientific literature, designing a methodology, implementing machine-learning systems, conducting experiments, analyzing results, and preparing an academic research paper.
+
+The project represents our exploration of factual reliability in Arabic Large Language Models (LLMs), with particular attention to dialectal variation, risk detection, and retrieval-augmented generation.
+
+**We recognize that the current implementation and experimental results have significant room for improvement.** The models, risk-detection strategy, retrieval mechanisms, evaluation methodology, and computational efficiency can all be further refined and optimized.
+
+The findings presented in this repository should therefore be understood as the outcomes of an exploratory research study rather than a definitive or production-ready solution to factual reliability in Arabic LLMs.
+
+Our goal is to establish a foundation for continued learning, experimentation, and future research. We hope that the project can be expanded through improved models, larger and more diverse datasets, stronger factual verification, and more efficient adaptive retrieval strategies.
+
+Both successful and unsuccessful experimental outcomes are documented transparently because understanding the limitations of a proposed approach is an essential part of scientific research.
 
 ### Adaptive Detection and Mitigation of Factual Reliability Failures in Arabic Large Language Models
 
@@ -663,3 +678,236 @@ Relevant work includes:
 These studies provide methodological background. DialectGuard specifically investigates response-risk-triggered mitigation for Arabic factual question answering.
 
 ---
+
+## 18. Related Research
+
+DialectGuard was developed with reference to existing research on Arabic language models, factual reliability, hallucination detection, and retrieval-augmented generation.
+
+The following studies provided important background and methodological inspiration.
+
+### 18.1 Arabic Language Model Evaluation
+
+**DialectalArabicMMLU**
+
+Research investigating the evaluation of large language models across Arabic dialects.
+
+This work informed our interest in understanding how differences between Modern Standard Arabic and regional varieties may influence model behavior and factual question answering.
+
+Reference:
+https://aclanthology.org/2026.lrec-1.251/
+
+### 18.2 Arabic Hallucination Evaluation
+
+**AraHalluEval**
+
+Research addressing hallucination evaluation in Arabic large language models.
+
+This work provided background for investigating factual errors and the importance of evaluating generated answers beyond simple text matching.
+
+Reference:
+https://aclanthology.org/2025.arabicnlp-main.12/
+
+### 18.3 Adaptive Retrieval-Augmented Generation
+
+**Adaptive-RAG**
+
+Jeong et al. (2024) investigated adaptive retrieval strategies that select retrieval procedures according to question complexity.
+
+This research motivated our exploration of selective intervention. DialectGuard differs in its use of response-level risk signals, including model disagreement and non-answer behavior, rather than relying exclusively on question complexity.
+
+Reference:
+https://aclanthology.org/2024.naacl-long.389/
+
+### 18.4 Self-Reflective Retrieval
+
+**Self-RAG**
+
+Asai et al. (2024) explored retrieval-augmented language models that learn to retrieve information and reflect on generated responses.
+
+This work provided conceptual background for combining generation with mechanisms intended to improve reliability.
+
+Reference:
+https://arxiv.org/abs/2310.11511
+
+### 18.5 Active Retrieval
+
+**FLARE**
+
+Jiang et al. (2023) investigated active retrieval during language-model generation.
+
+This research provided background for the broader concept of using retrieval selectively rather than assuming that all generation tasks require an identical retrieval procedure.
+
+Reference:
+https://aclanthology.org/2023.emnlp-main.495/
+
+### Research Positioning
+
+DialectGuard builds on these research directions by investigating whether response-risk signals can be used to trigger corrective interventions for Arabic factual question answering.
+
+The project does not claim to introduce the first adaptive retrieval system or the first Arabic hallucination evaluation framework.
+
+Instead, it contributes an exploratory implementation and experimental comparison of risk-aware intervention across four Arabic linguistic varieties.
+
+---
+
+## 19. Research Paper and Citation
+
+### Research Paper
+
+**Title:**
+
+*DialectGuard: Evaluating Response-Risk-Triggered Retrieval for Factual Question Answering Across Arabic Varieties*
+
+**Authors:**
+
+- Abdallah Al Homsi
+- Mazen Zeybek
+
+**Research type:** Independent exploratory research
+
+**Research areas:**
+
+- Natural Language Processing
+- Arabic Large Language Models
+- Factual Question Answering
+- Hallucination Detection
+- Retrieval-Augmented Generation
+- Adaptive AI Systems
+
+The research paper documents the motivation, related literature, system architecture, experimental methodology, findings, limitations, and future research directions.
+
+The manuscript was prepared as an academic research paper and is intended for further review and potential submission to an appropriate research conference or journal.
+
+### Research Repository
+
+https://github.com/MazenZeybek/DialectGuard
+
+### Citation
+
+The research has not yet been assigned a DOI or an official publication record.
+
+Until a formal publication is available, researchers may reference the repository and the specific commit associated with the experimental results.
+
+A formal BibTeX citation will be added after the research paper receives a public preprint identifier or publication record.
+
+### Publication Status
+
+The project implementation and experimental runs have been completed.
+
+The research paper has been drafted, while additional independent factual validation and publication-specific review remain important before formal submission.
+
+---
+
+## 20. License and Contributions
+
+### License
+
+The repository maintainers have not yet specified a software license.
+
+Unless a license is explicitly added, the public availability of this repository does not automatically grant permission for unrestricted reuse, redistribution, or modification.
+
+### Authors and Contributions
+
+**Abdallah Al Homsi**
+
+Research design, literature review, dataset preparation, Arabic dialect adaptation, evaluation methodology, factual-answer analysis, statistical analysis, and research-paper development.
+
+**Mazen Zeybek**
+
+System architecture, language-model integration, risk-detection implementation, retrieval and mitigation pipelines, experimental execution, optimization, benchmarking, and technical documentation.
+
+Both authors contributed to the development, experimental investigation, interpretation, and overall direction of the research project.
+
+### Collaboration
+
+DialectGuard was independently developed through collaboration between the two authors.
+
+The project was undertaken primarily as a learning and research experience, with the intention of gaining practical knowledge of machine-learning experimentation and academic scientific writing.
+
+### Future Contributions
+
+Potential areas for future development include:
+
+- More accurate and selective risk-detection mechanisms.
+- Stronger Arabic dialect understanding and normalization.
+- Larger and independently validated factual question-answering datasets.
+- Improved evidence retrieval and factual verification.
+- Better computational efficiency and reduced model overhead.
+- Additional multilingual and cross-dialect experiments.
+- Improved model calibration and uncertainty estimation.
+- More extensive human evaluation and statistical validation.
+
+Contributions or research-related inquiries may be directed to the repository maintainers.
+
+---
+
+## 21. Project Status and Future Directions
+
+### Current Project Status
+
+| Component | Status |
+|---|---|
+| Research problem identification | Completed |
+| Literature review | Completed |
+| Research methodology | Completed |
+| Dataset preparation | Completed |
+| Arabic dialect adaptation | Completed |
+| Model integration | Completed |
+| Risk-detection implementation | Completed |
+| Retrieval and mitigation pipeline | Completed |
+| Development experiments | Completed |
+| Controlled RAG experiments | Completed |
+| Ablation studies | Completed |
+| Efficiency benchmarking | Completed |
+| Held-out experimental execution | Completed |
+| Preliminary factual-answer evaluation | Completed |
+| Statistical analysis with uncertainty reporting | Completed |
+| Independent factual and evidence-support verification | Further validation required |
+| Research manuscript | Draft completed |
+| Conference or journal publication | Not yet submitted |
+
+### Interpretation of the Results
+
+The experiments demonstrated that a response-risk-triggered retrieval system can be implemented and evaluated across several Arabic linguistic varieties.
+
+However, the current DialectGuard configuration exhibited a high intervention rate and greater computational latency than always-on RAG.
+
+The available evaluation also did not establish a reliable factual-accuracy advantage over the comparison systems.
+
+These results highlight important challenges in balancing factual reliability, risk-detection selectivity, and computational efficiency.
+
+**The current outcomes should not be interpreted as the maximum achievable performance of the proposed approach.**
+
+Substantial opportunities remain to improve the detection strategy, model selection, evidence retrieval, evaluation procedures, and overall architecture.
+
+### Future Research Directions
+
+Future versions of DialectGuard could investigate:
+
+1. **Improved risk detection:** Develop calibrated or learned risk detectors that reduce unnecessary interventions while maintaining sensitivity to factual errors.
+
+2. **More efficient architectures:** Reduce the cost of multi-model disagreement analysis through smaller specialized detectors, model sharing, or lightweight confidence estimation.
+
+3. **Enhanced retrieval:** Improve evidence coverage, retrieval quality, reranking, and source verification.
+
+4. **Better factual evaluation:** Expand independent human annotation and claim-level evidence verification.
+
+5. **Larger benchmarks:** Evaluate more factual questions, additional Arabic dialects, and multiple subject domains.
+
+6. **Controlled model comparisons:** Use the same answer generator across conditions to isolate the effects of normalization, retrieval, and intervention policies.
+
+7. **Cross-model generalization:** Test whether the observed findings extend to other Arabic and multilingual language models.
+
+8. **Deployment-oriented testing:** Evaluate latency, throughput, and resource consumption under more realistic operational conditions.
+
+### Final Note
+
+DialectGuard represents an important learning milestone for its authors.
+
+The purpose of this research was not only to propose a technical solution but also to develop the skills needed to conduct meaningful academic research.
+
+Through this project, the authors gained experience in reviewing literature, preparing datasets, implementing language-model systems, designing experiments, interpreting results, documenting limitations, and communicating scientific findings.
+
+The current implementation provides a foundation for future work, and its limitations identify valuable opportunities for further investigation.
+
+**The project is presented as an exploratory research contribution and a starting point for continued improvement, rather than a finished or definitive solution.**
