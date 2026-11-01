@@ -23,7 +23,7 @@ import pandas as pd
 from huggingface_hub import snapshot_download
 from sentence_transformers import SentenceTransformer, CrossEncoder
 
-from src.week2_pipeline import (
+from src.development_pipeline import (
     ModelManager, QWEN, GRANITE, EMBEDDING_MODEL, RERANK_MODEL,
     GROUNDING_MAX_TOKENS, normalize_question_week2,
     retrieve_passages, grounding_prompt,

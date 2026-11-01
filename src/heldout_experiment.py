@@ -29,7 +29,7 @@ from pathlib import Path
 import pandas as pd
 from sentence_transformers import SentenceTransformer, CrossEncoder
 
-from src import week2_pipeline as w
+from src import development_pipeline as w
 
 
 ZIP_PATH = Path(
