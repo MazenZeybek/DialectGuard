@@ -841,31 +841,6 @@ Contributions or research-related inquiries may be directed to the repository ma
 
 ---
 
-## 21. Project Status and Future Directions
-
-### Current Project Status
-
-| Component | Status |
-|---|---|
-| Research problem identification | Completed |
-| Literature review | Completed |
-| Research methodology | Completed |
-| Dataset preparation | Completed |
-| Arabic dialect adaptation | Completed |
-| Model integration | Completed |
-| Risk-detection implementation | Completed |
-| Retrieval and mitigation pipeline | Completed |
-| Development experiments | Completed |
-| Controlled RAG experiments | Completed |
-| Ablation studies | Completed |
-| Efficiency benchmarking | Completed |
-| Held-out experimental execution | Completed |
-| Preliminary factual-answer evaluation | Completed |
-| Statistical analysis with uncertainty reporting | Completed |
-| Independent factual and evidence-support verification | Further validation required |
-| Research manuscript | Draft completed |
-| Conference or journal publication | Not yet submitted |
-
 ### Interpretation of the Results
 
 The experiments demonstrated that a response-risk-triggered retrieval system can be implemented and evaluated across several Arabic linguistic varieties.
