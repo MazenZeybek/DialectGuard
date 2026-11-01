@@ -16,6 +16,7 @@ The held-out test dataset is never loaded.
 
 import argparse
 import csv
+import json
 import time
 from pathlib import Path
 
@@ -203,7 +204,26 @@ class ModelManager:
                 flush=True,
             )
 
-            model, tokenizer = load(model_id)
+            from huggingface_hub import snapshot_download
+
+            with open(
+                "config/model_revisions.json",
+                encoding="utf-8",
+            ) as f:
+                revisions = json.load(f)
+
+            model_config = next(
+                item for item in revisions.values()
+                if item["id"] == model_id
+            )
+
+            model_path = snapshot_download(
+                repo_id=model_id,
+                revision=model_config["revision"],
+                local_files_only=True,
+            )
+
+            model, tokenizer = load(model_path)
 
             self.current_model = model
             self.current_tokenizer = tokenizer
@@ -832,10 +852,18 @@ def main():
     manager = ModelManager()
 
     print("Loading embedding model...")
-    encoder = SentenceTransformer(EMBEDDING_MODEL)
+    encoder = SentenceTransformer(
+        EMBEDDING_MODEL,
+        revision="e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+        local_files_only=True,
+    )
 
     print("Loading reranker...")
-    reranker = CrossEncoder(RERANK_MODEL)
+    reranker = CrossEncoder(
+        RERANK_MODEL,
+        revision="1427fd652930e4ba29e8149678df786c240d8825",
+        local_files_only=True,
+    )
 
     evidence = pd.read_csv(EVIDENCE_FILE)
     evidence = evidence.dropna(

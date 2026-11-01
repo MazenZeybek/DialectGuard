@@ -1,0 +1,22 @@
+{
+  "qwen": {
+    "id": "mlx-community/Qwen3-4B-4bit",
+    "revision": "4dcb3d101c2a062e5c1d4bb173588c54ea6c4d25"
+  },
+  "gemma": {
+    "id": "mlx-community/gemma-3-4b-it-4bit",
+    "revision": "93724907d4ed1745d2fe50baadf3b0b01a65abf2"
+  },
+  "granite": {
+    "id": "ibm-research/granite-4.0-h-3b-ar",
+    "revision": "b32260f6a427527d0c38a463c656b8d3b8560c26"
+  },
+  "embedding": {
+    "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42"
+  },
+  "reranker": {
+    "id": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+    "revision": "1427fd652930e4ba29e8149678df786c240d8825"
+  }
+}

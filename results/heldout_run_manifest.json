@@ -1,0 +1,84 @@
+{
+  "experiment": "DialectGuard final held-out",
+  "dataset_version": "heldout-v0.1-review-locked",
+  "git_commit": "12cd956c5a1afc11b3a156c1e64f8d863e97a09a",
+  "test_sha256": "bec177c1e60635a7d6e2e0b27e8fcdd17eaaa83bd35c34cccba89844f1d4971e",
+  "handoff_zip_sha256": "aefbc9a1e8db8fda7c30ec40cec3054c51fda348c9b86aaf00feac7260946246",
+  "corpus_sha256": "a1f913ad427ec75b23b91e1eea3014fec8f5c64959876dc195b771fd8224bf0a",
+  "configuration": {
+    "models_file": "config/model_revisions.json",
+    "conditions": [
+      "baseline",
+      "normalization",
+      "always_rag",
+      "dialectguard"
+    ],
+    "varieties": [
+      "msa",
+      "jordanian",
+      "egyptian",
+      "saudi"
+    ],
+    "temperature": 0.0,
+    "max_new_tokens": 80,
+    "grounding_max_tokens": 120,
+    "normalization_max_tokens": 100,
+    "risk_threshold": 1,
+    "prompt_version": "week2-prompts-v2",
+    "pipeline_version": "week2-development-v2",
+    "corpus_version": "week2-37-passages-screened-v1",
+    "corpus_file": "results/week2_evidence_final.csv",
+    "corpus_sha256": "a1f913ad427ec75b23b91e1eea3014fec8f5c64959876dc195b771fd8224bf0a",
+    "seed": null,
+    "development_base_questions": 65,
+    "heldout_base_questions": 100,
+    "heldout_variants": 400,
+    "heldout_status": "DO_NOT_RUN_UNTIL_FINAL_FREEZE"
+  },
+  "model_revisions": {
+    "qwen": {
+      "id": "mlx-community/Qwen3-4B-4bit",
+      "revision": "4dcb3d101c2a062e5c1d4bb173588c54ea6c4d25"
+    },
+    "gemma": {
+      "id": "mlx-community/gemma-3-4b-it-4bit",
+      "revision": "93724907d4ed1745d2fe50baadf3b0b01a65abf2"
+    },
+    "granite": {
+      "id": "ibm-research/granite-4.0-h-3b-ar",
+      "revision": "b32260f6a427527d0c38a463c656b8d3b8560c26"
+    },
+    "embedding": {
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42"
+    },
+    "reranker": {
+      "id": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+      "revision": "1427fd652930e4ba29e8149678df786c240d8825"
+    }
+  },
+  "conditions": [
+    "baseline",
+    "normalization",
+    "always_rag",
+    "dialectguard"
+  ],
+  "input_split": "heldout_review_locked",
+  "output_split": "test",
+  "expected_rows": 1600,
+  "timing_method": "Per-question timing includes model inference and model switching. DialectGuard sums three fresh detector generations, risk calculation, and conditional intervention. Embedding and reranker initialization and FAISS index build are excluded. Shared detector answers are not regenerated for the baseline condition.",
+  "limitations": [
+    "Held-out dataset is review-locked v0.1.",
+    "Independent linguistic signoff not established.",
+    "Final semantic overlap documentation pending.",
+    "Evidence was development-relevance screened but not independently fact-verified.",
+    "Standard Qwen-versus-Granite comparison confounds retrieval with generator identity.",
+    "Sequential local model loading affects latency."
+  ],
+  "started_utc": "2026-10-30T23:03:05.422749+00:00",
+  "status": "complete",
+  "successful_rows": 1600,
+  "error_rows": 0,
+  "finished_utc": "2026-10-31T02:19:12.740752+00:00",
+  "output_sha256": "d462175809838f92666da1df5c5187fd5417d97add13dd6b198982d70ecb97a1"
+}

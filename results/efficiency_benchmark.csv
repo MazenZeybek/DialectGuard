@@ -1,0 +1,81 @@
+question_id,base_question_id,variety,condition,historical_risk_flag,measured_risk_flag,answer,total_ms,model_switch_ms,excluding_model_switch_ms,generation_count,retrieval_count,run_status
+DG-C031__msa,DG-C031,msa,baseline,high,,القارة الأكبر في السكان هي أوروبا.,2342.76,1479.05,863.72,1,0,ok
+DG-C031__msa,DG-C031,msa,normalization,high,,القارة الأكبر في السكان هي أوروبا.,406.51,0.0,406.51,1,0,ok
+DG-C031__msa,DG-C031,msa,always_rag,high,,القارة الآسيوية,8610.65,4019.66,4590.99,1,1,ok
+DG-C031__msa,DG-C031,msa,dialectguard,high,high,القارة الآسيوية,13984.62,7505.81,6478.8,4,1,ok
+DG-C037__msa,DG-C037,msa,baseline,low,,طهران.,1783.81,1486.13,297.68,1,0,ok
+DG-C037__msa,DG-C037,msa,normalization,low,,طهران.,272.48,0.0,272.48,1,0,ok
+DG-C037__msa,DG-C037,msa,always_rag,low,,لا أعرف,7562.96,3467.59,4095.37,1,1,ok
+DG-C037__msa,DG-C037,msa,dialectguard,low,low,طهران.,10090.97,7310.37,2780.61,3,0,ok
+DG-C038__msa,DG-C038,msa,baseline,high,,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,1806.11,1176.62,629.49,1,0,ok
+DG-C038__msa,DG-C038,msa,normalization,high,,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,552.14,0.0,552.14,1,0,ok
+DG-C038__msa,DG-C038,msa,always_rag,high,,ولد ابن خلدون في العام 270 هـ الموافق للعام 884م.,8654.49,3526.85,5127.64,1,1,ok
+DG-C038__msa,DG-C038,msa,dialectguard,high,high,ولد ابن خلدون في العام 270 هـ الموافق للعام 884م.,14962.12,7129.94,7832.18,4,1,ok
+DG-C102__msa,DG-C102,msa,baseline,low,,بدأ حكم محمد علي باشا في مصر عام 1805.,1885.25,1407.39,477.86,1,0,ok
+DG-C102__msa,DG-C102,msa,normalization,low,,بدأ حكم محمد علي باشا في مصر عام 1805.,448.58,0.0,448.58,1,0,ok
+DG-C102__msa,DG-C102,msa,always_rag,low,,لا أعرف,7653.39,3428.08,4225.31,1,1,ok
+DG-C102__msa,DG-C102,msa,dialectguard,low,low,بدأ حكم محمد علي باشا في مصر عام 1805.,10441.47,7165.36,3276.11,3,0,ok
+DG-C041__msa,DG-C041,msa,baseline,high,,سقطت دولة الأندلس في عام 1461.,1738.29,1278.15,460.14,1,0,ok
+DG-C041__msa,DG-C041,msa,normalization,high,,سقطت دولة الأندلس في عام 1461.,433.12,0.0,433.12,1,0,ok
+DG-C041__msa,DG-C041,msa,always_rag,high,,1233 هـ,7754.41,3590.79,4163.62,1,1,ok
+DG-C041__msa,DG-C041,msa,dialectguard,high,high,1233 هـ,13193.47,7128.6,6064.88,4,1,ok
+DG-C127__msa,DG-C127,msa,baseline,low,,تقع المملكة العربية السعودية في جزء جنوب غرب آسيا.,1923.43,1421.43,502.0,1,0,ok
+DG-C127__msa,DG-C127,msa,normalization,low,,تقع المملكة العربية السعودية في جزء جنوب غرب آسيا.,476.51,0.0,476.51,1,0,ok
+DG-C127__msa,DG-C127,msa,always_rag,low,,الجزء الغربي من قارة آسيا.,7955.77,3442.92,4512.85,1,1,ok
+DG-C127__msa,DG-C127,msa,dialectguard,low,low,تقع المملكة العربية السعودية في جزء جنوب غرب آسيا.,11407.25,7297.91,4109.35,3,0,ok
+DG-C031__jordanian,DG-C031,jordanian,baseline,high,,القارة الأكبر في السكان هي أوروبا.,1746.57,1317.33,429.24,1,0,ok
+DG-C031__jordanian,DG-C031,jordanian,normalization,high,,القارة الأكثر سكانًا هي أوروبا.,8417.57,4892.54,3525.02,2,0,ok
+DG-C031__jordanian,DG-C031,jordanian,always_rag,high,,القارة الإفريقية,7876.52,3485.57,4390.95,1,1,ok
+DG-C031__jordanian,DG-C031,jordanian,dialectguard,high,high,أكثر القارات سكانًا هي آسيا.,14570.64,7120.14,7450.49,5,1,ok
+DG-C037__jordanian,DG-C037,jordanian,baseline,low,,طهران.,1615.6,1324.5,291.1,1,0,ok
+DG-C037__jordanian,DG-C037,jordanian,normalization,low,,طهران.,8550.55,4922.91,3627.63,2,0,ok
+DG-C037__jordanian,DG-C037,jordanian,always_rag,low,,لا أعرف,7791.0,3452.96,4338.04,1,1,ok
+DG-C037__jordanian,DG-C037,jordanian,dialectguard,low,low,طهران.,9990.0,7144.42,2845.58,3,0,ok
+DG-C038__jordanian,DG-C038,jordanian,baseline,high,,2001.,1578.28,1270.17,308.11,1,0,ok
+DG-C038__jordanian,DG-C038,jordanian,normalization,high,,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,8636.37,4845.41,3790.96,2,0,ok
+DG-C038__jordanian,DG-C038,jordanian,always_rag,high,,الإجابة: لا أعرف,8018.54,3517.68,4500.85,1,1,ok
+DG-C038__jordanian,DG-C038,jordanian,dialectguard,high,high,ولد ابن خلدون في العام 270 هـ الموافق للعام 884م.,16597.5,7377.21,9220.28,5,1,ok
+DG-C098__jordanian,DG-C098,jordanian,baseline,low,,سوريا.,1702.93,1422.2,280.74,1,0,ok
+DG-C098__jordanian,DG-C098,jordanian,normalization,low,,سوريا.,7625.93,4726.4,2899.53,2,0,ok
+DG-C098__jordanian,DG-C098,jordanian,always_rag,low,,سوريا,7560.22,3462.2,4098.02,1,1,ok
+DG-C098__jordanian,DG-C098,jordanian,dialectguard,low,low,سوريا.,9646.88,7296.17,2350.71,3,0,ok
+DG-C041__jordanian,DG-C041,jordanian,baseline,high,,سقطت دولة الأندلس في عام 1461.,1850.07,1374.12,475.95,1,0,ok
+DG-C041__jordanian,DG-C041,jordanian,normalization,high,,سقطت دولة الأندلس في عام 1461.,8368.88,4830.52,3538.36,2,0,ok
+DG-C041__jordanian,DG-C041,jordanian,always_rag,high,,1233 هـ,7808.37,3436.73,4371.64,1,1,ok
+DG-C041__jordanian,DG-C041,jordanian,dialectguard,high,high,1233 هـ,15095.05,7146.61,7948.44,5,1,ok
+DG-C102__jordanian,DG-C102,jordanian,baseline,low,,بدأ حكم محمد علي باشا في مصر عام 1805.,1908.92,1432.37,476.55,1,0,ok
+DG-C102__jordanian,DG-C102,jordanian,normalization,low,,بدأ حكم محمد علي باشا في مصر عام 1805.,9524.16,4983.46,4540.7,2,0,ok
+DG-C102__jordanian,DG-C102,jordanian,always_rag,low,,1233 هـ,7924.86,3529.5,4395.36,1,1,ok
+DG-C102__jordanian,DG-C102,jordanian,dialectguard,low,low,بدأ حكم محمد علي باشا في مصر عام 1805.,11372.74,7171.31,4201.44,3,0,ok
+DG-C031__egyptian,DG-C031,egyptian,baseline,high,,القارة الأكبر في السكان هي أوروبا.,1743.69,1298.9,444.78,1,0,ok
+DG-C031__egyptian,DG-C031,egyptian,normalization,high,,القارة الأكثر سكانًا هي أوروبا.,8393.61,4857.02,3536.59,2,0,ok
+DG-C031__egyptian,DG-C031,egyptian,always_rag,high,,القارة الأمريكية,8105.52,3439.76,4665.76,1,1,ok
+DG-C031__egyptian,DG-C031,egyptian,dialectguard,high,high,أكثر القارات سكانًا هي آسيا.,15027.23,7247.72,7779.52,5,1,ok
+DG-C037__egyptian,DG-C037,egyptian,baseline,low,,طهران.,1734.11,1437.06,297.05,1,0,ok
+DG-C037__egyptian,DG-C037,egyptian,normalization,low,,طهران.,8381.29,4944.76,3436.54,2,0,ok
+DG-C037__egyptian,DG-C037,egyptian,always_rag,low,,لا أعرف,7805.56,3494.6,4310.96,1,1,ok
+DG-C037__egyptian,DG-C037,egyptian,dialectguard,low,low,طهران.,10409.42,7310.12,3099.3,3,0,ok
+DG-C038__egyptian,DG-C038,egyptian,baseline,high,,ابن خلدون وُلد سنة 1304 م.,1934.09,1455.82,478.26,1,0,ok
+DG-C038__egyptian,DG-C038,egyptian,normalization,high,,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,9282.13,5108.83,4173.3,2,0,ok
+DG-C038__egyptian,DG-C038,egyptian,always_rag,high,,وُلد ابن خلدون في تونس زمن الدولة الحفصية، وقضى بها طفولته قبل أن يبدأ تنقله بين المُدن في المغرب العربي وبلاد الأندلس، واعتكف وهو بالمغرب للدراسة، وأنهى مقدمته الش,13067.63,3553.76,9513.87,1,1,ok
+DG-C038__egyptian,DG-C038,egyptian,dialectguard,high,high,ولد ابن خلدون في العام 270 هـ الموافق للعام 884م.,22985.03,7466.38,15518.65,5,1,ok
+DG-C072__egyptian,DG-C072,egyptian,baseline,low,,"نعم، جمال خاشقجي كان يكتب عمودًا في جريدة ""المنار"" منذ عام 2017.",2256.26,1552.38,703.88,1,0,ok
+DG-C072__egyptian,DG-C072,egyptian,normalization,low,,"جواب: جريدة ""الحياة"".",9144.15,5079.28,4064.87,2,0,ok
+DG-C072__egyptian,DG-C072,egyptian,always_rag,low,,نعم,8055.71,3577.01,4478.7,1,1,ok
+DG-C072__egyptian,DG-C072,egyptian,dialectguard,low,low,"نعم، جمال خاشقجي كان يكتب عمودًا في جريدة ""المنار"" منذ عام 2017.",12346.71,7422.67,4924.04,3,0,ok
+DG-C031__saudi,DG-C031,saudi,baseline,high,,القارة التي تحتوي على أكثر السكان هي القارة الآسيوية.,1857.74,1353.85,503.89,1,0,ok
+DG-C031__saudi,DG-C031,saudi,normalization,high,,القارة الأكثر سكانًا هي أوروبا.,9039.93,5237.93,3802.0,2,0,ok
+DG-C031__saudi,DG-C031,saudi,always_rag,high,,القارة الأفريقية,8450.28,3684.45,4765.82,1,1,ok
+DG-C031__saudi,DG-C031,saudi,dialectguard,high,high,أكثر القارات سكانًا هي آسيا.,15540.56,7482.46,8058.1,5,1,ok
+DG-C037__saudi,DG-C037,saudi,baseline,low,,طهران.,1783.19,1489.5,293.69,1,0,ok
+DG-C037__saudi,DG-C037,saudi,normalization,low,,طهران.,9079.26,5091.46,3987.81,2,0,ok
+DG-C037__saudi,DG-C037,saudi,always_rag,low,,لا أعرف,8385.3,3724.59,4660.71,1,1,ok
+DG-C037__saudi,DG-C037,saudi,dialectguard,low,low,طهران.,10798.16,7611.17,3186.98,3,0,ok
+DG-C038__saudi,DG-C038,saudi,baseline,high,,21 يناير 1303.,1765.03,1385.68,379.35,1,0,ok
+DG-C038__saudi,DG-C038,saudi,normalization,high,,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,9367.41,5220.62,4146.79,2,0,ok
+DG-C038__saudi,DG-C038,saudi,always_rag,high,,الإجابة: لا أعرف,8383.22,3605.69,4777.53,1,1,ok
+DG-C038__saudi,DG-C038,saudi,dialectguard,high,high,ولد ابن خلدون في العام 270 هـ الموافق للعام 884م.,17684.98,7601.11,10083.87,5,1,ok
+DG-C046__saudi,DG-C046,saudi,baseline,low,,حادث جسر ماركو بولو حدث في 1931، وهو بداية الحرب الصينية اليابانية الثانية.,2276.06,1569.32,706.73,1,0,ok
+DG-C046__saudi,DG-C046,saudi,normalization,low,,حوادث جسر ماركو بولو وقعت في 28 يوليو 1931.,10237.32,5202.98,5034.34,2,0,ok
+DG-C046__saudi,DG-C046,saudi,always_rag,low,,الحرب الصينية اليابانية الثانية بدأت في 7 يوليو 1937.,9621.77,3732.38,5889.38,1,1,ok
+DG-C046__saudi,DG-C046,saudi,dialectguard,low,low,حادث جسر ماركو بولو حدث في 1931، وهو بداية الحرب الصينية اليابانية الثانية.,13034.27,7774.74,5259.53,3,0,ok

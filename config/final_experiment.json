@@ -1,0 +1,30 @@
+{
+  "models_file": "config/model_revisions.json",
+  "conditions": [
+    "baseline",
+    "normalization",
+    "always_rag",
+    "dialectguard"
+  ],
+  "varieties": [
+    "msa",
+    "jordanian",
+    "egyptian",
+    "saudi"
+  ],
+  "temperature": 0.0,
+  "max_new_tokens": 80,
+  "grounding_max_tokens": 120,
+  "normalization_max_tokens": 100,
+  "risk_threshold": 1,
+  "prompt_version": "week2-prompts-v2",
+  "pipeline_version": "week2-development-v2",
+  "corpus_version": "week2-37-passages-screened-v1",
+  "corpus_file": "results/week2_evidence_final.csv",
+  "corpus_sha256": "a1f913ad427ec75b23b91e1eea3014fec8f5c64959876dc195b771fd8224bf0a",
+  "seed": null,
+  "development_base_questions": 65,
+  "heldout_base_questions": 100,
+  "heldout_variants": 400,
+  "heldout_status": "DO_NOT_RUN_UNTIL_FINAL_FREEZE"
+}

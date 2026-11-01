@@ -1,0 +1,521 @@
+﻿question_id,base_question_id,variety,split,condition,generator_model_id,question,answer,retrieved_passage_ids,retrieval_count,generation_count,latency_ms,corpus_version,run_status
+DG-P001__msa,DG-P001,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد جمال خاشقجي؟,جُمَل خَشَقْجِي وُلِدَ في مدينة مَدِينَة الْمَقْدَسِ.,,0,1,2955.7,week2-37-passages-screened-v1,ok
+DG-P001__msa,DG-P001,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد جمال خاشقجي؟,المدينة المنورة.,DG-C072,1,1,2309.73,week2-37-passages-screened-v1,ok
+DG-P001__jordanian,DG-P001,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة انولد جمال خاشقجي؟,الإجابة: أوزنبرغ.,,0,1,380.13,week2-37-passages-screened-v1,ok
+DG-P001__jordanian,DG-P001,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة انولد جمال خاشقجي؟,لا أعرف.,DG-C072,1,1,2132.8,week2-37-passages-screened-v1,ok
+DG-P001__egyptian,DG-P001,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي اتولد في أنهي مدينة؟,نعم، جمال خاشقجي وُلد في مدينة الرياض.,,0,1,431.63,week2-37-passages-screened-v1,ok
+DG-P001__egyptian,DG-P001,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي اتولد في أنهي مدينة؟,نعم.,DG-C072,1,1,2108.38,week2-37-passages-screened-v1,ok
+DG-P001__saudi,DG-P001,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي انولد في أي مدينة؟,جمال خاشقجي انولد في مدينة الرياض.,,0,1,370.83,week2-37-passages-screened-v1,ok
+DG-P001__saudi,DG-P001,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي انولد في أي مدينة؟,المدينة المنورة.,DG-C072,1,1,2148.84,week2-37-passages-screened-v1,ok
+DG-P002__msa,DG-P002,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة المغرب؟,العاصمة المغربية تونس.,,0,1,372.46,week2-37-passages-screened-v1,ok
+DG-P002__msa,DG-P002,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة المغرب؟,الرباط.,DG-P002,1,1,2145.42,week2-37-passages-screened-v1,ok
+DG-P002__jordanian,DG-P002,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة المغرب؟,العاصمة المغربية تونس.,,0,1,370.52,week2-37-passages-screened-v1,ok
+DG-P002__jordanian,DG-P002,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة المغرب؟,الرباط.,DG-P002,1,1,2130.01,week2-37-passages-screened-v1,ok
+DG-P002__egyptian,DG-P002,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة المغرب؟,العاصمة المغربية تونس.,,0,1,373.61,week2-37-passages-screened-v1,ok
+DG-P002__egyptian,DG-P002,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة المغرب؟,الرباط.,DG-P002,1,1,2135.0,week2-37-passages-screened-v1,ok
+DG-P002__saudi,DG-P002,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة المغرب؟,عاصمة المغرب هي **الرباط**.,,0,1,373.52,week2-37-passages-screened-v1,ok
+DG-P002__saudi,DG-P002,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة المغرب؟,الرباط.,DG-P002,1,1,2122.81,week2-37-passages-screened-v1,ok
+DG-P003__msa,DG-P003,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من مؤسس الدولة العثمانية؟,المؤسس للدولة العثمانية هو عثمان بيك.,,0,1,2304.23,week2-37-passages-screened-v1,ok
+DG-P003__msa,DG-P003,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من مؤسس الدولة العثمانية؟,عثمان الأول بن أرطغرل.,DG-P003,1,1,2640.84,week2-37-passages-screened-v1,ok
+DG-P003__jordanian,DG-P003,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين أسّس الدولة العثمانية؟,أسس الدولة العثمانية محمد الفاتح.,,0,1,380.72,week2-37-passages-screened-v1,ok
+DG-P003__jordanian,DG-P003,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين أسّس الدولة العثمانية؟,عثمان الأول بن أرطغرل.,DG-P003,1,1,2601.45,week2-37-passages-screened-v1,ok
+DG-P003__egyptian,DG-P003,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين اللي أسّس الدولة العثمانية؟,الدكتور أوجلو بيله.,,0,1,377.81,week2-37-passages-screened-v1,ok
+DG-P003__egyptian,DG-P003,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين اللي أسّس الدولة العثمانية؟,عثمان الأول بن أرطغرل.,DG-P003,1,1,2571.71,week2-37-passages-screened-v1,ok
+DG-P003__saudi,DG-P003,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من اللي أسّس الدولة العثمانية؟,الدكتور أوجلو بيله.,,0,1,380.27,week2-37-passages-screened-v1,ok
+DG-P003__saudi,DG-P003,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من اللي أسّس الدولة العثمانية؟,عثمان الأول بن أرطغرل.,DG-P003,1,1,2544.0,week2-37-passages-screened-v1,ok
+DG-P004__msa,DG-P004,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم ولاية تتكون منها الولايات المتحدة الأمريكية؟,الولايات المتحدة الأمريكية تتكون من 50 ولاية.,,0,1,421.99,week2-37-passages-screened-v1,ok
+DG-P004__msa,DG-P004,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم ولاية تتكون منها الولايات المتحدة الأمريكية؟,50 ولاية.,DG-C059,1,1,3054.32,week2-37-passages-screened-v1,ok
+DG-P004__jordanian,DG-P004,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كم ولاية؟,أمريكا فيها 50 ولاية.,,0,1,356.82,week2-37-passages-screened-v1,ok
+DG-P004__jordanian,DG-P004,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كم ولاية؟,50 ولاية.,DG-C059,1,1,2869.19,week2-37-passages-screened-v1,ok
+DG-P004__egyptian,DG-P004,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كام ولاية؟,أمريكا فيها 50 ولاية.,,0,1,353.63,week2-37-passages-screened-v1,ok
+DG-P004__egyptian,DG-P004,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كام ولاية؟,خمسين ولاية.,DG-C059,1,1,2864.67,week2-37-passages-screened-v1,ok
+DG-P004__saudi,DG-P004,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كم ولاية؟,أمريكا فيها 50 ولاية.,,0,1,356.7,week2-37-passages-screened-v1,ok
+DG-P004__saudi,DG-P004,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أمريكا فيها كم ولاية؟,50 ولاية.,DG-C059,1,1,2858.25,week2-37-passages-screened-v1,ok
+DG-P005__msa,DG-P005,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدأت الحرب العالمية الأولى؟,الحرب العالمية الأولى بدأت في 28 يوليو 1914.,,0,1,459.93,week2-37-passages-screened-v1,ok
+DG-P005__msa,DG-P005,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدأت الحرب العالمية الأولى؟,لا أعرف.,DG-P006,1,1,2122.12,week2-37-passages-screened-v1,ok
+DG-P005__jordanian,DG-P005,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ بلشت الحرب العالمية الأولى؟,الحرب العالمية الأولى بدأت في 28 يوليو 1914.,,0,1,457.34,week2-37-passages-screened-v1,ok
+DG-P005__jordanian,DG-P005,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ بلشت الحرب العالمية الأولى؟,الإجابة: 28 يوليو 1914 إلى 11 نوفمبر 1918.,DG-P005,1,1,2620.77,week2-37-passages-screened-v1,ok
+DG-P005__egyptian,DG-P005,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الحرب العالمية الأولى بدأت يوم كام؟,الحرب العالمية الأولى بدأت يوم 28 يوليو 1914.,,0,1,464.55,week2-37-passages-screened-v1,ok
+DG-P005__egyptian,DG-P005,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الحرب العالمية الأولى بدأت يوم كام؟,28 يوليو 1914.,DG-P005,1,1,2367.59,week2-37-passages-screened-v1,ok
+DG-P005__saudi,DG-P005,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدت الحرب العالمية الأولى؟,الحرب العالمية الأولى بدت في 28 يوليو 1914.,,0,1,481.04,week2-37-passages-screened-v1,ok
+DG-P005__saudi,DG-P005,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدت الحرب العالمية الأولى؟,28 يوليو 1914.,DG-P005,1,1,2383.35,week2-37-passages-screened-v1,ok
+DG-P006__msa,DG-P006,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدأت الحرب العالمية الثانية في أوروبا؟,الحرب العالمية الثانية بدأت في أوروبا في 1er أبريل 1941.,,0,1,523.6,week2-37-passages-screened-v1,ok
+DG-P006__msa,DG-P006,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدأت الحرب العالمية الثانية في أوروبا؟,لا أعرف.,DG-P005,1,1,2280.24,week2-37-passages-screened-v1,ok
+DG-P006__jordanian,DG-P006,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ بلشت الحرب العالمية الثانية بأوروبا؟,الحرب العالمية الثانية بدأت في 1 يونيو 1939.,,0,1,447.45,week2-37-passages-screened-v1,ok
+DG-P006__jordanian,DG-P006,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ بلشت الحرب العالمية الثانية بأوروبا؟,الإجابة: 1 سبتمبر 1939.,DG-P006,1,1,2328.27,week2-37-passages-screened-v1,ok
+DG-P006__egyptian,DG-P006,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الحرب العالمية التانية بدأت في أوروبا يوم كام؟,الحرب العالمية الثانية بدأت في أوروبا يوم 1 أكتوبر 1939.,,0,1,540.68,week2-37-passages-screened-v1,ok
+DG-P006__egyptian,DG-P006,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الحرب العالمية التانية بدأت في أوروبا يوم كام؟,لا أعرف.,DG-P005,1,1,2307.44,week2-37-passages-screened-v1,ok
+DG-P006__saudi,DG-P006,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدت الحرب العالمية الثانية في أوروبا؟,الحرب العالمية الثانية بدأت في أوروبا في 1 يوليو 1939.,,0,1,506.75,week2-37-passages-screened-v1,ok
+DG-P006__saudi,DG-P006,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ بدت الحرب العالمية الثانية في أوروبا؟,الإجابة: 1 سبتمبر 1939.,DG-P006,1,1,2329.5,week2-37-passages-screened-v1,ok
+DG-P007__msa,DG-P007,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي دولة أُقيم كأس العالم لكرة القدم عام 2018؟,كأس العالم 2018 أُقيم في فرنسا.,,0,1,466.56,week2-37-passages-screened-v1,ok
+DG-P007__msa,DG-P007,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي دولة أُقيم كأس العالم لكرة القدم عام 2018؟,لا أعرف.,DG-C059,1,1,2840.64,week2-37-passages-screened-v1,ok
+DG-P007__jordanian,DG-P007,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي بلد انعمل كأس العالم لكرة القدم سنة 2018؟,البرازيل.,,0,1,282.57,week2-37-passages-screened-v1,ok
+DG-P007__jordanian,DG-P007,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي بلد انعمل كأس العالم لكرة القدم سنة 2018؟,الإجابة: روسيا.,DG-P002,1,1,2272.51,week2-37-passages-screened-v1,ok
+DG-P007__egyptian,DG-P007,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كأس العالم لكرة القدم سنة 2018 اتعمل في أنهي بلد؟,نعم، كأس العالم 2018 أُقيم في فرنسا.,,0,1,495.79,week2-37-passages-screened-v1,ok
+DG-P007__egyptian,DG-P007,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كأس العالم لكرة القدم سنة 2018 اتعمل في أنهي بلد؟,لا أعرف.,DG-C059,1,1,2835.57,week2-37-passages-screened-v1,ok
+DG-P007__saudi,DG-P007,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كأس العالم لكرة القدم سنة 2018 انقام في أي دولة؟,كأس العالم 2018 انجز في فرنسا.,,0,1,445.0,week2-37-passages-screened-v1,ok
+DG-P007__saudi,DG-P007,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كأس العالم لكرة القدم سنة 2018 انقام في أي دولة؟,لا أعرف.,DG-C059,1,1,2837.08,week2-37-passages-screened-v1,ok
+DG-P008__msa,DG-P008,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة توفي صلاح الدين الأيوبي؟,توفي صلاح الدين الأيوبي في سنة 1221.,,0,1,444.06,week2-37-passages-screened-v1,ok
+DG-P008__msa,DG-P008,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة توفي صلاح الدين الأيوبي؟,589 هـ / 1193 م.,DG-P008,1,1,1796.78,week2-37-passages-screened-v1,ok
+DG-P008__jordanian,DG-P008,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة توفّى صلاح الدين الأيوبي؟,توفى صلاح الدين الأيوبي في السنة 571 هجرسية، أي في عام 1179 ميلادي.,,0,1,684.19,week2-37-passages-screened-v1,ok
+DG-P008__jordanian,DG-P008,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة توفّى صلاح الدين الأيوبي؟,1193 م.,DG-P008,1,1,1678.13,week2-37-passages-screened-v1,ok
+DG-P008__egyptian,DG-P008,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,صلاح الدين الأيوبي اتوفّى سنة كام؟,صلاح الدين الأيوبي اتوفى سنة 1213.,,0,1,444.43,week2-37-passages-screened-v1,ok
+DG-P008__egyptian,DG-P008,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,صلاح الدين الأيوبي اتوفّى سنة كام؟,صلاح الدين الأيوبي توفي سنة 589 هـ، أي سنة 1193 م.,DG-P008,1,1,1964.4,week2-37-passages-screened-v1,ok
+DG-P008__saudi,DG-P008,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,صلاح الدين الأيوبي توفّى في أي سنة؟,صلاح الدين الأيوبي توفى في السنة 1224 هجرسية، أي في عام 1224 ميلادي.,,0,1,670.86,week2-37-passages-screened-v1,ok
+DG-P008__saudi,DG-P008,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,صلاح الدين الأيوبي توفّى في أي سنة؟,1193 م.,DG-P008,1,1,1680.35,week2-37-passages-screened-v1,ok
+DG-P009__msa,DG-P009,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة العراق؟,بغداد.,,0,1,249.42,week2-37-passages-screened-v1,ok
+DG-P009__msa,DG-P009,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة العراق؟,بغداد.,DG-C130,1,1,2249.12,week2-37-passages-screened-v1,ok
+DG-P009__jordanian,DG-P009,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة العراق؟,العاصمة العراقية هي بغداد.,,0,1,339.36,week2-37-passages-screened-v1,ok
+DG-P009__jordanian,DG-P009,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة العراق؟,لا أعرف.,DG-C127,1,1,2286.04,week2-37-passages-screened-v1,ok
+DG-P009__egyptian,DG-P009,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة العراق؟,العاصمة العراقية هي بغداد.,,0,1,338.31,week2-37-passages-screened-v1,ok
+DG-P009__egyptian,DG-P009,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة العراق؟,لا أعرف.,DG-C127,1,1,2279.17,week2-37-passages-screened-v1,ok
+DG-P009__saudi,DG-P009,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة العراق؟,عاصمة العراق هي بغداد.,,0,1,310.11,week2-37-passages-screened-v1,ok
+DG-P009__saudi,DG-P009,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة العراق؟,لا أعرف.,DG-C127,1,1,2271.88,week2-37-passages-screened-v1,ok
+DG-P010__msa,DG-P010,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,عن أي سنة مُنحت جائزة نوبل في الفيزياء لألبرت أينشتاين؟,١٩٢١.,,0,1,344.26,week2-37-passages-screened-v1,ok
+DG-P010__msa,DG-P010,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,عن أي سنة مُنحت جائزة نوبل في الفيزياء لألبرت أينشتاين؟,1921.,DG-P010,1,1,2391.33,week2-37-passages-screened-v1,ok
+DG-P010__jordanian,DG-P010,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل بالفيزياء اللي انحسبت لأينشتاين كانت لأي سنة؟,جائزة نوبل في الفيزياء التي منحت لآينشتاين كانت في عام 1921.,,0,1,612.59,week2-37-passages-screened-v1,ok
+DG-P010__jordanian,DG-P010,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل بالفيزياء اللي انحسبت لأينشتاين كانت لأي سنة؟,1921.,DG-P010,1,1,2391.64,week2-37-passages-screened-v1,ok
+DG-P010__egyptian,DG-P010,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل في الفيزياء اللي اتمنحت لأينشتاين كانت عن سنة كام؟,جائزة نوبل في الفيزياء التي حصلت عليها أينشتاين كانت في عام 1921.,,0,1,625.28,week2-37-passages-screened-v1,ok
+DG-P010__egyptian,DG-P010,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل في الفيزياء اللي اتمنحت لأينشتاين كانت عن سنة كام؟,1921.,DG-P010,1,1,2376.26,week2-37-passages-screened-v1,ok
+DG-P010__saudi,DG-P010,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل بالفيزياء اللي مُنحت لأينشتاين كانت عن أي سنة؟,جائزة نوبل في الفيزياء التي منحت لآينشتاين كانت في عام 1921.,,0,1,607.81,week2-37-passages-screened-v1,ok
+DG-P010__saudi,DG-P010,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جائزة نوبل بالفيزياء اللي مُنحت لأينشتاين كانت عن أي سنة؟,1921.,DG-P010,1,1,2371.96,week2-37-passages-screened-v1,ok
+DG-P011__msa,DG-P011,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من شبه الجزيرة العربية تقع سلطنة عُمان؟,تقع سلطنة عُمان في الجزء الغربي من شبه الجزيرة العربية.,,0,1,503.56,week2-37-passages-screened-v1,ok
+DG-P011__msa,DG-P011,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من شبه الجزيرة العربية تقع سلطنة عُمان؟,الربع الجنوبي الشرقي.,DG-C078,1,1,2184.72,week2-37-passages-screened-v1,ok
+DG-P011__jordanian,DG-P011,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان بأي جهة من شبه الجزيرة العربية؟,سلطة عُمان تقع في شبه الجزيرة العربية.,,0,1,417.26,week2-37-passages-screened-v1,ok
+DG-P011__jordanian,DG-P011,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان بأي جهة من شبه الجزيرة العربية؟,الإجابة: الجنوب الشرقي.,DG-C127,1,1,2366.64,week2-37-passages-screened-v1,ok
+DG-P011__egyptian,DG-P011,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان في أنهي ناحية من شبه الجزيرة العربية؟,نعم، سلطنة عمان تقع في الشمال الغربي من شبه الجزيرة العربية.,,0,1,507.9,week2-37-passages-screened-v1,ok
+DG-P011__egyptian,DG-P011,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان في أنهي ناحية من شبه الجزيرة العربية؟,نعم.,DG-C127,1,1,2231.75,week2-37-passages-screened-v1,ok
+DG-P011__saudi,DG-P011,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان تقع في أي جهة من شبه الجزيرة العربية؟,أجوبة: شمال شرق.,,0,1,327.31,week2-37-passages-screened-v1,ok
+DG-P011__saudi,DG-P011,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان تقع في أي جهة من شبه الجزيرة العربية؟,الجواب: غرب شبه الجزيرة العربية.,DG-C078,1,1,2246.77,week2-37-passages-screened-v1,ok
+DG-P012__msa,DG-P012,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة سوريا؟,دمشق.,,0,1,260.18,week2-37-passages-screened-v1,ok
+DG-P012__msa,DG-P012,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة سوريا؟,دمشق.,DG-P012,1,1,2095.56,week2-37-passages-screened-v1,ok
+DG-P012__jordanian,DG-P012,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة سوريا؟,دمشق.,,0,1,249.85,week2-37-passages-screened-v1,ok
+DG-P012__jordanian,DG-P012,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة سوريا؟,دمشق.,DG-P012,1,1,2090.45,week2-37-passages-screened-v1,ok
+DG-P012__egyptian,DG-P012,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة سوريا؟,دمشق.,,0,1,253.6,week2-37-passages-screened-v1,ok
+DG-P012__egyptian,DG-P012,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة سوريا؟,دمشق.,DG-P012,1,1,2144.69,week2-37-passages-screened-v1,ok
+DG-P012__saudi,DG-P012,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة سوريا؟,عاصمة سوريا هيدمشق.,,0,1,324.8,week2-37-passages-screened-v1,ok
+DG-P012__saudi,DG-P012,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة سوريا؟,دمشق.,DG-P012,1,1,2112.75,week2-37-passages-screened-v1,ok
+DG-P013__msa,DG-P013,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة استقلت الهند؟,الهند استقلت في سنة 1947.,,0,1,412.07,week2-37-passages-screened-v1,ok
+DG-P013__msa,DG-P013,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة استقلت الهند؟,1947.,DG-P013,1,1,2143.12,week2-37-passages-screened-v1,ok
+DG-P013__jordanian,DG-P013,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة استقلّت الهند؟,الهند استقلت في السنة 1947.,,0,1,414.44,week2-37-passages-screened-v1,ok
+DG-P013__jordanian,DG-P013,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة استقلّت الهند؟,1947.,DG-P013,1,1,2137.48,week2-37-passages-screened-v1,ok
+DG-P013__egyptian,DG-P013,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الهند استقلت سنة كام؟,الهند استقلت سنة 1947.,,0,1,397.44,week2-37-passages-screened-v1,ok
+DG-P013__egyptian,DG-P013,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الهند استقلت سنة كام؟,1947.,DG-P013,1,1,2138.19,week2-37-passages-screened-v1,ok
+DG-P013__saudi,DG-P013,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الهند استقلت في أي سنة؟,الهند استقلت في سنة 1947.,,0,1,411.73,week2-37-passages-screened-v1,ok
+DG-P013__saudi,DG-P013,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الهند استقلت في أي سنة؟,الإجابة: 1947.,DG-P013,1,1,2235.43,week2-37-passages-screened-v1,ok
+DG-P014__msa,DG-P014,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع الصين؟,تقع الصين في جزء جنوب شرق آسيا.,,0,1,452.46,week2-37-passages-screened-v1,ok
+DG-P014__msa,DG-P014,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع الصين؟,الإجابة: شرق آسيا.,DG-C129,1,1,2396.21,week2-37-passages-screened-v1,ok
+DG-P014__jordanian,DG-P014,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الصين بأي جهة من آسيا؟,الصين تقع في جنوب آسيا.,,0,1,408.67,week2-37-passages-screened-v1,ok
+DG-P014__jordanian,DG-P014,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الصين بأي جهة من آسيا؟,الإجابة: شرق آسيا.,DG-C129,1,1,2386.25,week2-37-passages-screened-v1,ok
+DG-P014__egyptian,DG-P014,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الصين في أنهي ناحية من آسيا؟,الصين في الغرب من آسيا.,,0,1,376.21,week2-37-passages-screened-v1,ok
+DG-P014__egyptian,DG-P014,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الصين في أنهي ناحية من آسيا؟,الإجابة: شرق.,DG-P016,1,1,2347.71,week2-37-passages-screened-v1,ok
+DG-P014__saudi,DG-P014,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الصين في أي جهة من آسيا؟,الصين في جنوب آسيا.,,0,1,376.79,week2-37-passages-screened-v1,ok
+DG-P014__saudi,DG-P014,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الصين في أي جهة من آسيا؟,الإجابة: شرق آسيا.,DG-C129,1,1,2389.92,week2-37-passages-screened-v1,ok
+DG-P015__msa,DG-P015,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة توفي نجيب محفوظ؟,ينبغ محفوظ توفي في سنة 1989.,,0,1,450.61,week2-37-passages-screened-v1,ok
+DG-P015__msa,DG-P015,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة توفي نجيب محفوظ؟,30 أغسطس 2006.,DG-C106,1,1,2278.61,week2-37-passages-screened-v1,ok
+DG-P015__jordanian,DG-P015,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة توفّى نجيب محفوظ؟,توفى نجيب محفوظ في سنة 1989.,,0,1,449.43,week2-37-passages-screened-v1,ok
+DG-P015__jordanian,DG-P015,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة توفّى نجيب محفوظ؟,30 أغسطس 2006.,DG-C106,1,1,2283.68,week2-37-passages-screened-v1,ok
+DG-P015__egyptian,DG-P015,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ اتوفّى سنة كام؟,نجيب محفوظ اتوفى سنة 1984.,,0,1,456.72,week2-37-passages-screened-v1,ok
+DG-P015__egyptian,DG-P015,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ اتوفّى سنة كام؟,لا أعرف.,DG-C072,1,1,2120.91,week2-37-passages-screened-v1,ok
+DG-P015__saudi,DG-P015,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ توفّى في أي سنة؟,نجيب محفوظ توفى في سنة 1984.,,0,1,428.47,week2-37-passages-screened-v1,ok
+DG-P015__saudi,DG-P015,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ توفّى في أي سنة؟,2006.,DG-C106,1,1,2214.3,week2-37-passages-screened-v1,ok
+DG-P016__msa,DG-P016,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع اليابان؟,تقع اليابان في جزء جنوب شرق آسيا.,,0,1,473.54,week2-37-passages-screened-v1,ok
+DG-P016__msa,DG-P016,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع اليابان؟,الشرق.,DG-P016,1,1,2264.15,week2-37-passages-screened-v1,ok
+DG-P016__jordanian,DG-P016,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,اليابان بأي جهة من آسيا؟,اليابان تقع في شرق آسيا.,,0,1,354.91,week2-37-passages-screened-v1,ok
+DG-P016__jordanian,DG-P016,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,اليابان بأي جهة من آسيا؟,الإجابة: شرق آسيا.,DG-P016,1,1,2404.1,week2-37-passages-screened-v1,ok
+DG-P016__egyptian,DG-P016,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,اليابان في أنهي ناحية من آسيا؟,اليابان في الغرب من آسيا.,,0,1,379.47,week2-37-passages-screened-v1,ok
+DG-P016__egyptian,DG-P016,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,اليابان في أنهي ناحية من آسيا؟,الإجابة: شرق آسيا.,DG-P016,1,1,2397.32,week2-37-passages-screened-v1,ok
+DG-P016__saudi,DG-P016,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,اليابان تقع في أي جهة من آسيا؟,اليابان تقع في الغرب من آسيا.,,0,1,407.48,week2-37-passages-screened-v1,ok
+DG-P016__saudi,DG-P016,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,اليابان تقع في أي جهة من آسيا؟,الإجابة: شرق آسيا.,DG-P016,1,1,2395.56,week2-37-passages-screened-v1,ok
+DG-P017__msa,DG-P017,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد عمر المختار؟,عمر المختار وُلد في سنة 622 م.,,0,1,437.43,week2-37-passages-screened-v1,ok
+DG-P017__msa,DG-P017,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد عمر المختار؟,11 سبتمبر 1965.,DG-C062,1,1,2327.76,week2-37-passages-screened-v1,ok
+DG-P017__jordanian,DG-P017,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد عمر المختار؟,أُنَلَّدَ عمر المختار في السنة 1144 هـ، الموافق لـ 17 مارس 1731 م.,,0,1,791.83,week2-37-passages-screened-v1,ok
+DG-P017__jordanian,DG-P017,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد عمر المختار؟,الإجابة: 1895.,DG-P010,1,1,2489.35,week2-37-passages-screened-v1,ok
+DG-P017__egyptian,DG-P017,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,عمر المختار اتولد سنة كام؟,عمر المختار وُلد في سنة 1941.,,0,1,442.85,week2-37-passages-screened-v1,ok
+DG-P017__egyptian,DG-P017,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,عمر المختار اتولد سنة كام؟,20 أغسطس 1858.,DG-P017,1,1,2126.91,week2-37-passages-screened-v1,ok
+DG-P017__saudi,DG-P017,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,عمر المختار انولد في أي سنة؟,عمر المختار انولد في سنة 1940.,,0,1,421.28,week2-37-passages-screened-v1,ok
+DG-P017__saudi,DG-P017,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,عمر المختار انولد في أي سنة؟,الإجابة: 1858.,DG-P017,1,1,2155.16,week2-37-passages-screened-v1,ok
+DG-P018__msa,DG-P018,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم كانتوناً تتكون منها سويسرا؟,سويسرا تتكون من 26 كانتوناً.,,0,1,422.57,week2-37-passages-screened-v1,ok
+DG-P018__msa,DG-P018,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم كانتوناً تتكون منها سويسرا؟,26 كانتونًا.,DG-C081,1,1,2150.42,week2-37-passages-screened-v1,ok
+DG-P018__jordanian,DG-P018,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كم كانتون؟,سويسرا فيها 26 كانتون.,,0,1,356.17,week2-37-passages-screened-v1,ok
+DG-P018__jordanian,DG-P018,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كم كانتون؟,26 كانتون.,DG-C081,1,1,2147.51,week2-37-passages-screened-v1,ok
+DG-P018__egyptian,DG-P018,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كام كانتون؟,سويسرا فيها 26 كانتون.,,0,1,368.28,week2-37-passages-screened-v1,ok
+DG-P018__egyptian,DG-P018,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كام كانتون؟,26 كانتون.,DG-C081,1,1,2165.91,week2-37-passages-screened-v1,ok
+DG-P018__saudi,DG-P018,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كم كانتون؟,سويسرا فيها 26 كانتون.,,0,1,355.39,week2-37-passages-screened-v1,ok
+DG-P018__saudi,DG-P018,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سويسرا فيها كم كانتون؟,26 كانتون.,DG-C081,1,1,2147.48,week2-37-passages-screened-v1,ok
+DG-P019__msa,DG-P019,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد ابن خلدون؟,أُولد ابن خلدون في مدينة سطيف.,,0,1,412.75,week2-37-passages-screened-v1,ok
+DG-P019__msa,DG-P019,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد ابن خلدون؟,تونس.,DG-C038,1,1,2417.6,week2-37-passages-screened-v1,ok
+DG-P019__jordanian,DG-P019,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون انولد بأي مدينة؟,Ibn Khaldun وُلد في مدينة **القاهرة**.,,0,1,426.88,week2-37-passages-screened-v1,ok
+DG-P019__jordanian,DG-P019,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون انولد بأي مدينة؟,لا أعرف.,DG-C119,1,1,2278.55,week2-37-passages-screened-v1,ok
+DG-P019__egyptian,DG-P019,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون اتولد في أنهي مدينة؟,نعم، ابن خلدون وُلد في مدينة طرابزانت.,,0,1,443.03,week2-37-passages-screened-v1,ok
+DG-P019__egyptian,DG-P019,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون اتولد في أنهي مدينة؟,لا أعرف.,DG-C038,1,1,2433.05,week2-37-passages-screened-v1,ok
+DG-P019__saudi,DG-P019,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون انولد في أي مدينة؟,Ibn Khaldun عاش في مدينة **القاهرة**.,,0,1,414.16,week2-37-passages-screened-v1,ok
+DG-P019__saudi,DG-P019,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون انولد في أي مدينة؟,لا أعرف.,DG-C119,1,1,2275.17,week2-37-passages-screened-v1,ok
+DG-P020__msa,DG-P020,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بماذا لُقّب توماس إديسون؟,"تُقَبِّى توماس إديسون بـ ""الصانع"" أو ""الصانع العظيم"".",,0,1,697.25,week2-37-passages-screened-v1,ok
+DG-P020__msa,DG-P020,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بماذا لُقّب توماس إديسون؟,لا أعرف.,DG-P010,1,1,2356.55,week2-37-passages-screened-v1,ok
+DG-P020__jordanian,DG-P020,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو كان لقب توماس إديسون؟,"توماس إديسون كان يُعرف بـ ""القائد"" أو ""القائد العظيم"".",,0,1,605.76,week2-37-passages-screened-v1,ok
+DG-P020__jordanian,DG-P020,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو كان لقب توماس إديسون؟,لا أعرف.,DG-P010,1,1,2356.68,week2-37-passages-screened-v1,ok
+DG-P020__egyptian,DG-P020,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,توماس إديسون كان لقبه إيه؟,"توماس إديسون كان لقبه ""القائد""؟",,0,1,458.6,week2-37-passages-screened-v1,ok
+DG-P020__egyptian,DG-P020,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,توماس إديسون كان لقبه إيه؟,لا أعرف.,DG-P010,1,1,2353.36,week2-37-passages-screened-v1,ok
+DG-P020__saudi,DG-P020,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش كان لقب توماس إديسون؟,"لقب توماس إديسون كان ""الملك الأسود"".",,0,1,442.55,week2-37-passages-screened-v1,ok
+DG-P020__saudi,DG-P020,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش كان لقب توماس إديسون؟,لا أعرف.,DG-P010,1,1,2359.51,week2-37-passages-screened-v1,ok
+DG-P021__msa,DG-P021,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ وُلد جبران خليل جبران؟,جبران خليل جبران وُلد في 6 أبريل 1883.,,0,1,519.01,week2-37-passages-screened-v1,ok
+DG-P021__msa,DG-P021,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ وُلد جبران خليل جبران؟,لا أعرف.,DG-C062,1,1,2202.86,week2-37-passages-screened-v1,ok
+DG-P021__jordanian,DG-P021,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران انولد بأي تاريخ؟,جبران خليل جبران وُلد في 6 أبريل 1883.,,0,1,518.03,week2-37-passages-screened-v1,ok
+DG-P021__jordanian,DG-P021,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران انولد بأي تاريخ؟,لا أعرف.,DG-C062,1,1,2199.74,week2-37-passages-screened-v1,ok
+DG-P021__egyptian,DG-P021,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران اتولد يوم كام؟,جبران خليل جبران وُلد يوم 6 يوليو 1883.,,0,1,517.04,week2-37-passages-screened-v1,ok
+DG-P021__egyptian,DG-P021,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران اتولد يوم كام؟,لا أعرف.,DG-C062,1,1,2198.33,week2-37-passages-screened-v1,ok
+DG-P021__saudi,DG-P021,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران انولد في أي تاريخ؟,جبران خليل جبران وُلد في 6 أبريل 1883.,,0,1,517.52,week2-37-passages-screened-v1,ok
+DG-P021__saudi,DG-P021,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جبران خليل جبران انولد في أي تاريخ؟,لا أعرف.,DG-C062,1,1,2198.88,week2-37-passages-screened-v1,ok
+DG-P022__msa,DG-P022,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من رسم لوحة الموناليزا؟,"روسم لوحة ""الموناليزا"" كان للفنان الإيطالي لوي بيتينو.",,0,1,562.35,week2-37-passages-screened-v1,ok
+DG-P022__msa,DG-P022,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من رسم لوحة الموناليزا؟,ليوناردو دافينشي.,DG-P022,1,1,2359.16,week2-37-passages-screened-v1,ok
+DG-P022__jordanian,DG-P022,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين رسم لوحة الموناليزا؟,روبرتو ديل برودو.,,0,1,343.38,week2-37-passages-screened-v1,ok
+DG-P022__jordanian,DG-P022,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين رسم لوحة الموناليزا؟,ليوناردو دافينشي.,DG-P022,1,1,2368.5,week2-37-passages-screened-v1,ok
+DG-P022__egyptian,DG-P022,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين اللي رسم لوحة الموناليزا؟,لويزا دي بانديت.,,0,1,345.74,week2-37-passages-screened-v1,ok
+DG-P022__egyptian,DG-P022,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين اللي رسم لوحة الموناليزا؟,ليوناردو دافينشي.,DG-P022,1,1,2363.29,week2-37-passages-screened-v1,ok
+DG-P022__saudi,DG-P022,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من اللي رسم لوحة الموناليزا؟,"الذي رسم لوحة ""الموناليزا"" هو لُودوڤيكو دي بانتوس، المعروف باسم لُودوڤيكو دي بانتوس، وهو فنان إيطالي من القرن السادس عشر.",,0,1,996.23,week2-37-passages-screened-v1,ok
+DG-P022__saudi,DG-P022,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من اللي رسم لوحة الموناليزا؟,ليوناردو دافينشي.,DG-P022,1,1,2357.92,week2-37-passages-screened-v1,ok
+DG-P023__msa,DG-P023,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي اسم مستعار يُعرف مبتكر البيتكوين؟,مبتكر البيتكوين يُعرف باسم ساتوشي ناكاموتو.,,0,1,490.54,week2-37-passages-screened-v1,ok
+DG-P023__msa,DG-P023,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي اسم مستعار يُعرف مبتكر البيتكوين؟,لا أعرف.,DG-P022,1,1,2274.76,week2-37-passages-screened-v1,ok
+DG-P023__jordanian,DG-P023,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو الاسم المستعار اللي معروف فيه مبتكر البيتكوين؟,"الاسم المستعار هو ""بيتكوين"" (Bitcoin).",,0,1,384.49,week2-37-passages-screened-v1,ok
+DG-P023__jordanian,DG-P023,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو الاسم المستعار اللي معروف فيه مبتكر البيتكوين؟,لا أعرف.,DG-C038,1,1,2442.04,week2-37-passages-screened-v1,ok
+DG-P023__egyptian,DG-P023,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم المستعار المعروف بيه مبتكر البيتكوين؟,"الاسم المستعار هو ""ساتوشي ناكاموتو"".",,0,1,444.32,week2-37-passages-screened-v1,ok
+DG-P023__egyptian,DG-P023,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم المستعار المعروف بيه مبتكر البيتكوين؟,لا أعرف.,DG-P022,1,1,2279.03,week2-37-passages-screened-v1,ok
+DG-P023__saudi,DG-P023,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الاسم المستعار اللي يُعرف فيه مبتكر البيتكوين؟,"اسم المستعار هو ""بيتكوين"" (Bitcoin).",,0,1,372.11,week2-37-passages-screened-v1,ok
+DG-P023__saudi,DG-P023,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الاسم المستعار اللي يُعرف فيه مبتكر البيتكوين؟,لا أعرف.,DG-C038,1,1,2435.31,week2-37-passages-screened-v1,ok
+DG-P024__msa,DG-P024,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إلى أي فصيلة ينتمي الأسد؟,الأسد ينتمي إلى فصيلة الأرجل.,,0,1,428.95,week2-37-passages-screened-v1,ok
+DG-P024__msa,DG-P024,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إلى أي فصيلة ينتمي الأسد؟,لا أعرف.,DG-C059,1,1,2862.83,week2-37-passages-screened-v1,ok
+DG-P024__jordanian,DG-P024,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الأسد من أي فصيلة؟,الأسد من فصيلة الأسد.,,0,1,340.02,week2-37-passages-screened-v1,ok
+DG-P024__jordanian,DG-P024,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الأسد من أي فصيلة؟,لا أعرف.,DG-C119,1,1,2288.54,week2-37-passages-screened-v1,ok
+DG-P024__egyptian,DG-P024,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الأسد بينتمي لأنهي فصيلة؟,نعم، الأسد ينتمي إلى فصيلة الأسد (Felidae).,,0,1,488.11,week2-37-passages-screened-v1,ok
+DG-P024__egyptian,DG-P024,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الأسد بينتمي لأنهي فصيلة؟,لا أعرف.,DG-P017,1,1,2049.58,week2-37-passages-screened-v1,ok
+DG-P024__saudi,DG-P024,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الأسد ينتمي لأي فصيلة؟,الأسد ينتمي إلى فصيلة الأسد (Felidae).,,0,1,458.08,week2-37-passages-screened-v1,ok
+DG-P024__saudi,DG-P024,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الأسد ينتمي لأي فصيلة؟,الأسد ينتمي لفصيلة البعث العربي الاشتراكي.,DG-C062,1,1,2426.1,week2-37-passages-screened-v1,ok
+DG-P025__msa,DG-P025,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما أكبر قارة على الأرض من حيث المساحة؟,القارة الأكبر من حيث المساحة هي أوروبا.,,0,1,417.0,week2-37-passages-screened-v1,ok
+DG-P025__msa,DG-P025,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما أكبر قارة على الأرض من حيث المساحة؟,لا أعرف.,DG-C127,1,1,2285.49,week2-37-passages-screened-v1,ok
+DG-P025__jordanian,DG-P025,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو أكبر قارة بالأرض من ناحية المساحة؟,القارة الأكبر من ناحية المساحة هي أوروبا.,,0,1,444.91,week2-37-passages-screened-v1,ok
+DG-P025__jordanian,DG-P025,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو أكبر قارة بالأرض من ناحية المساحة؟,الإجابة: لا أعرف.,DG-C127,1,1,2364.39,week2-37-passages-screened-v1,ok
+DG-P025__egyptian,DG-P025,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه أكبر قارة في الأرض من حيث المساحة؟,القارة الأكبر في الأرض من حيث المساحة هي أوروبا.,,0,1,448.87,week2-37-passages-screened-v1,ok
+DG-P025__egyptian,DG-P025,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه أكبر قارة في الأرض من حيث المساحة؟,لا أعرف.,DG-C127,1,1,2286.69,week2-37-passages-screened-v1,ok
+DG-P025__saudi,DG-P025,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش أكبر قارة على الأرض من ناحية المساحة؟,القارة الأكبر من ناحية المساحة هي أوروبا.,,0,1,444.02,week2-37-passages-screened-v1,ok
+DG-P025__saudi,DG-P025,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش أكبر قارة على الأرض من ناحية المساحة؟,الإجابة: لا أعرف.,DG-C127,1,1,2365.79,week2-37-passages-screened-v1,ok
+DG-P026__msa,DG-P026,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من الجهة المنظمة لدوري أبطال أفريقيا لكرة القدم؟,دوري أبطال أفريقيا لكرة القدم يُنظم من قبل الفيفا.,,0,1,460.61,week2-37-passages-screened-v1,ok
+DG-P026__msa,DG-P026,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من الجهة المنظمة لدوري أبطال أفريقيا لكرة القدم؟,لا أعرف.,DG-P002,1,1,2196.83,week2-37-passages-screened-v1,ok
+DG-P026__jordanian,DG-P026,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين الجهة اللي بتنظّم دوري أبطال أفريقيا لكرة القدم؟,الجهة المُنظمة هي الفيفا.,,0,1,386.66,week2-37-passages-screened-v1,ok
+DG-P026__jordanian,DG-P026,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين الجهة اللي بتنظّم دوري أبطال أفريقيا لكرة القدم؟,لا أعرف.,DG-P002,1,1,2207.18,week2-37-passages-screened-v1,ok
+DG-P026__egyptian,DG-P026,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين الجهة اللي بتنظم دوري أبطال أفريقيا لكرة القدم؟,الجهة المشرفة على دوري أبطال أفريقيا هي الفيفا.,,0,1,478.03,week2-37-passages-screened-v1,ok
+DG-P026__egyptian,DG-P026,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين الجهة اللي بتنظم دوري أبطال أفريقيا لكرة القدم؟,لا أعرف.,DG-P002,1,1,2198.93,week2-37-passages-screened-v1,ok
+DG-P026__saudi,DG-P026,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الجهة اللي تنظّم دوري أبطال أفريقيا لكرة القدم؟,الجهة التي تنظّم دوري أبطال أفريقيا لكرة القدم هي الفيفا.,,0,1,518.2,week2-37-passages-screened-v1,ok
+DG-P026__saudi,DG-P026,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الجهة اللي تنظّم دوري أبطال أفريقيا لكرة القدم؟,لا أعرف.,DG-P004,1,1,2831.98,week2-37-passages-screened-v1,ok
+DG-P027__msa,DG-P027,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة آيسلندا؟,عاصمة آيسلندا هي ركوفاك.,,0,1,414.09,week2-37-passages-screened-v1,ok
+DG-P027__msa,DG-P027,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما عاصمة آيسلندا؟,الإجابة: ريكيافيك.,DG-P027,1,1,2210.28,week2-37-passages-screened-v1,ok
+DG-P027__jordanian,DG-P027,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة آيسلندا؟,عاصمة أيسلندا هي ركوفاك.,,0,1,403.2,week2-37-passages-screened-v1,ok
+DG-P027__jordanian,DG-P027,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو عاصمة آيسلندا؟,لا أعرف.,DG-C081,1,1,2121.05,week2-37-passages-screened-v1,ok
+DG-P027__egyptian,DG-P027,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة آيسلندا؟,ريكية.,,0,1,266.35,week2-37-passages-screened-v1,ok
+DG-P027__egyptian,DG-P027,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه عاصمة آيسلندا؟,الإجابة: ريكيافيك.,DG-P027,1,1,2206.3,week2-37-passages-screened-v1,ok
+DG-P027__saudi,DG-P027,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة آيسلندا؟,عاصمة آيسلندا هي ركوفاك.,,0,1,420.05,week2-37-passages-screened-v1,ok
+DG-P027__saudi,DG-P027,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش عاصمة آيسلندا؟,الإجابة: ريكيافيك.,DG-P027,1,1,2214.97,week2-37-passages-screened-v1,ok
+DG-P028__msa,DG-P028,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما الاسم الشائع لدواء الباراسيتامول في الولايات المتحدة؟,الاسم الشائع لدواء الباراسيتامول في الولايات المتحدة هو **الباراسيتامول**.,,0,1,597.3,week2-37-passages-screened-v1,ok
+DG-P028__msa,DG-P028,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما الاسم الشائع لدواء الباراسيتامول في الولايات المتحدة؟,الأسيتامينوفين.,DG-P028,1,1,2421.95,week2-37-passages-screened-v1,ok
+DG-P028__jordanian,DG-P028,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو الاسم اللي بستعملوه بأمريكا للباراسيتامول؟,"الاسم هو ""أسيتامينوفين"".",,0,1,388.63,week2-37-passages-screened-v1,ok
+DG-P028__jordanian,DG-P028,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو الاسم اللي بستعملوه بأمريكا للباراسيتامول؟,لا أعرف.,DG-P017,1,1,2044.32,week2-37-passages-screened-v1,ok
+DG-P028__egyptian,DG-P028,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم اللي بيستخدموه في أمريكا للباراسيتامول؟,الاسم اللي بيستخدموه في أمريكا للباراسيتامول هو **البيبروفين**.,,0,1,594.44,week2-37-passages-screened-v1,ok
+DG-P028__egyptian,DG-P028,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم اللي بيستخدموه في أمريكا للباراسيتامول؟,لا أعرف.,DG-C059,1,1,2833.38,week2-37-passages-screened-v1,ok
+DG-P028__saudi,DG-P028,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الاسم المستخدم بأمريكا للباراسيتامول؟,"الاسم المستخدم للأمريكي للباراسيتامول هو ""إيبوبروفين"".",,0,1,532.58,week2-37-passages-screened-v1,ok
+DG-P028__saudi,DG-P028,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الاسم المستخدم بأمريكا للباراسيتامول؟,لا أعرف.,DG-P016,1,1,2279.35,week2-37-passages-screened-v1,ok
+DG-P029__msa,DG-P029,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما الاسم الآخر لمتلازمة داون المرتبط بالصبغيات؟,"اسم آخر لمتلازمة داون المرتبط بالصبغيات هو ""متلازمة داون الهرمونية"".",,0,1,638.15,week2-37-passages-screened-v1,ok
+DG-P029__msa,DG-P029,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما الاسم الآخر لمتلازمة داون المرتبط بالصبغيات؟,الاسم الآخر لمتلازمة داون المرتبط بالصبغيات هو تثلُّث الصبغي 21.,DG-P029,1,1,1827.14,week2-37-passages-screened-v1,ok
+DG-P029__jordanian,DG-P029,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,"الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات هو ""متلازمة كروموسوم 21"".",,0,1,685.42,week2-37-passages-screened-v1,ok
+DG-P029__jordanian,DG-P029,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,الإجابة: تثلُّث الصبغي 21.,DG-P029,1,1,1622.53,week2-37-passages-screened-v1,ok
+DG-P029__egyptian,DG-P029,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم التاني لمتلازمة داون المرتبط بالكروموسومات؟,"الاسم الآخر لمتلازمة داون المرتبط بالكروموسومات هو ""متلازمة كروموسوم 21"".",,0,1,689.74,week2-37-passages-screened-v1,ok
+DG-P029__egyptian,DG-P029,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم التاني لمتلازمة داون المرتبط بالكروموسومات؟,الإجابة: تثلُّث الصبغي 21.,DG-P029,1,1,1624.67,week2-37-passages-screened-v1,ok
+DG-P029__saudi,DG-P029,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,"الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات هو ""متلازمة كروموسوم 21"".",,0,1,686.06,week2-37-passages-screened-v1,ok
+DG-P029__saudi,DG-P029,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الاسم الثاني لمتلازمة داون المرتبط بالكروموسومات؟,الإجابة: تثلُّث الصبغي 21.,DG-P029,1,1,1632.83,week2-37-passages-screened-v1,ok
+DG-P030__msa,DG-P030,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كيف ينتقل مرض السل عادةً؟,يُنقل مرض السل عبر الجراثيم الموجودة في سوائل الجسم (مثل السوائل والدم) من شخص مريض إلى شخص آخر عبر التنفس.,,0,1,760.44,week2-37-passages-screened-v1,ok
+DG-P030__msa,DG-P030,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كيف ينتقل مرض السل عادةً؟,يُنقل مرض السل عادةً عبر الهواء عند انتقال رذاذ لعاب الأفراد المُصابين بعدوى السل النشطة عن طريق السعال أو العطس.,DG-P030,1,1,2795.46,week2-37-passages-screened-v1,ok
+DG-P030__jordanian,DG-P030,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كيف بينتقل مرض السل عادةً؟,يُنقل مرض السل عادةً عبر الجراثيم (البكتيريا) التي تنتقل من شخص مريض إلى شخص آخر عبر التنفس، عندما يتنفس الشخص المصابة، يُنشئ جراثيم السل في الهواء، ويمكن للأشخاص الذين يتنفسون في مجال ذلك أن ي Contractها.,,0,1,1297.81,week2-37-passages-screened-v1,ok
+DG-P030__jordanian,DG-P030,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كيف بينتقل مرض السل عادةً؟,يُنقل مرض السل عادةً عبر الهواء عند انتقال رذاذ لعاب الأفراد المُصابين بعدوى السل النشطة عن طريق السعال أو العطس.,DG-P030,1,1,2777.42,week2-37-passages-screened-v1,ok
+DG-P030__egyptian,DG-P030,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مرض السل بينتقل إزاي عادةً؟,يُنقل السل عادةً عبر التنفس، عندما يحتفظ الشخص المصاب بالقنب، يُنشر البكتيريا في الهواء، ويُستنشقها الآخرون.,,0,1,860.29,week2-37-passages-screened-v1,ok
+DG-P030__egyptian,DG-P030,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مرض السل بينتقل إزاي عادةً؟,يرتبط مرض السل بالانتقال عن طريق الهواء، حيث يُنقل عبر رذاذ اللعاب عند السعال أو العطس.,DG-P030,1,1,2580.67,week2-37-passages-screened-v1,ok
+DG-P030__saudi,DG-P030,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شلون ينتقل مرض السل عادةً؟,يُنقل مرض السل عبر التنفس، عندما يحتفظ الشخص المصابة بسلس، يُنشر البكتيريا في الهواء، ويُمكن أن يُبتلِي الآخرون عند التعرض لها.,,0,1,990.33,week2-37-passages-screened-v1,ok
+DG-P030__saudi,DG-P030,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شلون ينتقل مرض السل عادةً؟,يُنقل مرض السل عادةً عبر الهواء عند انتقال رذاذ لعاب الأفراد المُصابين بعدوى السل النشطة عن طريق السعال أو العطس.,DG-P030,1,1,2777.25,week2-37-passages-screened-v1,ok
+DG-C031__msa,DG-C031,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما اكثر القارات سكانا؟,القارة الأكبر في السكان هي أوروبا.,,0,1,404.12,week2-37-passages-screened-v1,ok
+DG-C031__msa,DG-C031,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما اكثر القارات سكانا؟,لا أعرف.,DG-C059,1,1,2832.91,week2-37-passages-screened-v1,ok
+DG-C031__jordanian,DG-C031,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو اكثر القارات سكانا؟,القارة الأكبر في السكان هي أوروبا.,,0,1,397.36,week2-37-passages-screened-v1,ok
+DG-C031__jordanian,DG-C031,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو اكثر القارات سكانا؟,لا أعرف.,DG-P002,1,1,2206.76,week2-37-passages-screened-v1,ok
+DG-C031__egyptian,DG-C031,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه اكثر القارات سكانا؟,القارة الأكبر في السكان هي أوروبا.,,0,1,398.59,week2-37-passages-screened-v1,ok
+DG-C031__egyptian,DG-C031,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه اكثر القارات سكانا؟,لا أعرف.,DG-C059,1,1,2840.9,week2-37-passages-screened-v1,ok
+DG-C031__saudi,DG-C031,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش اكثر القارات سكانا؟,القارة التي تحتوي على أكثر السكان هي القارة الآسيوية.,,0,1,461.2,week2-37-passages-screened-v1,ok
+DG-C031__saudi,DG-C031,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش اكثر القارات سكانا؟,لا أعرف.,DG-P002,1,1,2267.28,week2-37-passages-screened-v1,ok
+DG-C037__msa,DG-C037,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,طهران.,,0,1,268.88,week2-37-passages-screened-v1,ok
+DG-C037__msa,DG-C037,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,لا أعرف.,DG-C127,1,1,2287.4,week2-37-passages-screened-v1,ok
+DG-C037__jordanian,DG-C037,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,طهران.,,0,1,265.62,week2-37-passages-screened-v1,ok
+DG-C037__jordanian,DG-C037,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,لا أعرف.,DG-C127,1,1,2265.14,week2-37-passages-screened-v1,ok
+DG-C037__egyptian,DG-C037,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,طهران.,,0,1,265.34,week2-37-passages-screened-v1,ok
+DG-C037__egyptian,DG-C037,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,لا أعرف.,DG-C127,1,1,2270.66,week2-37-passages-screened-v1,ok
+DG-C037__saudi,DG-C037,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,طهران.,,0,1,264.49,week2-37-passages-screened-v1,ok
+DG-C037__saudi,DG-C037,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي عاصمة الجمهورية الإسلامية الإيرانية ؟,لا أعرف.,DG-C127,1,1,2276.55,week2-37-passages-screened-v1,ok
+DG-C038__msa,DG-C038,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد ابن خلدون؟,٣٧٠ هـ، أي ١٣٨٨ ميلادية.,,0,1,546.41,week2-37-passages-screened-v1,ok
+DG-C038__msa,DG-C038,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد ابن خلدون؟,لا أعرف.,DG-C119,1,1,2271.46,week2-37-passages-screened-v1,ok
+DG-C038__jordanian,DG-C038,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد ابن خلدون؟,2001.,,0,1,281.48,week2-37-passages-screened-v1,ok
+DG-C038__jordanian,DG-C038,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد ابن خلدون؟,لا أعرف.,DG-P010,1,1,2368.33,week2-37-passages-screened-v1,ok
+DG-C038__egyptian,DG-C038,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون اتولد سنة كام؟,ابن خلدون وُلد سنة 1304 م.,,0,1,440.55,week2-37-passages-screened-v1,ok
+DG-C038__egyptian,DG-C038,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ابن خلدون اتولد سنة كام؟,الإجابة: 1332 م.,DG-C038,1,1,2557.09,week2-37-passages-screened-v1,ok
+DG-C038__saudi,DG-C038,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة انولد ابن خلدون؟,21 يناير 1303.,,0,1,344.11,week2-37-passages-screened-v1,ok
+DG-C038__saudi,DG-C038,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة انولد ابن خلدون؟,لا أعرف.,DG-P010,1,1,2346.92,week2-37-passages-screened-v1,ok
+DG-C041__msa,DG-C041,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى سقطت دولة الأندلس؟,سقطت دولة الأندلس في عام 1461.,,0,1,428.72,week2-37-passages-screened-v1,ok
+DG-C041__msa,DG-C041,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى سقطت دولة الأندلس؟,لا أعرف.,DG-C050,1,1,2120.24,week2-37-passages-screened-v1,ok
+DG-C041__jordanian,DG-C041,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى سقطت دولة الأندلس؟,سقطت دولة الأندلس في عام 1461.,,0,1,426.79,week2-37-passages-screened-v1,ok
+DG-C041__jordanian,DG-C041,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى سقطت دولة الأندلس؟,لا أعرف.,DG-C050,1,1,2119.03,week2-37-passages-screened-v1,ok
+DG-C041__egyptian,DG-C041,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى سقطت دولة الأندلس؟,سقطت دولة الأندلس في عام 1461.,,0,1,430.84,week2-37-passages-screened-v1,ok
+DG-C041__egyptian,DG-C041,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى سقطت دولة الأندلس؟,لا أعرف.,DG-C050,1,1,2127.45,week2-37-passages-screened-v1,ok
+DG-C041__saudi,DG-C041,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى سقطت دولة الأندلس؟,سقطت دولة الأندلس في عام 1461.,,0,1,429.09,week2-37-passages-screened-v1,ok
+DG-C041__saudi,DG-C041,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى سقطت دولة الأندلس؟,لا أعرف.,DG-C050,1,1,2125.56,week2-37-passages-screened-v1,ok
+DG-C042__msa,DG-C042,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى خلف الاسكندر والده؟,أسكندر خلف والده في عام 324 ميلادية.,,0,1,457.14,week2-37-passages-screened-v1,ok
+DG-C042__msa,DG-C042,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى خلف الاسكندر والده؟,الإجابة: سنة 336 ق.م.,DG-C119,1,1,2427.94,week2-37-passages-screened-v1,ok
+DG-C042__jordanian,DG-C042,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى خلف الاسكندر والده؟,خلف أسكندر والده في عام 336 ق.م.,,0,1,450.11,week2-37-passages-screened-v1,ok
+DG-C042__jordanian,DG-C042,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى خلف الاسكندر والده؟,الإجابة: سنة 336 ق.م.,DG-C119,1,1,2436.91,week2-37-passages-screened-v1,ok
+DG-C042__egyptian,DG-C042,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى خلف الاسكندر والده؟,خلف أسكندر والده في عام 336 ق.م.,,0,1,447.23,week2-37-passages-screened-v1,ok
+DG-C042__egyptian,DG-C042,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى خلف الاسكندر والده؟,الإجابة: سنة 336 ق.م.,DG-C119,1,1,2461.9,week2-37-passages-screened-v1,ok
+DG-C042__saudi,DG-C042,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى خلف الاسكندر والده؟,أسكندر خلف والده في عام 324 ميلادية.,,0,1,463.91,week2-37-passages-screened-v1,ok
+DG-C042__saudi,DG-C042,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى خلف الاسكندر والده؟,الإجابة: سنة 336 ق.م.,DG-C119,1,1,2443.17,week2-37-passages-screened-v1,ok
+DG-C046__msa,DG-C046,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ وقع حادث جسر ماركو بولو الذي أدى إلى اندلاع الحرب الصينية اليابانية الثانية؟,حادث جسر ماركو بولو وقع في 28 يوليو 1931.,,0,1,527.77,week2-37-passages-screened-v1,ok
+DG-C046__msa,DG-C046,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي تاريخ وقع حادث جسر ماركو بولو الذي أدى إلى اندلاع الحرب الصينية اليابانية الثانية؟,لا أعرف.,DG-P006,1,1,2214.62,week2-37-passages-screened-v1,ok
+DG-C046__jordanian,DG-C046,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ صار حادث جسر ماركو بولو اللي أشعل الحرب الصينية اليابانية الثانية؟,الحادث الذي أثار الحرب الصينية اليابانية الثانية حدث في 28 يوليو 1931.,,0,1,579.18,week2-37-passages-screened-v1,ok
+DG-C046__jordanian,DG-C046,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي تاريخ صار حادث جسر ماركو بولو اللي أشعل الحرب الصينية اليابانية الثانية؟,لا أعرف.,DG-P006,1,1,2190.88,week2-37-passages-screened-v1,ok
+DG-C046__egyptian,DG-C046,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,حادثة جسر ماركو بولو اللي بدأت بعدها الحرب الصينية اليابانية التانية حصلت يوم كام؟,حادثة جسر ماركو بولو حدثت يوم 28 يوليو 1931.,,0,1,633.56,week2-37-passages-screened-v1,ok
+DG-C046__egyptian,DG-C046,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,حادثة جسر ماركو بولو اللي بدأت بعدها الحرب الصينية اليابانية التانية حصلت يوم كام؟,لا أعرف.,DG-P006,1,1,2202.09,week2-37-passages-screened-v1,ok
+DG-C046__saudi,DG-C046,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى صار حادث جسر ماركو بولو اللي بدأت بعده الحرب الصينية اليابانية الثانية؟,حادث جسر ماركو بولو حدث في 1931، وهو بداية الحرب الصينية اليابانية الثانية.,,0,1,655.61,week2-37-passages-screened-v1,ok
+DG-C046__saudi,DG-C046,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى صار حادث جسر ماركو بولو اللي بدأت بعده الحرب الصينية اليابانية الثانية؟,لا أعرف.,DG-P006,1,1,2194.56,week2-37-passages-screened-v1,ok
+DG-C048__msa,DG-C048,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى فتح العثمانيون القسطنطينية؟,العثمانيون فتحوا القسطنطينية في عام 1453 م.,,0,1,546.83,week2-37-passages-screened-v1,ok
+DG-C048__msa,DG-C048,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى فتح العثمانيون القسطنطينية؟,الإجابة: 1453م.,DG-P003,1,1,2566.6,week2-37-passages-screened-v1,ok
+DG-C048__jordanian,DG-C048,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى فتح العثمانيون القسطنطينية؟,العثمانيون فتحوا القسطنطينية في عام 1453 م.,,0,1,552.88,week2-37-passages-screened-v1,ok
+DG-C048__jordanian,DG-C048,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى فتح العثمانيون القسطنطينية؟,الإجابة: 1453م.,DG-P003,1,1,2566.41,week2-37-passages-screened-v1,ok
+DG-C048__egyptian,DG-C048,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى فتح العثمانيون القسطنطينية؟,العثمانيون فتحوا القسطنطينية في عام 1453 م.,,0,1,553.72,week2-37-passages-screened-v1,ok
+DG-C048__egyptian,DG-C048,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى فتح العثمانيون القسطنطينية؟,الإجابة: 1453م.,DG-P003,1,1,2562.06,week2-37-passages-screened-v1,ok
+DG-C048__saudi,DG-C048,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى فتح العثمانيون القسطنطينية؟,العثمانيون فتحوا القسطنطينية في عام 1453 م.,,0,1,549.84,week2-37-passages-screened-v1,ok
+DG-C048__saudi,DG-C048,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى فتح العثمانيون القسطنطينية؟,الإجابة: 1453م.,DG-P003,1,1,2557.18,week2-37-passages-screened-v1,ok
+DG-C050__msa,DG-C050,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من مؤسس الدولة السعودية الأولى؟,المؤسس للدولة السعودية الأولى هو Abdulaziz Al Saud.,,0,1,418.79,week2-37-passages-screened-v1,ok
+DG-C050__msa,DG-C050,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من مؤسس الدولة السعودية الأولى؟,الإجابة: الأمير محمد بن سعود.,DG-C050,1,1,2220.02,week2-37-passages-screened-v1,ok
+DG-C050__jordanian,DG-C050,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين مؤسس الدولة السعودية الأولى؟,المؤسس للدولة السعودية الأولى هو Abdulaziz Al Saud.,,0,1,415.1,week2-37-passages-screened-v1,ok
+DG-C050__jordanian,DG-C050,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين مؤسس الدولة السعودية الأولى؟,الأمير محمد بن سعود.,DG-C050,1,1,2151.56,week2-37-passages-screened-v1,ok
+DG-C050__egyptian,DG-C050,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين اللي أسس الدولة السعودية الأولى؟,الذي أسس الدولة السعودية الأولى هو عبد الله بن مهدي.,,0,1,427.68,week2-37-passages-screened-v1,ok
+DG-C050__egyptian,DG-C050,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين اللي أسس الدولة السعودية الأولى؟,الأمير محمد بن سعود.,DG-C050,1,1,2151.76,week2-37-passages-screened-v1,ok
+DG-C050__saudi,DG-C050,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين أسس الدولة السعودية الأولى؟,الدكتور خالد بن فهد آل سعود.,,0,1,397.3,week2-37-passages-screened-v1,ok
+DG-C050__saudi,DG-C050,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين أسس الدولة السعودية الأولى؟,الأمير محمد بن سعود.,DG-C050,1,1,2153.11,week2-37-passages-screened-v1,ok
+DG-C055__msa,DG-C055,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,المسلمون يطوفون على الكعبة في رحلة التروية، وهي تشمل الطقوس مثل: الدخول في المقدّس، والطواف حول الكعبة七مرات، والصلاة في المقدّس.,,0,1,1010.65,week2-37-passages-screened-v1,ok
+DG-C055__msa,DG-C055,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,لا أعرف.,DG-C050,1,1,2196.2,week2-37-passages-screened-v1,ok
+DG-C055__jordanian,DG-C055,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,المسلمون يطوفون على الكعبة في رحلة التروية، وهي تشمل الطقوس مثل: الدخول في المقدّس، والطواف حول الكعبة七مرات، والصلاة في المقدّس.,,0,1,1009.55,week2-37-passages-screened-v1,ok
+DG-C055__jordanian,DG-C055,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,لا أعرف.,DG-C050,1,1,2196.89,week2-37-passages-screened-v1,ok
+DG-C055__egyptian,DG-C055,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,المسلمون يطوفون على الكعبة في رحلة التروية، وهي تشمل الطقوس مثل: الدخول في المقدّس، والطواف حول الكعبة七مرات، والصلاة في المقدّس.,,0,1,1009.85,week2-37-passages-screened-v1,ok
+DG-C055__egyptian,DG-C055,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,لا أعرف.,DG-C050,1,1,2194.67,week2-37-passages-screened-v1,ok
+DG-C055__saudi,DG-C055,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,المسلمون يطوفون على الكعبة في رحلة التروية، وهي تشمل الطقوس مثل: الدخول في المقدّس، والطواف حول الكعبة七مرات، والصلاة في المقدّس.,,0,1,1007.15,week2-37-passages-screened-v1,ok
+DG-C055__saudi,DG-C055,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماهي الطقوس أو المناسك التي يطوف فيها المسلمون على الكعبة؟,لا أعرف.,DG-C050,1,1,2196.97,week2-37-passages-screened-v1,ok
+DG-C057__msa,DG-C057,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,من متى كان المغرب عضواً في الأمم المتحدة؟,المغرب عضو في الأمم المتحدة منذ 21 مايو 1963.,,0,1,487.13,week2-37-passages-screened-v1,ok
+DG-C057__msa,DG-C057,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,من متى كان المغرب عضواً في الأمم المتحدة؟,لا أعرف.,DG-C050,1,1,2120.27,week2-37-passages-screened-v1,ok
+DG-C057__jordanian,DG-C057,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,المغرب دخل في الأمم المتحدة في 14 يناير 1956.,,0,1,471.92,week2-37-passages-screened-v1,ok
+DG-C057__jordanian,DG-C057,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,لا أعرف.,DG-C127,1,1,2273.89,week2-37-passages-screened-v1,ok
+DG-C057__egyptian,DG-C057,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,المغرب دخل في الأمم المتحدة في 14 يناير 1956.,,0,1,473.23,week2-37-passages-screened-v1,ok
+DG-C057__egyptian,DG-C057,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,لا أعرف.,DG-C127,1,1,2276.58,week2-37-passages-screened-v1,ok
+DG-C057__saudi,DG-C057,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,المغرب دخل في الأمم المتحدة في 14 يناير 1956.,,0,1,472.58,week2-37-passages-screened-v1,ok
+DG-C057__saudi,DG-C057,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مين متى كان المغرب عضواً في الأمم المتحدة؟,لا أعرف.,DG-C127,1,1,2275.44,week2-37-passages-screened-v1,ok
+DG-C059__msa,DG-C059,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما الدولة التي تحد الولايات المتحدة من الشمال؟,الدولة التي تحد الولايات المتحدة من الشمال هي كندا.,,0,1,415.2,week2-37-passages-screened-v1,ok
+DG-C059__msa,DG-C059,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما الدولة التي تحد الولايات المتحدة من الشمال؟,الإجابة: كندا.,DG-C059,1,1,2939.14,week2-37-passages-screened-v1,ok
+DG-C059__jordanian,DG-C059,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أي دولة بتحد الولايات المتحدة من الشمال؟,الكاندا.,,0,1,288.04,week2-37-passages-screened-v1,ok
+DG-C059__jordanian,DG-C059,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أي دولة بتحد الولايات المتحدة من الشمال؟,الإجابة: كندا.,DG-C059,1,1,2917.93,week2-37-passages-screened-v1,ok
+DG-C059__egyptian,DG-C059,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة اللي على حدود أمريكا من الشمال؟,الدولة التي على حدود أمريكا من الشمال هي كندا.,,0,1,434.54,week2-37-passages-screened-v1,ok
+DG-C059__egyptian,DG-C059,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة اللي على حدود أمريكا من الشمال؟,الإجابة: كندا.,DG-C059,1,1,2914.95,week2-37-passages-screened-v1,ok
+DG-C059__saudi,DG-C059,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الدولة اللي تحد أمريكا من الشمال؟,الدولة اللي تحد أمريكا من الشمال هي كندا.,,0,1,416.68,week2-37-passages-screened-v1,ok
+DG-C059__saudi,DG-C059,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الدولة اللي تحد أمريكا من الشمال؟,الإجابة: كندا.,DG-C059,1,1,2914.91,week2-37-passages-screened-v1,ok
+DG-C060__msa,DG-C060,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم عدد المحافظات الإدارية في اليابان؟,1都府县。,,0,1,288.07,week2-37-passages-screened-v1,ok
+DG-C060__msa,DG-C060,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم عدد المحافظات الإدارية في اليابان؟,47.,DG-P016,1,1,2268.34,week2-37-passages-screened-v1,ok
+DG-C060__jordanian,DG-C060,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم محافظة إدارية باليابان؟,اليابان تحتوي على 83 محافظة إدارية.,,0,1,383.96,week2-37-passages-screened-v1,ok
+DG-C060__jordanian,DG-C060,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم محافظة إدارية باليابان؟,47.,DG-P016,1,1,2262.78,week2-37-passages-screened-v1,ok
+DG-C060__egyptian,DG-C060,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,اليابان فيها كام محافظة إدارية؟,اليابان تحتوي على 47 محافظة إدارية.,,0,1,385.55,week2-37-passages-screened-v1,ok
+DG-C060__egyptian,DG-C060,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,اليابان فيها كام محافظة إدارية؟,لا أعرف.,DG-C129,1,1,2279.12,week2-37-passages-screened-v1,ok
+DG-C060__saudi,DG-C060,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم عدد المحافظات الإدارية في اليابان؟,1都府县。,,0,1,282.78,week2-37-passages-screened-v1,ok
+DG-C060__saudi,DG-C060,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم عدد المحافظات الإدارية في اليابان؟,47.,DG-P016,1,1,2251.72,week2-37-passages-screened-v1,ok
+DG-C062__msa,DG-C062,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة تولّى بشار الأسد رئاسة سوريا؟,بشار الأسد تولى رئاسة سوريا في سنة 2000.,,0,1,502.81,week2-37-passages-screened-v1,ok
+DG-C062__msa,DG-C062,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة تولّى بشار الأسد رئاسة سوريا؟,2000.,DG-C062,1,1,2212.14,week2-37-passages-screened-v1,ok
+DG-C062__jordanian,DG-C062,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة صار بشار الأسد رئيس سوريا؟,بشار الأسد أصبح رئيسًا لسوريا في سنة 2011.,,0,1,472.4,week2-37-passages-screened-v1,ok
+DG-C062__jordanian,DG-C062,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة صار بشار الأسد رئيس سوريا؟,2000.,DG-C062,1,1,2211.88,week2-37-passages-screened-v1,ok
+DG-C062__egyptian,DG-C062,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بشار الأسد مسك رئاسة سوريا سنة كام؟,بشار الأسد انتخب رئاسة سوريا في عام 2011.,,0,1,502.81,week2-37-passages-screened-v1,ok
+DG-C062__egyptian,DG-C062,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بشار الأسد مسك رئاسة سوريا سنة كام؟,بشار الأسد مسك رئاسة سوريا من 17 يوليو 2000 حتى 8 ديسمبر 2024، أي لمدة 24 سنة.,DG-C062,1,1,2762.47,week2-37-passages-screened-v1,ok
+DG-C062__saudi,DG-C062,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة تولى بشار الأسد رئاسة سوريا؟,بشار الأسد تولى رئاسة سوريا في سنة 2011.,,0,1,508.76,week2-37-passages-screened-v1,ok
+DG-C062__saudi,DG-C062,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة تولى بشار الأسد رئاسة سوريا؟,2000.,DG-C062,1,1,2224.9,week2-37-passages-screened-v1,ok
+DG-C064__msa,DG-C064,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي قارة تقع بلجيكا؟,أوروبا.,,0,1,253.02,week2-37-passages-screened-v1,ok
+DG-C064__msa,DG-C064,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي قارة تقع بلجيكا؟,لا أعرف.,DG-P018,1,1,2105.55,week2-37-passages-screened-v1,ok
+DG-C064__jordanian,DG-C064,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بلجيكا بأي قارة؟,بلجيكا في أوروبا.,,0,1,324.48,week2-37-passages-screened-v1,ok
+DG-C064__jordanian,DG-C064,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بلجيكا بأي قارة؟,لا أعرف.,DG-P002,1,1,2108.33,week2-37-passages-screened-v1,ok
+DG-C064__egyptian,DG-C064,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بلجيكا في أنهي قارة؟,لا، بلجيكا ليست قارة.,,0,1,339.44,week2-37-passages-screened-v1,ok
+DG-C064__egyptian,DG-C064,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بلجيكا في أنهي قارة؟,لا أعرف.,DG-C081,1,1,2114.72,week2-37-passages-screened-v1,ok
+DG-C064__saudi,DG-C064,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بلجيكا في أي قارة؟,بلجيكا في أوروبا.,,0,1,325.4,week2-37-passages-screened-v1,ok
+DG-C064__saudi,DG-C064,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بلجيكا في أي قارة؟,لا أعرف.,DG-P002,1,1,2116.4,week2-37-passages-screened-v1,ok
+DG-C072__msa,DG-C072,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي صحيفة كتب جمال خاشقجي عموداً ابتداءً من عام 2017؟,"الصحفية: ""العربية"".",,0,1,358.75,week2-37-passages-screened-v1,ok
+DG-C072__msa,DG-C072,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي صحيفة كتب جمال خاشقجي عموداً ابتداءً من عام 2017؟,الواحدة.,DG-C072,1,1,2210.71,week2-37-passages-screened-v1,ok
+DG-C072__jordanian,DG-C072,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي صحيفة كان جمال خاشقجي يكتب عمود من سنة 2017؟,"الصحفية: ""العربية"".",,0,1,358.8,week2-37-passages-screened-v1,ok
+DG-C072__jordanian,DG-C072,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي صحيفة كان جمال خاشقجي يكتب عمود من سنة 2017؟,واشنطن بوست.,DG-C072,1,1,2133.41,week2-37-passages-screened-v1,ok
+DG-C072__egyptian,DG-C072,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي كان بيكتب عمود في أنهي جريدة من سنة 2017؟,"نعم، جمال خاشقجي كان يكتب عمودًا في جريدة ""المنار"" منذ عام 2017.",,0,1,670.38,week2-37-passages-screened-v1,ok
+DG-C072__egyptian,DG-C072,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,جمال خاشقجي كان بيكتب عمود في أنهي جريدة من سنة 2017؟,نعم.,DG-C072,1,1,2163.88,week2-37-passages-screened-v1,ok
+DG-C072__saudi,DG-C072,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي صحيفة كان جمال خاشقجي يكتب عمود من سنة 2017؟,"الصحفية: ""العربية"".",,0,1,358.1,week2-37-passages-screened-v1,ok
+DG-C072__saudi,DG-C072,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي صحيفة كان جمال خاشقجي يكتب عمود من سنة 2017؟,الواحدة.,DG-C072,1,1,2147.84,week2-37-passages-screened-v1,ok
+DG-C078__msa,DG-C078,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع سلطنة عُمان؟,"تقع سلطنة عُمان في جزء من آسيا يُسمى ""الخليج العربي"".",,0,1,610.55,week2-37-passages-screened-v1,ok
+DG-C078__msa,DG-C078,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع سلطنة عُمان؟,الربع الجنوبي الشرقي من شبه الجزيرة العربية.,DG-C078,1,1,2276.04,week2-37-passages-screened-v1,ok
+DG-C078__jordanian,DG-C078,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان بأي جزء من آسيا؟,سلطة عُمان جزء من آسيا، وتقع في جنوب شرق آسيا.,,0,1,598.24,week2-37-passages-screened-v1,ok
+DG-C078__jordanian,DG-C078,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان بأي جزء من آسيا؟,الإجابة: سلطنة عُمان تقع في جزء من آسيا، تحدها من الجنوب الشرقي مملكة Saudi Arabia.,DG-C127,1,1,2782.93,week2-37-passages-screened-v1,ok
+DG-C078__egyptian,DG-C078,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان موجودة في أنهي جزء من آسيا؟,نعم.,,0,1,244.36,week2-37-passages-screened-v1,ok
+DG-C078__egyptian,DG-C078,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان موجودة في أنهي جزء من آسيا؟,نعم.,DG-C127,1,1,2232.6,week2-37-passages-screened-v1,ok
+DG-C078__saudi,DG-C078,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان تقع في أي جزء من آسيا؟,سلطة عُمان تقع في جزء جنوب غرب آسيا.,,0,1,505.43,week2-37-passages-screened-v1,ok
+DG-C078__saudi,DG-C078,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,سلطنة عُمان تقع في أي جزء من آسيا؟,الجواب: غرب آسيا.,DG-C078,1,1,2236.69,week2-37-passages-screened-v1,ok
+DG-C081__msa,DG-C081,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة تقع مقرات السلطات الاتحادية السويسرية؟,تقع مقرات السلطات الاتحادية السويسرية في زورикو.,,0,1,490.79,week2-37-passages-screened-v1,ok
+DG-C081__msa,DG-C081,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة تقع مقرات السلطات الاتحادية السويسرية؟,المدينة: برن.,DG-C081,1,1,2136.69,week2-37-passages-screened-v1,ok
+DG-C081__jordanian,DG-C081,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة موجودة مقرات السلطات الاتحادية السويسرية؟,زورикز.,,0,1,283.86,week2-37-passages-screened-v1,ok
+DG-C081__jordanian,DG-C081,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة موجودة مقرات السلطات الاتحادية السويسرية؟,المدينة التي تقع فيها مقرات السلطات الاتحادية السويسرية هي برن.,DG-C081,1,1,2366.35,week2-37-passages-screened-v1,ok
+DG-C081__egyptian,DG-C081,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مقرات السلطات الفيدرالية السويسرية موجودة في أنهي مدينة؟,نعم، مقرات السلطات الفيدرالية السويسرية موجودة في مدينة برينس بولين.,,0,1,589.02,week2-37-passages-screened-v1,ok
+DG-C081__egyptian,DG-C081,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مقرات السلطات الفيدرالية السويسرية موجودة في أنهي مدينة؟,"نعم. الأدلة تقول: ""مع برن عاصمةً ومقراً للسلطات الاتحادية.""",DG-C081,1,1,2463.18,week2-37-passages-screened-v1,ok
+DG-C081__saudi,DG-C081,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,مقرات السلطات الاتحادية السويسرية في أي مدينة؟,مقر السلطات الاتحادية السويسرية في زورикوب.,,0,1,432.62,week2-37-passages-screened-v1,ok
+DG-C081__saudi,DG-C081,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,مقرات السلطات الاتحادية السويسرية في أي مدينة؟,المدينة التي تقع فيها مقرات السلطات الاتحادية السويسرية هي بيرن.,DG-C081,1,1,2393.78,week2-37-passages-screened-v1,ok
+DG-C082__msa,DG-C082,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما مهنة شيرين عبد الوهاب؟,مُغنيَة.,,0,1,303.1,week2-37-passages-screened-v1,ok
+DG-C082__msa,DG-C082,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما مهنة شيرين عبد الوهاب؟,لا أعرف.,DG-P017,1,1,2042.15,week2-37-passages-screened-v1,ok
+DG-C082__jordanian,DG-C082,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو مهنة شيرين عبد الوهاب؟,شيرين عبد الوهاب هي ممثلة وموسيقية عربية.,,0,1,475.96,week2-37-passages-screened-v1,ok
+DG-C082__jordanian,DG-C082,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو مهنة شيرين عبد الوهاب؟,لا أعرف.,DG-P017,1,1,2044.14,week2-37-passages-screened-v1,ok
+DG-C082__egyptian,DG-C082,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه مهنة شيرين عبد الوهاب؟,شيرين عبد الوهاب ممثلة وموسيقية.,,0,1,429.73,week2-37-passages-screened-v1,ok
+DG-C082__egyptian,DG-C082,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه مهنة شيرين عبد الوهاب؟,لا أعرف.,DG-C062,1,1,2200.82,week2-37-passages-screened-v1,ok
+DG-C082__saudi,DG-C082,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش مهنة شيرين عبد الوهاب؟,شيرين عبد الوهاب هي ممثلة وموسيقية عربية.,,0,1,474.52,week2-37-passages-screened-v1,ok
+DG-C082__saudi,DG-C082,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش مهنة شيرين عبد الوهاب؟,لا أعرف.,DG-P017,1,1,2049.49,week2-37-passages-screened-v1,ok
+DG-C095__msa,DG-C095,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة أصبحت القسطنطينية عاصمة للإمبراطورية العثمانية؟,١٤٥٣.,,0,1,341.85,week2-37-passages-screened-v1,ok
+DG-C095__msa,DG-C095,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة أصبحت القسطنطينية عاصمة للإمبراطورية العثمانية؟,لا أعرف.,DG-C119,1,1,2279.92,week2-37-passages-screened-v1,ok
+DG-C095__jordanian,DG-C095,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة صارت القسطنطينية عاصمة الدولة العثمانية؟,القسطنطينية صارت عاصمة الدولة العثمانية في السنة 1453.,,0,1,564.91,week2-37-passages-screened-v1,ok
+DG-C095__jordanian,DG-C095,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة صارت القسطنطينية عاصمة الدولة العثمانية؟,1453م.,DG-P003,1,1,2473.99,week2-37-passages-screened-v1,ok
+DG-C095__egyptian,DG-C095,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,القسطنطينية بقت عاصمة الدولة العثمانية سنة كام؟,القسطنطينية كانت عاصمة الدولة العثمانية سنة 1453.,,0,1,535.29,week2-37-passages-screened-v1,ok
+DG-C095__egyptian,DG-C095,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,القسطنطينية بقت عاصمة الدولة العثمانية سنة كام؟,لا أعرف.,DG-C119,1,1,2279.08,week2-37-passages-screened-v1,ok
+DG-C095__saudi,DG-C095,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة صارت القسطنطينية عاصمة للدولة العثمانية؟,١٤٥٣.,,0,1,343.38,week2-37-passages-screened-v1,ok
+DG-C095__saudi,DG-C095,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة صارت القسطنطينية عاصمة للدولة العثمانية؟,لا أعرف.,DG-C119,1,1,2279.13,week2-37-passages-screened-v1,ok
+DG-C096__msa,DG-C096,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي دولة أُقيم كأس العالم لكرة القدم عام 2006؟,أُقيم كأس العالم لكرة القدم عام 2006 في إيطاليا.,,0,1,502.92,week2-37-passages-screened-v1,ok
+DG-C096__msa,DG-C096,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي دولة أُقيم كأس العالم لكرة القدم عام 2006؟,لا أعرف.,DG-P018,1,1,2115.5,week2-37-passages-screened-v1,ok
+DG-C096__jordanian,DG-C096,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي دولة انعمل كأس العالم 2006؟,الدورة 2006 لدوري الكرة العالمى (كأس العالم) أُقيمت في ألمانيا.,,0,1,636.8,week2-37-passages-screened-v1,ok
+DG-C096__jordanian,DG-C096,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي دولة انعمل كأس العالم 2006؟,لا أعرف.,DG-P002,1,1,2117.86,week2-37-passages-screened-v1,ok
+DG-C096__egyptian,DG-C096,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كأس العالم سنة 2006 اتعمل في أنهي دولة؟,كأس العالم 2006 أُقيم في ألمانيا.,,0,1,444.57,week2-37-passages-screened-v1,ok
+DG-C096__egyptian,DG-C096,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كأس العالم سنة 2006 اتعمل في أنهي دولة؟,لا أعرف.,DG-C081,1,1,2115.76,week2-37-passages-screened-v1,ok
+DG-C096__saudi,DG-C096,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كأس العالم 2006 انقام في أي دولة؟,كأس العالم 2006 انقام في ألمانيا.,,0,1,429.43,week2-37-passages-screened-v1,ok
+DG-C096__saudi,DG-C096,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كأس العالم 2006 انقام في أي دولة؟,لا أعرف.,DG-P002,1,1,2120.52,week2-37-passages-screened-v1,ok
+DG-C097__msa,DG-C097,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,كرة القدم رياضة جماعية.,,0,1,357.39,week2-37-passages-screened-v1,ok
+DG-C097__msa,DG-C097,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,لا أعرف.,DG-P013,1,1,2119.51,week2-37-passages-screened-v1,ok
+DG-C097__jordanian,DG-C097,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,كرة القدم رياضة جماعية.,,0,1,356.48,week2-37-passages-screened-v1,ok
+DG-C097__jordanian,DG-C097,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,لا أعرف.,DG-P013,1,1,2118.93,week2-37-passages-screened-v1,ok
+DG-C097__egyptian,DG-C097,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,كرة القدم رياضة جماعية.,,0,1,355.24,week2-37-passages-screened-v1,ok
+DG-C097__egyptian,DG-C097,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,لا أعرف.,DG-P013,1,1,2118.55,week2-37-passages-screened-v1,ok
+DG-C097__saudi,DG-C097,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,كرة القدم رياضة جماعية.,,0,1,355.43,week2-37-passages-screened-v1,ok
+DG-C097__saudi,DG-C097,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,هل كرة القدم رياضة جماعية او فردية؟,لا أعرف.,DG-P013,1,1,2118.57,week2-37-passages-screened-v1,ok
+DG-C098__msa,DG-C098,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما الدولة الواقعة إلى الشمال الشرقي من لبنان؟,الدولة الواقعة إلى الشمال الشرقي من لبنان هي سويسرا.,,0,1,461.44,week2-37-passages-screened-v1,ok
+DG-C098__msa,DG-C098,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما الدولة الواقعة إلى الشمال الشرقي من لبنان؟,سوريا.,DG-C098,1,1,2179.0,week2-37-passages-screened-v1,ok
+DG-C098__jordanian,DG-C098,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أي دولة موجودة شمال شرق لبنان؟,سوريا.,,0,1,249.92,week2-37-passages-screened-v1,ok
+DG-C098__jordanian,DG-C098,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أي دولة موجودة شمال شرق لبنان؟,سوريا.,DG-C098,1,1,2081.18,week2-37-passages-screened-v1,ok
+DG-C098__egyptian,DG-C098,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة اللي شمال شرق لبنان؟,الدولة北方 الشرقية لليبيان هي إسرائيل.,,0,1,400.09,week2-37-passages-screened-v1,ok
+DG-C098__egyptian,DG-C098,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة اللي شمال شرق لبنان؟,الإجابة: سوريا.,DG-P012,1,1,2177.7,week2-37-passages-screened-v1,ok
+DG-C098__saudi,DG-C098,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الدولة اللي تقع شمال شرق لبنان؟,الدولة التي تقع شمال شرق لبنان هي سويسرا.,,0,1,427.64,week2-37-passages-screened-v1,ok
+DG-C098__saudi,DG-C098,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الدولة اللي تقع شمال شرق لبنان؟,الإجابة: سوريا.,DG-P012,1,1,2169.13,week2-37-passages-screened-v1,ok
+DG-C102__msa,DG-C102,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,بدأ حكم محمد علي باشا في مصر عام 1805.,,0,1,445.24,week2-37-passages-screened-v1,ok
+DG-C102__msa,DG-C102,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,لا أعرف.,DG-C050,1,1,2221.58,week2-37-passages-screened-v1,ok
+DG-C102__jordanian,DG-C102,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,بدأ حكم محمد علي باشا في مصر عام 1805.,,0,1,447.14,week2-37-passages-screened-v1,ok
+DG-C102__jordanian,DG-C102,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,لا أعرف.,DG-C050,1,1,2203.39,week2-37-passages-screened-v1,ok
+DG-C102__egyptian,DG-C102,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,بدأ حكم محمد علي باشا في مصر عام 1805.,,0,1,445.89,week2-37-passages-screened-v1,ok
+DG-C102__egyptian,DG-C102,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إمتى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,لا أعرف.,DG-C050,1,1,2194.79,week2-37-passages-screened-v1,ok
+DG-C102__saudi,DG-C102,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,بدأ حكم محمد علي باشا في مصر عام 1805.,,0,1,446.02,week2-37-passages-screened-v1,ok
+DG-C102__saudi,DG-C102,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,متى بدأ حكم محمد علي باشا المسعود بن ابراهيم آغا القوللي في مصر؟,لا أعرف.,DG-C050,1,1,2198.74,week2-37-passages-screened-v1,ok
+DG-C104__msa,DG-C104,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي اسم آخر تُعرف لوحة الموناليزا؟,"الوحة الموناليزا تُعرف أيضًا بـ ""الوحة الفيروزية"".",,0,1,564.63,week2-37-passages-screened-v1,ok
+DG-C104__msa,DG-C104,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي اسم آخر تُعرف لوحة الموناليزا؟,الجوكوندا.,DG-P022,1,1,2320.23,week2-37-passages-screened-v1,ok
+DG-C104__jordanian,DG-C104,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو الاسم الثاني للوحة الموناليزا؟,"الاسم الثاني للوحة الموناليزا هو ""اللهب الذهبي"".",,0,1,488.4,week2-37-passages-screened-v1,ok
+DG-C104__jordanian,DG-C104,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو الاسم الثاني للوحة الموناليزا؟,"الاسم الثاني للوحة الموناليزا هو ""La Gioconda"".",DG-P022,1,1,2479.95,week2-37-passages-screened-v1,ok
+DG-C104__egyptian,DG-C104,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم التاني للوحة الموناليزا؟,"الاسم التاني للوحة الموناليزا هو ""الصورة المجهولة"".",,0,1,506.87,week2-37-passages-screened-v1,ok
+DG-C104__egyptian,DG-C104,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الاسم التاني للوحة الموناليزا؟,"الاسم الآخر للوحة الموناليزا هو ""La Gioconda"".",DG-P022,1,1,2475.43,week2-37-passages-screened-v1,ok
+DG-C104__saudi,DG-C104,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الاسم الثاني للوحة الموناليزا؟,"الاسم الثاني للوحة الموناليزا هو ""الوحة الذهبيّة"".",,0,1,523.27,week2-37-passages-screened-v1,ok
+DG-C104__saudi,DG-C104,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الاسم الثاني للوحة الموناليزا؟,"الاسم الثاني للوحة الموناليزا هو ""La Gioconda"".",DG-P022,1,1,2478.69,week2-37-passages-screened-v1,ok
+DG-C106__msa,DG-C106,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد نجيب محفوظ؟,نجيب محفوظ وُلد في سنة 1921.,,0,1,451.81,week2-37-passages-screened-v1,ok
+DG-C106__msa,DG-C106,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة وُلد نجيب محفوظ؟,11 ديسمبر 1911.,DG-C106,1,1,2277.24,week2-37-passages-screened-v1,ok
+DG-C106__jordanian,DG-C106,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد نجيب محفوظ؟,1938.,,0,1,284.85,week2-37-passages-screened-v1,ok
+DG-C106__jordanian,DG-C106,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد نجيب محفوظ؟,لا أعرف.,DG-C062,1,1,2189.6,week2-37-passages-screened-v1,ok
+DG-C106__egyptian,DG-C106,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ اتولد سنة كام؟,نجيب محفوظ وُلد في سنة 1930.,,0,1,442.68,week2-37-passages-screened-v1,ok
+DG-C106__egyptian,DG-C106,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,نجيب محفوظ اتولد سنة كام؟,لا أعرف.,DG-P005,1,1,2283.18,week2-37-passages-screened-v1,ok
+DG-C106__saudi,DG-C106,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد نجيب محفوظ؟,1938.,,0,1,281.34,week2-37-passages-screened-v1,ok
+DG-C106__saudi,DG-C106,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة انولد نجيب محفوظ؟,لا أعرف.,DG-C062,1,1,2195.05,week2-37-passages-screened-v1,ok
+DG-C107__msa,DG-C107,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة تشكل منطقة الجزر الكاريبية الهولندية؟,6 جزيرة.,,0,1,283.29,week2-37-passages-screened-v1,ok
+DG-C107__msa,DG-C107,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة تشكل منطقة الجزر الكاريبية الهولندية؟,لا أعرف.,DG-P027,1,1,2115.09,week2-37-passages-screened-v1,ok
+DG-C107__jordanian,DG-C107,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة بتشكل الجزر الكاريبية الهولندية؟,٣ جزر.,,0,1,285.71,week2-37-passages-screened-v1,ok
+DG-C107__jordanian,DG-C107,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة بتشكل الجزر الكاريبية الهولندية؟,لا أعرف.,DG-P027,1,1,2122.87,week2-37-passages-screened-v1,ok
+DG-C107__egyptian,DG-C107,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الجزر الكاريبية الهولندية بتتكون من كام جزيرة؟,الجزر الكاريبية الهولندية تتكون من 3 جزر.,,0,1,488.6,week2-37-passages-screened-v1,ok
+DG-C107__egyptian,DG-C107,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الجزر الكاريبية الهولندية بتتكون من كام جزيرة؟,لا أعرف.,DG-P027,1,1,2126.78,week2-37-passages-screened-v1,ok
+DG-C107__saudi,DG-C107,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة تشكل الجزر الكاريبية الهولندية؟,٣ جزيرة.,,0,1,297.29,week2-37-passages-screened-v1,ok
+DG-C107__saudi,DG-C107,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,كم جزيرة تشكل الجزر الكاريبية الهولندية؟,لا أعرف.,DG-P027,1,1,2113.42,week2-37-passages-screened-v1,ok
+DG-C108__msa,DG-C108,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما المحيط الذي يحد آسيا من الجنوب؟,المحيط الذي يحد آسيا من الجنوب هو المحيط الهادئ.,,0,1,489.78,week2-37-passages-screened-v1,ok
+DG-C108__msa,DG-C108,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما المحيط الذي يحد آسيا من الجنوب؟,المحيط الذي يحد آسيا من الجنوب هو بحر العرب.,DG-C078,1,1,2311.73,week2-37-passages-screened-v1,ok
+DG-C108__jordanian,DG-C108,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أي محيط بحد آسيا من الجنوب؟,الحوض الذي يحيط بآسيا من الجنوب هو حوض المحيط الهادئ.,,0,1,553.52,week2-37-passages-screened-v1,ok
+DG-C108__jordanian,DG-C108,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أي محيط بحد آسيا من الجنوب؟,الإجابة: بحر العرب.,DG-C078,1,1,2202.48,week2-37-passages-screened-v1,ok
+DG-C108__egyptian,DG-C108,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه المحيط اللي بيحد آسيا من الجنوب؟,المحيط الذي يحيط بآسيا من الجنوب هو المحيط الهادئ.,,0,1,521.28,week2-37-passages-screened-v1,ok
+DG-C108__egyptian,DG-C108,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه المحيط اللي بيحد آسيا من الجنوب؟,البحر الذي يحد أسيا من الجنوب هو بحر العرب.,DG-C078,1,1,2300.48,week2-37-passages-screened-v1,ok
+DG-C108__saudi,DG-C108,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش المحيط اللي يحد آسيا من الجنوب؟,المحيط اللي يحد آسيا من الجنوب هو المحيط الهادئ.,,0,1,495.29,week2-37-passages-screened-v1,ok
+DG-C108__saudi,DG-C108,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش المحيط اللي يحد آسيا من الجنوب؟,المحيط الذي يحد آسيا من الجنوب هو بحر العرب.,DG-C078,1,1,2313.28,week2-37-passages-screened-v1,ok
+DG-C111__msa,DG-C111,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,,0,1,289.76,week2-37-passages-screened-v1,ok
+DG-C111__msa,DG-C111,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,DG-P010,1,1,2371.34,week2-37-passages-screened-v1,ok
+DG-C111__jordanian,DG-C111,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,,0,1,284.46,week2-37-passages-screened-v1,ok
+DG-C111__jordanian,DG-C111,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,DG-P010,1,1,2362.38,week2-37-passages-screened-v1,ok
+DG-C111__egyptian,DG-C111,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أينشتاين قدّم نظرية النسبية العامة سنة كام؟,أينشتاين قدّم نظرية النسبية العامة سنة 1915.,,0,1,533.7,week2-37-passages-screened-v1,ok
+DG-C111__egyptian,DG-C111,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أينشتاين قدّم نظرية النسبية العامة سنة كام؟,1915.,DG-P010,1,1,2368.52,week2-37-passages-screened-v1,ok
+DG-C111__saudi,DG-C111,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,,0,1,283.6,week2-37-passages-screened-v1,ok
+DG-C111__saudi,DG-C111,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة قدّم ألبرت أينشتاين نظرية النسبية العامة؟,1915.,DG-P010,1,1,2389.27,week2-37-passages-screened-v1,ok
+DG-C119__msa,DG-C119,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد الإسكندر الأكبر؟,أُولد الإسكندر الأكبر في مدينة غاريس.,,0,1,448.18,week2-37-passages-screened-v1,ok
+DG-C119__msa,DG-C119,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي مدينة وُلد الإسكندر الأكبر؟,الإجابة: مدينة پيلا.,DG-C119,1,1,2372.87,week2-37-passages-screened-v1,ok
+DG-C119__jordanian,DG-C119,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة انولد الإسكندر الأكبر؟,الإسكندر الأكبر لم يُعرف بانضمام إلى أي مدينة، بل كان يسافر في مسيرته العسكرية والسياسية.,,0,1,710.83,week2-37-passages-screened-v1,ok
+DG-C119__jordanian,DG-C119,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي مدينة انولد الإسكندر الأكبر؟,الإجابة: بابل.,DG-C119,1,1,2353.18,week2-37-passages-screened-v1,ok
+DG-C119__egyptian,DG-C119,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الإسكندر الأكبر اتولد في أنهي مدينة؟,"نعم، الإسكندر الأكبر وُلد في مدينة ""إليدا"" (Eridu) في بلاد ما وراء النهر.",,0,1,670.92,week2-37-passages-screened-v1,ok
+DG-C119__egyptian,DG-C119,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الإسكندر الأكبر اتولد في أنهي مدينة؟,نعم، الإسكندر الأكبر وُلد في مدينة **پيلا**.,DG-C119,1,1,2492.62,week2-37-passages-screened-v1,ok
+DG-C119__saudi,DG-C119,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,الإسكندر الأكبر انولد في أي مدينة؟,الإسكندر الأكبر وُلد في مدينة أرخميدوس.,,0,1,465.15,week2-37-passages-screened-v1,ok
+DG-C119__saudi,DG-C119,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,الإسكندر الأكبر انولد في أي مدينة؟,الإجابة: مدينة پيلا.,DG-C119,1,1,2353.83,week2-37-passages-screened-v1,ok
+DG-C121__msa,DG-C121,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ماذا يعد التهاب لبزائدة الدودية؟,التهاب لبزائدة الدودية هو انتكاسة مزمنة تؤدي إلى تلف في الجدار الداخلي للبزائدة، مما يسبب تسربًا للدم والسوائل.,,0,1,937.43,week2-37-passages-screened-v1,ok
+DG-C121__msa,DG-C121,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ماذا يعد التهاب لبزائدة الدودية؟,لا أعرف.,DG-P029,1,1,1420.73,week2-37-passages-screened-v1,ok
+DG-C121__jordanian,DG-C121,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو يعد التهاب لبزائدة الدودية؟,التهاب لبزائدة الدودية هو الالتهاب في الجزء الذي يربط بين المعدة والكبد.,,0,1,621.56,week2-37-passages-screened-v1,ok
+DG-C121__jordanian,DG-C121,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو يعد التهاب لبزائدة الدودية؟,لا أعرف.,DG-P017,1,1,2042.93,week2-37-passages-screened-v1,ok
+DG-C121__egyptian,DG-C121,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه يعد التهاب لبزائدة الدودية؟,التهاب لبزائدة الدودية هو انتفاخ أو احمرار في اللبزاء، وهو عادةً نتيجة لعدوى أو تهاب.,,0,1,800.03,week2-37-passages-screened-v1,ok
+DG-C121__egyptian,DG-C121,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه يعد التهاب لبزائدة الدودية؟,لا أعرف.,DG-P028,1,1,2278.66,week2-37-passages-screened-v1,ok
+DG-C121__saudi,DG-C121,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش يعد التهاب لبزائدة الدودية؟,التهاب لبزائدة الدودية هو انتفاخ أو احمرار في اللبزائدة الدودية، وهي جزء من الجهاز الهضمي، تحدث بسبب تهاب أو انسداد.,,0,1,977.41,week2-37-passages-screened-v1,ok
+DG-C121__saudi,DG-C121,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش يعد التهاب لبزائدة الدودية؟,لا أعرف.,DG-P028,1,1,2270.43,week2-37-passages-screened-v1,ok
+DG-C122__msa,DG-C122,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,أين نشبت الحرب العالمية الأولى في البداية؟,نشبت الحرب العالمية الأولى في 28 يوليو 1914، في بريستول، بولندا.,,0,1,607.32,week2-37-passages-screened-v1,ok
+DG-C122__msa,DG-C122,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,أين نشبت الحرب العالمية الأولى في البداية؟,في أوروبا.,DG-P005,1,1,2294.99,week2-37-passages-screened-v1,ok
+DG-C122__jordanian,DG-C122,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وين نشبت الحرب العالمية الأولى في البداية؟,نشبت الحرب العالمية الأولى في 28 يوليو 1914، عندما أُغُرِّقَتْ مَرَّةٌ أُولَى بَعْدَ مَرَّةٍ بَعْدَ مَرَّةٍ.,,0,1,1255.48,week2-37-passages-screened-v1,ok
+DG-C122__jordanian,DG-C122,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وين نشبت الحرب العالمية الأولى في البداية؟,نشبت الحرب العالمية الأولى في أوروبا.,DG-P005,1,1,2385.64,week2-37-passages-screened-v1,ok
+DG-C122__egyptian,DG-C122,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,فين نشبت الحرب العالمية الأولى في البداية؟,الحرب العالمية الأولى نشبت في 28 يوليو 1914، عندما قام القائد الأسترالي غارفيلد كينيث بقتل القائد الأردني بيل جونس في بريستول.,,0,1,987.01,week2-37-passages-screened-v1,ok
+DG-C122__egyptian,DG-C122,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,فين نشبت الحرب العالمية الأولى في البداية؟,في أوروبا.,DG-P005,1,1,2300.16,week2-37-passages-screened-v1,ok
+DG-C122__saudi,DG-C122,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وين نشبت الحرب العالمية الأولى في البداية؟,نشبت الحرب العالمية الأولى في 28 يوليو 1914، عندما أُغُرِّقَتْ مَرَّةٌ أُولَى بَعْدَ مَرَّةٍ بَعْدَ مَرَّةٍ.,,0,1,1249.34,week2-37-passages-screened-v1,ok
+DG-C122__saudi,DG-C122,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وين نشبت الحرب العالمية الأولى في البداية؟,نشبت الحرب العالمية الأولى في أوروبا.,DG-P005,1,1,2384.15,week2-37-passages-screened-v1,ok
+DG-C125__msa,DG-C125,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي سنة ضم العثمانيون مصر؟,1801.,,0,1,284.82,week2-37-passages-screened-v1,ok
+DG-C125__msa,DG-C125,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي سنة ضم العثمانيون مصر؟,لا أعرف.,DG-C050,1,1,2113.41,week2-37-passages-screened-v1,ok
+DG-C125__jordanian,DG-C125,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة العثمانيين ضمّوا مصر؟,العثمانيين ضمموا مصر سنة 1798.,,0,1,443.63,week2-37-passages-screened-v1,ok
+DG-C125__jordanian,DG-C125,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة العثمانيين ضمّوا مصر؟,لا أعرف.,DG-C050,1,1,2119.18,week2-37-passages-screened-v1,ok
+DG-C125__egyptian,DG-C125,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,العثمانيين ضمّوا مصر سنة كام؟,العثمانيين ضمّوا مصر سنة 1801.,,0,1,459.62,week2-37-passages-screened-v1,ok
+DG-C125__egyptian,DG-C125,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,العثمانيين ضمّوا مصر سنة كام؟,لا أعرف.,DG-C050,1,1,2121.84,week2-37-passages-screened-v1,ok
+DG-C125__saudi,DG-C125,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,بأي سنة العثمانيون ضمّوا مصر؟,١٨٠١.,,0,1,340.74,week2-37-passages-screened-v1,ok
+DG-C125__saudi,DG-C125,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,بأي سنة العثمانيون ضمّوا مصر؟,لا أعرف.,DG-C050,1,1,2122.54,week2-37-passages-screened-v1,ok
+DG-C127__msa,DG-C127,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع المملكة العربية السعودية؟,تقع المملكة العربية السعودية في جزء جنوب غرب آسيا.,,0,1,475.69,week2-37-passages-screened-v1,ok
+DG-C127__msa,DG-C127,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,في أي جزء من آسيا تقع المملكة العربية السعودية؟,الجواب: الجنوب الغربي من قارة آسيا.,DG-C127,1,1,2452.94,week2-37-passages-screened-v1,ok
+DG-C127__jordanian,DG-C127,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,السعودية بأي جزء من آسيا؟,سعودية جزء من آسيا.,,0,1,377.23,week2-37-passages-screened-v1,ok
+DG-C127__jordanian,DG-C127,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,السعودية بأي جزء من آسيا؟,السعودية تقع في الجنوب الغربي من قارة آسيا.,DG-C127,1,1,2495.84,week2-37-passages-screened-v1,ok
+DG-C127__egyptian,DG-C127,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,السعودية موجودة في أنهي جزء من آسيا؟,لا، السعودية لا توجد في نهاية جزء من آسيا.,,0,1,453.84,week2-37-passages-screened-v1,ok
+DG-C127__egyptian,DG-C127,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,السعودية موجودة في أنهي جزء من آسيا؟,نعم.,DG-C127,1,1,2245.33,week2-37-passages-screened-v1,ok
+DG-C127__saudi,DG-C127,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,السعودية تقع في أي جزء من آسيا؟,"سعودية تقع في جزء من آسيا يُعرف باسم ""الشرق الأوسط"".",,0,1,532.49,week2-37-passages-screened-v1,ok
+DG-C127__saudi,DG-C127,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,السعودية تقع في أي جزء من آسيا؟,السعودية تقع في الجنوب الغربي من قارة آسيا.,DG-C127,1,1,2490.61,week2-37-passages-screened-v1,ok
+DG-C129__msa,DG-C129,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما اسم جمهورية الصين الشعبية باللغة الصينية؟,الصين.,,0,1,273.34,week2-37-passages-screened-v1,ok
+DG-C129__msa,DG-C129,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما اسم جمهورية الصين الشعبية باللغة الصينية؟,الإجابة: جمهورية الصين الشعبية تُعرف رسمياً بالصينية المبسطة: 中华人民共和国.,DG-C129,1,1,2742.86,week2-37-passages-screened-v1,ok
+DG-C129__jordanian,DG-C129,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو اسم جمهورية الصين الشعبية باللغة الصينية؟,الصين.,,0,1,271.07,week2-37-passages-screened-v1,ok
+DG-C129__jordanian,DG-C129,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو اسم جمهورية الصين الشعبية باللغة الصينية؟,الإجابة: جمهورية الصين الشعبية تُعرف رسميًّا بالصينية المبسطة: 中华人民共和国.,DG-C129,1,1,2743.87,week2-37-passages-screened-v1,ok
+DG-C129__egyptian,DG-C129,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه اسم جمهورية الصين الشعبية باللغة الصينية؟,الصين.,,0,1,281.0,week2-37-passages-screened-v1,ok
+DG-C129__egyptian,DG-C129,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه اسم جمهورية الصين الشعبية باللغة الصينية؟,"الإجابة: جمهورية الصين الشعبية تُعرف رسميًّا باسم ""الصينية المبسطة: 中华人民共和国"" أو ""الصينية التقليدية: 中華人民共和國"".",DG-C129,1,1,3047.95,week2-37-passages-screened-v1,ok
+DG-C129__saudi,DG-C129,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش اسم جمهورية الصين الشعبية باللغة الصينية؟,"جمهورية الصين الشعبية تُ назى في اللغة الصينية ""中华人民共和国"".",,0,1,480.37,week2-37-passages-screened-v1,ok
+DG-C129__saudi,DG-C129,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش اسم جمهورية الصين الشعبية باللغة الصينية؟,الإجابة: جمهورية الصين الشعبية تُعرف رسميًّا بالصينية المبسطة: 中华人民共和国.,DG-C129,1,1,2736.76,week2-37-passages-screened-v1,ok
+DG-C130__msa,DG-C130,msa,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,ما الدولة التي تحد العراق من الشمال؟,الدولة التي تحد العراق من الشمال هي سوريا.,,0,1,374.28,week2-37-passages-screened-v1,ok
+DG-C130__msa,DG-C130,msa,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,ما الدولة التي تحد العراق من الشمال؟,المملكة السعودية.,DG-C127,1,1,2296.95,week2-37-passages-screened-v1,ok
+DG-C130__jordanian,DG-C130,jordanian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,شو الدولة التي تحد العراق من الشمال؟,الدولة التي تحد العراق من الشمال هي تركيا.,,0,1,370.79,week2-37-passages-screened-v1,ok
+DG-C130__jordanian,DG-C130,jordanian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,شو الدولة التي تحد العراق من الشمال؟,المملكة السعودية.,DG-C127,1,1,2302.09,week2-37-passages-screened-v1,ok
+DG-C130__egyptian,DG-C130,egyptian,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة التي تحد العراق من الشمال؟,الدولة التي تحد العراق من الشمال هي تركيا.,,0,1,375.92,week2-37-passages-screened-v1,ok
+DG-C130__egyptian,DG-C130,egyptian,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,إيه الدولة التي تحد العراق من الشمال؟,السعودية.,DG-C127,1,1,2301.37,week2-37-passages-screened-v1,ok
+DG-C130__saudi,DG-C130,saudi,dev,qwen_no_rag,mlx-community/Qwen3-4B-4bit,وش الدولة التي تحد العراق من الشمال؟,الدولة التي تحد العراق من الشمال هي تركيا.,,0,1,369.26,week2-37-passages-screened-v1,ok
+DG-C130__saudi,DG-C130,saudi,dev,qwen_with_rag,mlx-community/Qwen3-4B-4bit,وش الدولة التي تحد العراق من الشمال؟,المملكة السعودية.,DG-C127,1,1,2299.62,week2-37-passages-screened-v1,ok
